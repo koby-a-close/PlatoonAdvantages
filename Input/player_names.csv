@@ -1,0 +1,3079 @@
+﻿mlb_id,mlb_name,mlb_pos,mlb_team,mlb_team_long,bats,throws
+592091,A.J. Achter,P,LAA,Los Angeles Angels,R,R
+595918,A.J. Cole,P,CLE,Cleveland Indians,R,R
+454560,A.J. Ellis,C,SD,San Diego Padres,R,R
+456167,A.J. Griffin,P,TEX,Texas Rangers,R,R
+543362,A.J. Jimenez,C,TEX,Texas Rangers,R,R
+621345,A.J. Minter,P,ATL,Atlanta Braves,L,L
+571963,A.J. Morris,P,CIN,Cincinnati Reds,R,R
+572041,A.J. Pollock,CF,LAD,Los Angeles Dodgers,R,R
+640462,A.J. Puk,P,OAK,Oakland Athletics,L,L
+519263,A.J. Schugel,P,PIT,Pittsburgh Pirates,R,R
+571437,Aaron Altherr,CF,NYM,New York Mets,R,R
+502578,Aaron Barrett,P,WSH,Washington Nationals,R,R
+594760,Aaron Blair,P,ATL,Atlanta Braves,R,R
+605156,Aaron Brooks,P,BAL,Baltimore Orioles,R,R
+607481,Aaron Bummer,P,CWS,Chicago White Sox,L,L
+650644,Aaron Civale,P,CLE,Cleveland Indians,R,R
+543070,Aaron Crow,P,MIA,Miami Marlins,R,R
+488811,Aaron Cunningham,OF,CHC,Chicago Cubs,R,R
+421685,Aaron Harang,P,PHI,Philadelphia Phillies,R,R
+543305,Aaron Hicks,CF,NYY,New York Yankees,S,R
+431094,Aaron Hill,OF,SF,San Francisco Giants,R,R
+592450,Aaron Judge,RF,NYY,New York Yankees,R,R
+444836,Aaron Laffey,P,ARI,Arizona Diamondbacks,L,L
+571901,Aaron Loup,P,SD,San Diego Padres,L,L
+605400,Aaron Nola,P,PHI,Philadelphia Phillies,R,R
+519145,Aaron Poreda,P,TEX,Texas Rangers,L,L
+592717,Aaron Sanchez,P,HOU,Houston Astros,R,R
+642083,Aaron Slegers,P,TB,Tampa Bay Rays,R,R
+457744,Aaron Thompson,P,MIN,Minnesota Twins,L,L
+658792,Aaron Wilkerson,P,MIL,Milwaukee Brewers,R,R
+593582,Abel De Los Santos,P,LAA,Los Angeles Angels,R,R
+623214,Abiatal Avelino,SS,SF,San Francisco Giants,R,R
+501659,Abraham Almonte,OF,ARI,Arizona Diamondbacks,S,R
+647351,Abraham Toro,3B,HOU,Houston Astros,S,R
+606167,Adalberto Mejia,P,LAA,Los Angeles Angels,R,L
+609275,Adalberto Mondesi,SS,KC,Kansas City Royals,S,R
+643256,Adam Cimber,P,CLE,Cleveland Indians,R,R
+543045,Adam Conley,P,MIA,Miami Marlins,L,L
+594807,Adam Duvall,LF,ATL,Atlanta Braves,R,R
+594809,Adam Eaton,RF,WSH,Washington Nationals,L,L
+641553,Adam Engel,CF,CWS,Chicago White Sox,R,R
+624428,Adam Frazier,2B,PIT,Pittsburgh Pirates,L,R
+656514,Adam Haseley,CF,PHI,Philadelphia Phillies,L,L
+430945,Adam Jones,RF,ARI,Arizona Diamondbacks,R,R
+592473,Adam Kolarek,P,LAD,Los Angeles Dodgers,L,L
+425560,Adam LaRoche,DH,CWS,Chicago White Sox,L,L
+571893,Adam Liberatore,P,LAD,Los Angeles Dodgers,L,L
+452252,Adam Lind,1B,NYY,New York Yankees,L,L
+429400,Adam Loewen,P,ARI,Arizona Diamondbacks,L,L
+607030,Adam McCreery,P,LAA,Los Angeles Angels,L,L
+446192,Adam Moore,C,TEX,Texas Rangers,R,R
+605388,Adam Morgan,P,PHI,Philadelphia Phillies,L,L
+493603,Adam Ottavino,P,NYY,New York Yankees,S,R
+592644,Adam Plutko,P,CLE,Cleveland Indians,R,R
+489267,Adam Rosales,2B,MIN,Minnesota Twins,R,R
+425794,Adam Wainwright,P,STL,St. Louis Cardinals,R,R
+608724,Adam Walker,OF,BAL,Baltimore Orioles,R,R
+476589,Adam Warren,P,SD,San Diego Padres,R,R
+573244,Adam Wilk,P,MIN,Minnesota Twins,L,L
+640470,Adbert Alzolay,P,CHC,Chicago Cubs,R,R
+592665,Addison Reed,P,MIN,Minnesota Twins,L,R
+608365,Addison Russell,2B,CHC,Chicago Cubs,R,R
+588751,Adeiny Hechavarria,2B,ATL,Atlanta Braves,R,R
+666969,Adolis Garcia,RF,STL,St. Louis Cardinals,R,R
+611177,Adonis Garcia,3B,ATL,Atlanta Braves,R,R
+658431,Adonis Medina,P,PHI,Philadelphia Phillies,R,R
+134181,Adrian Beltre,3B,TEX,Texas Rangers,R,R
+408236,Adrian Gonzalez,1B,NYM,New York Mets,L,L
+605288,Adrian Houser,P,MIL,Milwaukee Brewers,R,R
+670970,Adrian Morejon,P,SD,San Diego Padres,L,L
+543589,Adrian Nieto,C,CWS,Chicago White Sox,S,R
+592716,Adrian Sampson,P,TEX,Texas Rangers,R,R
+506703,Adrian Sanchez,SS,WSH,Washington Nationals,R,R
+518545,Adron Chambers,OF,HOU,Houston Astros,L,L
+573109,AJ Ramos,P,NYM,New York Mets,R,R
+607223,AJ Reed,1B,CWS,Chicago White Sox,L,L
+592570,Akeel Morris,P,LAA,Los Angeles Angels,R,R
+456379,Al Alburquerque,P,CWS,Chicago White Sox,R,R
+641427,Alan Busenitz,P,MIN,Minnesota Twins,R,R
+656061,Albert Abreu,P,NYY,New York Yankees,R,R
+546991,Albert Almora Jr.,CF,CHC,Chicago Cubs,R,R
+405395,Albert Pujols,1B,LAA,Los Angeles Angels,R,R
+544150,Albert Suarez,P,ARI,Arizona Diamondbacks,R,R
+501227,Alberto Cabrera,P,CHC,Chicago Cubs,R,R
+430948,Alberto Callaspo,3B,LAD,Los Angeles Dodgers,S,R
+471868,Alberto Gonzalez,SS,NYY,New York Yankees,R,R
+451705,Alberto Rosario,C,STL,St. Louis Cardinals,R,R
+610143,Alberto Tirado,P,PHI,Philadelphia Phillies,R,R
+444876,Alcides Escobar,SS,BAL,Baltimore Orioles,R,R
+594742,Alec Asher,P,COL,Colorado Rockies,R,R
+621219,Alec Mills,P,CHC,Chicago Cubs,R,R
+649557,Aledmys Diaz,2B,HOU,Houston Astros,R,R
+591701,Alejandro Chacin,P,CIN,Cincinnati Reds,R,R
+457477,Alejandro De Aza,LF,WSH,Washington Nationals,L,L
+593700,Alen Hanson,2B,TOR,Toronto Blue Jays,S,R
+488671,Alex Avila,C,ARI,Arizona Diamondbacks,L,R
+607468,Alex Blandino,2B,CIN,Cincinnati Reds,R,R
+608324,Alex Bregman,3B,HOU,Houston Astros,R,R
+488751,Alex Burnett,P,CHC,Chicago Cubs,R,R
+543008,Alex Castellanos,RF,SD,San Diego Padres,R,R
+592222,Alex Claudio,P,MIL,Milwaukee Brewers,L,L
+502171,Alex Cobb,P,BAL,Baltimore Orioles,R,R
+517008,Alex Colome,P,CWS,Chicago White Sox,R,R
+543105,Alex Dickerson,LF,SF,San Francisco Giants,L,L
+460086,Alex Gordon,LF,KC,Kansas City Royals,L,R
+648717,Alex Guerrero,LF,LAD,Los Angeles Dodgers,R,R
+572910,Alex Hassan,RF,OAK,Oakland Athletics,R,R
+656577,Alex Jackson,C,ATL,Atlanta Braves,R,R
+621355,Alex Katz,P,CWS,Chicago White Sox,L,L
+499926,Alex Liddi,3B,BAL,Baltimore Orioles,R,R
+656725,Alex McRae,P,PIT,Pittsburgh Pirates,R,R
+622270,Alex Mejia,2B,STL,St. Louis Cardinals,R,R
+543542,Alex Meyer,P,LAA,Los Angeles Angels,R,R
+502100,Alex Presley,RF,DET,Detroit Tigers,L,L
+621052,Alex Reyes,P,STL,St. Louis Cardinals,R,R
+425567,Alex Rios,OF,KC,Kansas City Royals,R,R
+502253,Alex Sanabia,P,ARI,Arizona Diamondbacks,R,R
+456776,Alex Torres,P,ATL,Atlanta Braves,L,L
+657077,Alex Verdugo,CF,LAD,Los Angeles Dodgers,L,L
+502229,Alex White,P,HOU,Houston Astros,R,R
+543935,Alex Wilson,P,MIL,Milwaukee Brewers,R,R
+592872,Alex Wimmers,P,MIN,Minnesota Twins,L,R
+622072,Alex Wood,P,CIN,Cincinnati Reds,R,L
+622065,Alex Young,P,ARI,Arizona Diamondbacks,L,L
+493351,Alexei Ramirez,SS,TB,Tampa Bay Rays,R,R
+506560,Alexi Amarista,SS,DET,Detroit Tigers,L,R
+458210,Alexi Casilla,2B,TB,Tampa Bay Rays,S,R
+468396,Alexi Ogando,P,CLE,Cleveland Indians,R,R
+469686,Alfredo Aceves,P,NYY,New York Yankees,R,R
+451628,Alfredo Figaro,P,TEX,Texas Rangers,R,R
+554054,Alfredo Gonzalez,C,CWS,Chicago White Sox,R,R
+501245,Alfredo Marte,LF,BAL,Baltimore Orioles,R,R
+430580,Alfredo Simon,P,CIN,Cincinnati Reds,R,R
+455378,Ali Solis,C,LAD,Los Angeles Dodgers,R,R
+488852,Allan Dykstra,1B,TB,Tampa Bay Rays,L,R
+642707,Allen Cordoba,SS,SD,San Diego Padres,R,R
+501800,Allen Craig,1B,SD,San Diego Padres,R,R
+543903,Allen Webster,P,CHC,Chicago Cubs,R,R
+642708,Amed Rosario,SS,NYM,New York Mets,R,R
+607237,Amir Garrett,P,CIN,Cincinnati Reds,R,L
+659262,Anderson Espinoza,P,SD,San Diego Padres,R,R
+444843,Andre Ethier,OF,LAD,Los Angeles Dodgers,L,L
+516589,Andre Rienzo,P,MIA,Miami Marlins,R,R
+592743,Andrelton Simmons,SS,LAA,Los Angeles Angels,R,R
+433217,Andres Blanco,3B,PHI,Philadelphia Phillies,S,R
+600921,Andres Machado,P,KC,Kansas City Royals,R,R
+662253,Andres Munoz,P,SD,San Diego Padres,R,R
+400083,Andres Torres,OF,SF,San Francisco Giants,S,R
+452027,Andrew Albers,P,SEA,Seattle Mariners,R,L
+545331,Andrew Aplin,OF,SEA,Seattle Mariners,L,L
+457732,Andrew Bailey,P,LAA,Los Angeles Angels,R,R
+571479,Andrew Bellatti,P,TB,Tampa Bay Rays,R,R
+643217,Andrew Benintendi,LF,BOS,Boston Red Sox,L,L
+518500,Andrew Brown,OF,OAK,Oakland Athletics,R,R
+446398,Andrew Carignan,P,OAK,Oakland Athletics,R,R
+647188,Andrew Case,P,TOR,Toronto Blue Jays,R,R
+488768,Andrew Cashner,P,BOS,Boston Red Sox,R,R
+605177,Andrew Chafin,P,ARI,Arizona Diamondbacks,R,L
+643294,Andrew Edwards,P,KC,Kansas City Royals,R,R
+605226,Andrew Faulkner,P,BAL,Baltimore Orioles,R,L
+571760,Andrew Heaney,P,LAA,Los Angeles Angels,L,L
+552640,Andrew Kittredge,P,TB,Tampa Bay Rays,R,R
+595284,Andrew Knapp,C,PHI,Philadelphia Phillies,S,R
+668800,Andrew Knizner,C,STL,St. Louis Cardinals,R,R
+518911,Andrew Lambo,RF,OAK,Oakland Athletics,L,L
+457705,Andrew McCutchen,LF,PHI,Philadelphia Phillies,R,R
+605374,Andrew McKirahan,P,ATL,Atlanta Braves,R,L
+453192,Andrew Miller,P,STL,St. Louis Cardinals,L,L
+621058,Andrew Moore,P,SEA,Seattle Mariners,R,R
+461865,Andrew Romine,SS,PHI,Philadelphia Phillies,S,R
+664057,Andrew Stevenson,LF,WSH,Washington Nationals,L,L
+605498,Andrew Suarez,P,SF,San Francisco Giants,L,L
+572180,Andrew Susac,C,BAL,Baltimore Orioles,R,R
+476531,Andrew Taylor,P,LAA,Los Angeles Angels,R,L
+592808,Andrew Toles,LF,LAD,Los Angeles Dodgers,L,R
+592811,Andrew Triggs,P,OAK,Oakland Athletics,R,R
+607755,Andrew Vasquez,P,MIN,Minnesota Twins,L,L
+623205,Andrew Velazquez,3B,CLE,Cleveland Indians,S,R
+599819,Andrew Werner,P,OAK,Oakland Athletics,L,L
+524349,Andury Acevedo,P,CHC,Chicago Cubs,R,R
+542992,Andy Burns,2B,TOR,Toronto Blue Jays,R,R
+543108,Andy Dirks,LF,TOR,Toronto Blue Jays,L,L
+451188,Andy LaRoche,3B,CWS,Chicago White Sox,R,R
+429708,Andy Marte,3B,ARI,Arizona Diamondbacks,R,R
+501989,Andy Oliver,P,PHI,Philadelphia Phillies,L,L
+519107,Andy Parrino,SS,OAK,Oakland Athletics,S,R
+519421,Andy Wilkins,RF,MIL,Milwaukee Brewers,L,R
+606477,Aneury Tavarez,OF,BAL,Baltimore Orioles,L,R
+502162,Angel Castro,P,OAK,Oakland Athletics,R,R
+553970,Angel Nesbitt,P,DET,Detroit Tigers,R,R
+434636,Angel Pagan,OF,SF,San Francisco Giants,S,R
+605795,Angel Sanchez,P,PIT,Pittsburgh Pirates,R,R
+434671,Anibal Sanchez,P,WSH,Washington Nationals,R,R
+546990,Anthony Alford,CF,TOR,Toronto Blue Jays,R,R
+607455,Anthony Banda,P,TB,Tampa Bay Rays,L,L
+542914,Anthony Bass,P,SEA,Seattle Mariners,R,R
+621532,Anthony Bemboom,C,LAA,Los Angeles Angels,L,R
+543101,Anthony DeSclafani,P,CIN,Cincinnati Reds,R,R
+571685,Anthony Garcia,OF,STL,St. Louis Cardinals,R,R
+543238,Anthony Gose,P,HOU,Houston Astros,L,L
+641743,Anthony Kay,P,TOR,Toronto Blue Jays,L,L
+519168,Anthony Ranaudo,P,CWS,Chicago White Sox,R,R
+489232,Anthony Recker,C,MIN,Minnesota Twins,R,R
+543685,Anthony Rendon,3B,WSH,Washington Nationals,R,R
+519203,Anthony Rizzo,1B,CHC,Chicago Cubs,L,L
+623993,Anthony Santander,LF,BAL,Baltimore Orioles,S,R
+461872,Anthony Swarzak,P,ATL,Atlanta Braves,R,R
+460008,Anthony Varvaro,P,BOS,Boston Red Sox,R,R
+460322,Antoan Richardson,RF,TEX,Texas Rangers,S,R
+455374,Antonio Bastardo,P,ARI,Arizona Diamondbacks,R,L
+622608,Antonio Senzatela,P,COL,Colorado Rockies,R,R
+642667,Anyelo Gomez,P,ATL,Atlanta Braves,R,R
+605244,Aramis Garcia,C,SF,San Francisco Giants,R,R
+455376,Arcenio Leon,P,DET,Detroit Tigers,R,R
+605151,Archie Bradley,P,ARI,Arizona Diamondbacks,R,R
+554374,Ariel Hernandez,P,MIL,Milwaukee Brewers,R,R
+642558,Ariel Jurado,P,TEX,Texas Rangers,R,R
+664641,Ariel Miranda,P,SEA,Seattle Mariners,L,L
+516414,Ariel Pena,P,MIL,Milwaukee Brewers,R,R
+570489,Arismendy Alcantara,2B,CIN,Cincinnati Reds,S,R
+606157,Aristides Aquino,RF,CIN,Cincinnati Reds,R,R
+633831,Armando Rivero,P,ATL,Atlanta Braves,R,R
+642511,Arnaldo Hernandez,P,KC,Kansas City Royals,R,R
+504186,Arnold Leon,P,TOR,Toronto Blue Jays,R,R
+527055,Arodys Vizcaino,P,SEA,Seattle Mariners,R,R
+547973,Aroldis Chapman,P,NYY,New York Yankees,L,L
+491708,Arquimedes Caminero,P,SEA,Seattle Mariners,R,R
+660614,Arquimedes Gamboa,SS,PHI,Philadelphia Phillies,S,R
+605521,Art Warren,P,SEA,Seattle Mariners,R,R
+592499,Artie Lewicki,P,ARI,Arizona Diamondbacks,R,R
+452678,Asdrubal Cabrera,3B,WSH,Washington Nationals,S,R
+592879,Asher Wojciechowski,P,BAL,Baltimore Orioles,R,R
+572208,Ashur Tolliver,P,HOU,Houston Astros,L,L
+542233,Audry Perez,C,COL,Colorado Rockies,R,R
+657117,Austen Williams,P,WSH,Washington Nationals,R,R
+542866,Austin Adams,P,DET,Detroit Tigers,R,R
+613534,Austin Adams,P,SEA,Seattle Mariners,R,R
+664119,Austin Allen,C,SD,San Diego Padres,L,R
+605131,Austin Barnes,C,LAD,Los Angeles Dodgers,R,R
+502212,Austin Bibens-Dirkx,P,TEX,Texas Rangers,R,R
+592169,Austin Brice,P,MIA,Miami Marlins,R,R
+656354,Austin Davis,P,PHI,Philadelphia Phillies,L,L
+621573,Austin Dean,LF,MIA,Miami Marlins,R,R
+596295,Austin Gomber,P,STL,St. Louis Cardinals,L,L
+669720,Austin Hays,RF,BAL,Baltimore Orioles,R,R
+595978,Austin Hedges,C,SD,San Diego Padres,R,R
+457706,Austin Jackson,CF,NYM,New York Mets,R,R
+400290,Austin Kearns,OF,MIA,Miami Marlins,R,R
+545348,Austin Maddox,P,BOS,Boston Red Sox,R,R
+640457,Austin Meadows,RF,TB,Tampa Bay Rays,L,L
+543592,Austin Nola,1B,SEA,Seattle Mariners,R,R
+664197,Austin Orewiler,P,CIN,Cincinnati Reds,R,R
+643493,Austin Pruitt,P,TB,Tampa Bay Rays,R,R
+663586,Austin Riley,LF,ATL,Atlanta Braves,R,R
+519222,Austin Romine,C,NYY,New York Yankees,R,R
+592697,Austin Ross,P,MIL,Milwaukee Brewers,L,R
+596103,Austin Slater,LF,SF,San Francisco Giants,R,R
+608723,Austin Voth,P,WSH,Washington Nationals,R,R
+642851,Austin Wynns,C,BAL,Baltimore Orioles,R,R
+541645,Avisail Garcia,RF,TB,Tampa Bay Rays,R,R
+543725,B.J. Rosenberg,P,PHI,Philadelphia Phillies,R,R
+425834,B.J. Upton,LF,CLE,Cleveland Indians,R,R
+592120,Barrett Astin,P,CIN,Cincinnati Reds,R,R
+446264,Barry Enright,P,LAA,Los Angeles Angels,R,R
+112526,Bartolo Colon,P,TEX,Texas Rangers,R,R
+607333,Beau Taylor,C,OAK,Oakland Athletics,L,R
+450204,Ben Francisco,LF,ARI,Arizona Diamondbacks,R,R
+592325,Ben Gamel,LF,MIL,Milwaukee Brewers,L,L
+621294,Ben Heller,P,NYY,New York Yankees,R,R
+594902,Ben Lively,P,ARI,Arizona Diamondbacks,R,R
+656738,Ben Meyer,P,MIA,Miami Marlins,R,R
+572019,Ben Paulsen,1B,COL,Colorado Rockies,L,R
+519184,Ben Revere,LF,CIN,Cincinnati Reds,L,R
+594985,Ben Rowen,P,MIL,Milwaukee Brewers,R,R
+664701,Ben Taylor,P,CLE,Cleveland Indians,R,R
+450314,Ben Zobrist,RF,CHC,Chicago Cubs,S,R
+435538,Bill Bray,P,CIN,Cincinnati Reds,L,L
+434438,Billy Buckner,P,SD,San Diego Padres,R,R
+542993,Billy Burns,CF,KC,Kansas City Royals,S,R
+456714,Billy Butler,DH,NYY,New York Yankees,R,R
+571740,Billy Hamilton,CF,ATL,Atlanta Braves,S,R
+641856,Billy McKinney,LF,TOR,Toronto Blue Jays,L,L
+430641,Blaine Boyer,P,KC,Kansas City Royals,R,R
+543278,Blaine Hardy,P,DET,Detroit Tigers,L,L
+518444,Blake Beavan,P,SEA,Seattle Mariners,R,R
+503351,Blake Lalli,1B,ATL,Atlanta Braves,L,R
+607962,Blake McFarland,P,TOR,Toronto Blue Jays,R,R
+453284,Blake Parker,P,PHI,Philadelphia Phillies,R,R
+544930,Blake Smith,P,CWS,Chicago White Sox,L,R
+605483,Blake Snell,P,TB,Tampa Bay Rays,L,L
+596119,Blake Swihart,LF,ARI,Arizona Diamondbacks,S,R
+493574,Blake Tekotte,RF,CWS,Chicago White Sox,L,R
+664167,Blake Trahan,SS,CIN,Cincinnati Reds,R,R
+595014,Blake Treinen,P,OAK,Oakland Athletics,R,R
+502028,Blake Wood,P,LAA,Los Angeles Angels,R,R
+666182,Bo Bichette,SS,TOR,Toronto Blue Jays,R,R
+544759,Bo Schultz,P,BAL,Baltimore Orioles,R,R
+649963,Bo Takahashi,P,ARI,Arizona Diamondbacks,R,R
+656252,Bobby Bradley,1B,CLE,Cleveland Indians,L,R
+445090,Bobby Korecky,P,TOR,Toronto Blue Jays,R,R
+489039,Bobby LaFromboise,P,PHI,Philadelphia Phillies,L,L
+458730,Bobby Parnell,P,DET,Detroit Tigers,R,R
+596074,Bobby Poyner,P,BOS,Boston Red Sox,L,L
+592833,Bobby Wahl,P,MIL,Milwaukee Brewers,R,R
+435064,Bobby Wilson,C,DET,Detroit Tigers,R,R
+621471,Boog Powell,CF,OAK,Oakland Athletics,L,L
+457429,Boone Logan,P,MIL,Milwaukee Brewers,R,L
+502202,Brad Boxberger,P,KC,Kansas City Royals,R,R
+542960,Brad Brach,P,NYM,New York Mets,R,R
+543223,Brad Glenn,RF,TOR,Toronto Blue Jays,R,R
+643329,Brad Goldberg,P,ARI,Arizona Diamondbacks,R,R
+543272,Brad Hand,P,CLE,Cleveland Indians,L,L
+641745,Brad Keller,P,KC,Kansas City Royals,R,R
+453184,Brad Lincoln,P,PHI,Philadelphia Phillies,L,R
+543543,Brad Miller,2B,PHI,Philadelphia Phillies,L,R
+502166,Brad Mills,P,OAK,Oakland Athletics,R,L
+502748,Brad Peacock,P,HOU,Houston Astros,R,R
+430957,Brad Snyder,1B,TEX,Texas Rangers,L,L
+623364,Brad Wieck,P,CHC,Chicago Cubs,L,L
+446899,Brad Ziegler,P,ARI,Arizona Diamondbacks,R,R
+623323,Braden Bishop,CF,SEA,Seattle Mariners,R,R
+640463,Braden Shipley,P,ARI,Arizona Diamondbacks,R,R
+543266,Bradin Hagens,P,ARI,Arizona Diamondbacks,R,R
+605548,Bradley Zimmer,CF,CLE,Cleveland Indians,L,R
+607170,Brady Dragmire,P,TEX,Texas Rangers,R,R
+621078,Brady Lail,P,NYY,New York Yankees,R,R
+572086,Brady Rodgers,P,HOU,Houston Astros,R,R
+571858,Branden Kline,P,BAL,Baltimore Orioles,R,R
+572038,Branden Pinder,P,NYY,New York Yankees,R,R
+450315,Brandon Allen,1B,CIN,Cincinnati Reds,L,R
+572702,Brandon Bantz,C,SEA,Seattle Mariners,R,R
+488681,Brandon Barnes,OF,CLE,Cleveland Indians,R,R
+545404,Brandon Beachy,P,LAD,Los Angeles Dodgers,R,R
+474832,Brandon Belt,1B,SF,San Francisco Giants,L,L
+592165,Brandon Brennan,P,SEA,Seattle Mariners,R,R
+543063,Brandon Crawford,SS,SF,San Francisco Giants,L,R
+592238,Brandon Cumpton,P,TOR,Toronto Blue Jays,R,R
+594792,Brandon Cunniff,P,ATL,Atlanta Braves,R,R
+641525,Brandon Dixon,1B,DET,Detroit Tigers,R,R
+592273,Brandon Drury,3B,TOR,Toronto Blue Jays,R,R
+605232,Brandon Finnegan,P,CIN,Cincinnati Reds,L,L
+460156,Brandon Gomes,P,TB,Tampa Bay Rays,R,R
+446386,Brandon Guyer,OF,CWS,Chicago White Sox,R,R
+518794,Brandon Hicks,2B,SF,San Francisco Giants,R,R
+276346,Brandon Inge,3B,PIT,Pittsburgh Pirates,R,R
+445213,Brandon Kintzler,P,CHC,Chicago Cubs,R,R
+477186,Brandon Laird,3B,KC,Kansas City Royals,R,R
+434181,Brandon League,P,LAD,Los Angeles Dodgers,R,R
+664040,Brandon Lowe,2B,TB,Tampa Bay Rays,L,R
+407193,Brandon Lyon,P,NYM,New York Mets,R,R
+448167,Brandon Mann,P,TEX,Texas Rangers,L,L
+543506,Brandon Maurer,P,KC,Kansas City Royals,R,R
+435221,Brandon McCarthy,P,ATL,Atlanta Braves,R,R
+453344,Brandon Morrow,P,CHC,Chicago Cubs,R,R
+461235,Brandon Moss,DH,OAK,Oakland Athletics,L,R
+607043,Brandon Nimmo,CF,NYM,New York Mets,L,R
+408252,Brandon Phillips,2B,BOS,Boston Red Sox,R,R
+474319,Brandon Snyder,1B,TB,Tampa Bay Rays,R,R
+605540,Brandon Woodruff,P,MIL,Milwaukee Brewers,L,R
+519443,Brandon Workman,P,BOS,Boston Red Sox,R,R
+657658,Braxton Lee,CF,MIA,Miami Marlins,L,R
+430910,Brayan Pena,C,STL,St. Louis Cardinals,S,R
+500903,Brayan Villarreal,P,BOS,Boston Red Sox,R,R
+670283,Brayden Bouchey,P,TOR,Toronto Blue Jays,R,R
+430593,Brendan Harris,SS,LAA,Los Angeles Angels,R,R
+656713,Brendan McKay,P,TB,Tampa Bay Rays,L,L
+663898,Brendan Rodgers,2B,COL,Colorado Rockies,R,R
+453895,Brendan Ryan,SS,LAA,Los Angeles Angels,R,R
+453269,Brennan Boesch,RF,CIN,Cincinnati Reds,L,L
+641703,Brent Honeywell Jr.,P,TB,Tampa Bay Rays,R,R
+452121,Brent Lillibridge,3B,NYY,New York Yankees,R,R
+543569,Brent Morel,3B,PIT,Pittsburgh Pirates,R,R
+608718,Brent Suter,P,MIL,Milwaukee Brewers,L,L
+474463,Brett Anderson,P,OAK,Oakland Athletics,L,L
+594762,Brett Bochy,P,SF,San Francisco Giants,R,R
+448276,Brett Carroll,RF,WSH,Washington Nationals,R,R
+446399,Brett Cecil,P,STL,St. Louis Cardinals,R,L
+518649,Brett Eibner,P,TEX,Texas Rangers,R,R
+458731,Brett Gardner,CF,NYY,New York Yankees,L,L
+605255,Brett Graves,P,MIA,Miami Marlins,R,R
+451109,Brett Hayes,C,CLE,Cleveland Indians,R,R
+571804,Brett Jackson,CF,ARI,Arizona Diamondbacks,L,R
+664028,Brett Kennedy,P,SD,San Diego Padres,R,R
+543434,Brett Lawrie,2B,CWS,Chicago White Sox,R,R
+543493,Brett Marshall,P,CIN,Cincinnati Reds,R,R
+656685,Brett Martin,P,TEX,Texas Rangers,L,L
+592592,Brett Nicholas,C,TEX,Texas Rangers,L,R
+519085,Brett Oberholtzer,P,TOR,Toronto Blue Jays,L,L
+621433,Brett Phillips,RF,KC,Kansas City Royals,L,R
+489209,Brett Pill,1B,SF,San Francisco Giants,R,R
+477165,Brett Wallace,3B,SD,San Diego Padres,L,R
+591971,Breyvic Valera,2B,TOR,Toronto Blue Jays,S,R
+605119,Brian Anderson,3B,MIA,Miami Marlins,R,R
+444448,Brian Bixler,2B,HOU,Houston Astros,R,R
+460131,Brian Bogusevic,LF,PHI,Philadelphia Phillies,L,L
+572821,Brian Dozier,2B,WSH,Washington Nationals,R,R
+488846,Brian Duensing,P,CHC,Chicago Cubs,L,L
+623395,Brian Ellington,P,MIA,Miami Marlins,R,R
+543169,Brian Flynn,P,KC,Kansas City Royals,L,L
+571718,Brian Goodwin,LF,LAA,Los Angeles Angels,L,R
+598271,Brian Johnson,P,BOS,Boston Red Sox,L,L
+451085,Brian Matusz,P,CHC,Chicago Cubs,L,L
+435263,Brian McCann,C,ATL,Atlanta Braves,L,R
+572383,Brian Moran,P,MIA,Miami Marlins,L,L
+657434,Brian O'Grady,1B,CIN,Cincinnati Reds,L,R
+406878,Brian Roberts,2B,NYY,New York Yankees,S,R
+489295,Brian Schlitter,P,OAK,Oakland Athletics,R,R
+451216,Brian Wilson,P,LAD,Los Angeles Dodgers,R,R
+656271,Brock Burke,P,TEX,Texas Rangers,L,L
+571788,Brock Holt,2B,BOS,Boston Red Sox,L,R
+453857,Brock Peterson,1B,WSH,Washington Nationals,R,R
+595426,Brock Stassi,1B,PHI,Philadelphia Phillies,L,L
+592779,Brock Stewart,P,TOR,Toronto Blue Jays,L,R
+276520,Bronson Arroyo,P,CIN,Cincinnati Reds,R,R
+453156,Brooks Brown,P,LAD,Los Angeles Dodgers,L,R
+462405,Brooks Conrad,2B,SD,San Diego Padres,S,R
+572044,Brooks Pounders,P,NYM,New York Mets,R,R
+548384,Brooks Raley,P,LAA,Los Angeles Angels,L,L
+501852,Bruce Billings,P,NYY,New York Yankees,R,R
+622194,Bruce Maxwell,C,OAK,Oakland Athletics,L,R
+541652,Bruce Rondon,P,CWS,Chicago White Sox,R,R
+660813,Brusdar Graterol,P,MIN,Minnesota Twins,R,R
+650556,Bryan Abreu,P,HOU,Houston Astros,R,R
+457762,Bryan Anderson,C,OAK,Oakland Athletics,L,R
+650530,Bryan Garcia,P,DET,Detroit Tigers,R,R
+592407,Bryan Holaday,C,MIA,Miami Marlins,R,R
+571951,Bryan Mitchell,P,SD,San Diego Padres,L,R
+457768,Bryan Morris,P,SF,San Francisco Giants,L,R
+519128,Bryan Petersen,LF,MIA,Miami Marlins,L,R
+458669,Bryan Price,P,CLE,Cleveland Indians,R,R
+668804,Bryan Reynolds,LF,PIT,Pittsburgh Pirates,S,R
+543766,Bryan Shaw,P,COL,Colorado Rockies,S,R
+518490,Bryce Brentz,LF,NYM,New York Mets,R,R
+547180,Bryce Harper,RF,PHI,Philadelphia Phillies,L,R
+681991,Bryce Hensley,P,KC,Kansas City Royals,L,L
+669060,Bryse Wilson,P,ATL,Atlanta Braves,R,R
+605490,Bubba Starling,CF,KC,Kansas City Royals,R,R
+571656,Buck Farmer,P,DET,Detroit Tigers,L,R
+502032,Bud Norris,P,STL,St. Louis Cardinals,R,R
+571473,Buddy Baumann,P,NYM,New York Mets,L,L
+542953,Buddy Boshers,P,TOR,Toronto Blue Jays,L,L
+572143,Burch Smith,P,SF,San Francisco Giants,R,R
+488674,Burke Badenhop,P,WSH,Washington Nationals,R,R
+457763,Buster Posey,C,SF,San Francisco Giants,R,R
+621439,Byron Buxton,CF,MIN,Minnesota Twins,R,R
+666560,ByungHo Park,DH,MIN,Minnesota Twins,R,R
+547348,C.C. Lee,P,CLE,Cleveland Indians,R,R
+543068,C.J. Cron,1B,MIN,Minnesota Twins,R,R
+518674,C.J. Fick,P,HOU,Houston Astros,R,R
+592677,C.J. Riefenhauser,P,CHC,Chicago Cubs,L,L
+450351,C.J. Wilson,P,LAA,Los Angeles Angels,L,L
+615698,Cal Quantrill,P,SD,San Diego Padres,L,R
+571584,Caleb Cotham,P,CIN,Cincinnati Reds,R,R
+657571,Caleb Ferguson,P,LAD,Los Angeles Dodgers,R,L
+621350,Caleb Frare,P,CWS,Chicago White Sox,L,L
+518725,Caleb Gindl,RF,MIL,Milwaukee Brewers,L,L
+543376,Caleb Joseph,C,ARI,Arizona Diamondbacks,R,R
+592761,Caleb Smith,P,MIA,Miami Marlins,R,L
+573204,Caleb Thielbar,P,DET,Detroit Tigers,R,L
+592135,Cam Bedrosian,P,LAA,Los Angeles Angels,R,R
+595956,Cam Gallagher,C,KC,Kansas City Royals,R,R
+457727,Cameron Maybin,LF,NYY,New York Yankees,R,R
+573088,Cameron Perkins,CF,SEA,Seattle Mariners,R,R
+519237,Cameron Rupp,C,SF,San Francisco Giants,R,R
+408307,Carl Crawford,OF,LAD,Los Angeles Dodgers,L,L
+605218,Carl Edwards Jr.,P,SD,San Diego Padres,R,R
+641319,Carlos Asuaje,2B,TEX,Texas Rangers,L,R
+136860,Carlos Beltran,DH,HOU,Houston Astros,S,R
+471911,Carlos Carrasco,P,CLE,Cleveland Indians,R,R
+542266,Carlos Contreras,P,CIN,Cincinnati Reds,R,R
+449786,Carlos Corporan,C,NYY,New York Yankees,S,R
+621043,Carlos Correa,SS,HOU,Houston Astros,R,R
+608032,Carlos Estevez,P,COL,Colorado Rockies,R,R
+516910,Carlos Frias,P,CLE,Cleveland Indians,R,R
+460576,Carlos Gomez,RF,NYM,New York Mets,R,R
+471865,Carlos Gonzalez,RF,CHC,Chicago Cubs,L,L
+461791,Carlos Marmol,P,BOS,Boston Red Sox,R,R
+593372,Carlos Martinez,P,STL,St. Louis Cardinals,R,R
+519037,Carlos Moncrief,RF,SF,San Francisco Giants,L,R
+451713,Carlos Peguero,LF,BOS,Boston Red Sox,L,L
+150289,Carlos Pena,1B,TEX,Texas Rangers,L,L
+542208,Carlos Perez,C,TEX,Texas Rangers,R,R
+435041,Carlos Quentin,LF,MIN,Minnesota Twins,R,R
+570702,Carlos Ramirez,P,OAK,Oakland Athletics,R,R
+491640,Carlos Rivero,3B,SEA,Seattle Mariners,R,R
+607074,Carlos Rodon,P,CWS,Chicago White Sox,L,L
+434563,Carlos Ruiz,C,SEA,Seattle Mariners,R,R
+467793,Carlos Santana,1B,CLE,Cleveland Indians,S,R
+624636,Carlos Tocci,CF,TEX,Texas Rangers,R,R
+448614,Carlos Torres,P,MIN,Minnesota Twins,R,R
+508892,Carlos Triunfel,SS,LAD,Los Angeles Dodgers,R,R
+453646,Carlos Villanueva,P,SD,San Diego Padres,R,R
+407296,Carlos Zambrano,P,MIA,Miami Marlins,S,R
+542942,Carson Blair,C,OAK,Oakland Athletics,R,R
+608334,Carson Fulmer,P,CWS,Chicago White Sox,R,R
+608348,Carson Kelly,C,ARI,Arizona Diamondbacks,R,R
+605476,Carson Smith,P,BOS,Boston Red Sox,R,R
+605169,Carter Capps,P,SD,San Diego Padres,R,R
+666198,Carter Kieboom,SS,WSH,Washington Nationals,R,R
+488787,Casey Coleman,P,KC,Kansas City Royals,L,R
+518582,Casey Crosby,P,DET,Detroit Tigers,R,L
+502272,Casey Fien,P,PHI,Philadelphia Phillies,R,R
+656459,Casey Gillaspie,1B,CWS,Chicago White Sox,S,L
+445163,Casey Janssen,P,SD,San Diego Padres,R,R
+543391,Casey Kelly,P,SF,San Francisco Giants,R,R
+425773,Casey Kotchman,1B,MIA,Miami Marlins,L,L
+596271,Casey Lawrence,P,SEA,Seattle Mariners,R,R
+431171,Casey McGehee,3B,DET,Detroit Tigers,R,R
+594987,Casey Sadler,P,LAD,Los Angeles Dodgers,R,R
+489413,Casper Wells,LF,PHI,Philadelphia Phillies,R,R
+624415,Cavan Biggio,2B,TOR,Toronto Blue Jays,L,R
+282332,CC Sabathia,P,NYY,New York Yankees,L,L
+641962,CD Pelham,P,TEX,Texas Rangers,L,L
+501986,Cedric Hunter,LF,PHI,Philadelphia Phillies,L,L
+656775,Cedric Mullins,CF,BAL,Baltimore Orioles,S,L
+501627,Cesar Cabral,P,BAL,Baltimore Orioles,L,L
+514917,Cesar Hernandez,2B,PHI,Philadelphia Phillies,S,R
+285131,Cesar Izturis,SS,HOU,Houston Astros,S,R
+462945,Cesar Jimenez,P,MIL,Milwaukee Brewers,L,L
+527049,Cesar Puello,LF,MIA,Miami Marlins,R,R
+459987,Cesar Ramos,P,TEX,Texas Rangers,L,L
+491624,Cesar Valdez,P,TOR,Toronto Blue Jays,R,R
+570714,Cesar Vargas,P,SD,San Diego Padres,R,R
+518445,Chad Bell,P,ATL,Atlanta Braves,R,L
+518452,Chad Bettis,P,COL,Colorado Rockies,R,R
+451532,Chad Billingsley,P,PHI,Philadelphia Phillies,R,R
+429985,Chad Gaudin,P,PHI,Philadelphia Phillies,R,R
+643325,Chad Girodo,P,TOR,Toronto Blue Jays,L,L
+643338,Chad Green,P,NYY,New York Yankees,L,R
+502151,Chad Huffman,1B,STL,St. Louis Cardinals,R,R
+554432,Chad Jenkins,P,TOR,Toronto Blue Jays,R,R
+641771,Chad Kuhl,P,PIT,Pittsburgh Pirates,R,R
+640461,Chad Pinder,LF,OAK,Oakland Athletics,R,R
+430589,Chad Qualls,P,COL,Colorado Rockies,R,R
+605477,Chad Smith,P,LAA,Los Angeles Angels,R,R
+656977,Chad Sobotka,P,ATL,Atlanta Braves,R,R
+429710,Chad Tracy,3B,LAA,Los Angeles Angels,L,R
+595453,Chad Wallach,C,MIA,Miami Marlins,R,R
+664856,Chance Adams,P,NYY,New York Yankees,R,R
+592704,Chance Ruffin,P,SEA,Seattle Mariners,R,R
+642082,Chance Sisco,C,BAL,Baltimore Orioles,L,R
+605469,Chandler Shepherd,P,BAL,Baltimore Orioles,R,R
+502033,Charles Brewer,P,SEA,Seattle Mariners,R,R
+453568,Charlie Blackmon,RF,COL,Colorado Rockies,L,L
+518586,Charlie Culberson,LF,ATL,Atlanta Braves,R,R
+518703,Charlie Furbush,P,SEA,Seattle Mariners,L,L
+489056,Charlie Leesman,P,CWS,Chicago White Sox,L,L
+450203,Charlie Morton,P,TB,Tampa Bay Rays,R,R
+605508,Charlie Tilson,RF,CWS,Chicago White Sox,L,L
+502624,Chase Anderson,P,MIL,Milwaukee Brewers,R,R
+488818,Chase d'Arnaud,3B,SF,San Francisco Giants,R,R
+608328,Chase De Jong,P,MIN,Minnesota Twins,L,R
+452104,Chase Headley,3B,SD,San Diego Padres,S,R
+592438,Chase Johnson,P,SF,San Francisco Giants,R,R
+656965,Chase Simpson,3B,PIT,Pittsburgh Pirates,S,R
+400284,Chase Utley,2B,LAD,Los Angeles Dodgers,L,R
+595032,Chase Whitley,P,ATL,Atlanta Braves,R,R
+607473,Chasen Bradford,P,SEA,Seattle Mariners,R,R
+592741,Chasen Shreve,P,STL,St. Louis Cardinals,L,L
+475054,Chaz Roe,P,TB,Tampa Bay Rays,R,R
+521428,Che-Hsuan Lin,CF,HOU,Houston Astros,R,R
+596144,Cheslor Cuthbert,3B,KC,Kansas City Royals,R,R
+592346,Chi Chi Gonzalez,P,COL,Colorado Rockies,R,R
+547568,Chia-Jen Lo,P,HOU,Houston Astros,R,R
+425426,Chien-Ming Wang,P,KC,Kansas City Royals,R,R
+629496,Chih-Wei Hu,P,CLE,Cleveland Indians,R,R
+425835,Chin-hui Tsao,P,LAD,Los Angeles Dodgers,R,R
+408210,Chone Figgins,3B,LAD,Los Angeles Dodgers,S,R
+502042,Chris Archer,P,PIT,Pittsburgh Pirates,R,R
+605135,Chris Bassitt,P,OAK,Oakland Athletics,R,R
+571476,Chris Beck,P,NYM,New York Mets,R,R
+408052,Chris Bootcheck,P,NYY,New York Yankees,R,R
+425626,Chris Capuano,P,MIL,Milwaukee Brewers,L,L
+474892,Chris Carter,1B,LAA,Los Angeles Angels,R,R
+458085,Chris Coghlan,3B,TOR,Toronto Blue Jays,L,R
+499624,Chris Colabello,1B,TOR,Toronto Blue Jays,R,R
+448801,Chris Davis,1B,BAL,Baltimore Orioles,L,R
+456121,Chris Denorfia,LF,NYY,New York Yankees,R,R
+606965,Chris Devenski,P,HOU,Houston Astros,R,R
+447736,Chris Dickerson,LF,CLE,Cleveland Indians,L,L
+458689,Chris Dominguez,LF,CIN,Cincinnati Reds,R,R
+543125,Chris Dwyer,P,KC,Kansas City Royals,R,L
+595939,Chris Ellis,P,KC,Kansas City Royals,L,R
+623167,Chris Flexen,P,NYM,New York Mets,R,R
+460269,Chris Gimenez,C,MIN,Minnesota Twins,R,R
+501822,Chris Hatcher,P,OAK,Oakland Athletics,R,R
+502317,Chris Heisey,LF,MIN,Minnesota Twins,R,R
+543302,Chris Herrmann,C,OAK,Oakland Athletics,L,R
+518790,Chris Heston,P,MIN,Minnesota Twins,R,R
+455104,Chris Iannetta,C,COL,Colorado Rockies,R,R
+453400,Chris Johnson,3B,CWS,Chicago White Sox,R,R
+518854,Chris Jones,P,LAA,Los Angeles Angels,L,L
+595296,Chris Lee,P,BAL,Baltimore Orioles,L,L
+460092,Chris Leroux,P,PHI,Philadelphia Phillies,L,R
+502029,Chris Marrero,LF,SF,San Francisco Giants,R,R
+455119,Chris Martin,P,ATL,Atlanta Braves,R,R
+607391,Chris Mazza,P,NYM,New York Mets,R,R
+573027,Chris McGuiness,1B,PIT,Pittsburgh Pirates,L,L
+429780,Chris Narveson,P,MIA,Miami Marlins,L,L
+455126,Chris Nelson,3B,SD,San Diego Padres,R,R
+622217,Chris O'Grady,P,MIA,Miami Marlins,R,L
+572008,Chris Owings,2B,BOS,Boston Red Sox,R,R
+663978,Chris Paddack,P,SD,San Diego Padres,R,R
+476633,Chris Parmelee,1B,NYY,New York Yankees,L,L
+453198,Chris Perez,P,MIL,Milwaukee Brewers,R,R
+657253,Chris Rabago,C,NYY,New York Yankees,R,R
+595371,Chris Rearick,P,SD,San Diego Padres,L,L
+607068,Chris Reed,P,MIA,Miami Marlins,L,L
+434592,Chris Resop,P,OAK,Oakland Athletics,R,R
+635903,Chris Rowley,P,SD,San Diego Padres,R,R
+543734,Chris Rusin,P,COL,Colorado Rockies,L,L
+519242,Chris Sale,P,BOS,Boston Red Sox,L,L
+452737,Chris Schwinden,P,NYM,New York Mets,R,R
+622046,Chris Shaw,LF,SF,San Francisco Giants,L,R
+434672,Chris Smith,P,OAK,Oakland Athletics,R,R
+627262,Chris Smith,P,DET,Detroit Tigers,R,R
+430965,Chris Snyder,C,WSH,Washington Nationals,R,R
+455755,Chris Stewart,C,ARI,Arizona Diamondbacks,R,R
+608717,Chris Stratton,P,PIT,Pittsburgh Pirates,R,R
+621035,Chris Taylor,LF,LAD,Los Angeles Dodgers,R,R
+501957,Chris Tillman,P,BAL,Baltimore Orioles,R,R
+453362,Chris Valaika,1B,CHC,Chicago Cubs,R,R
+458690,Chris Volstad,P,CWS,Chicago White Sox,R,R
+519437,Chris Withrow,P,ATL,Atlanta Braves,R,R
+455759,Chris Young,RF,LAA,Los Angeles Angels,R,R
+432934,Chris Young,P,KC,Kansas City Royals,R,R
+624414,Christian Arroyo,3B,CLE,Cleveland Indians,R,R
+548357,Christian Bergman,P,CHC,Chicago Cubs,R,R
+542194,Christian Bethancourt,C,SD,San Diego Padres,R,R
+518568,Christian Colon,2B,CIN,Cincinnati Reds,R,R
+681797,Christian Cosby,P,KC,Kansas City Royals,R,R
+543184,Christian Friedrich,P,SD,San Diego Padres,R,L
+451600,Christian Garcia,P,WSH,Washington Nationals,R,R
+543877,Christian Vazquez,C,BOS,Boston Red Sox,R,R
+570799,Christian Villanueva,3B,SD,San Diego Padres,R,R
+572233,Christian Walker,1B,ARI,Arizona Diamondbacks,R,R
+592885,Christian Yelich,RF,MIL,Milwaukee Brewers,L,R
+621514,Christin Stewart,LF,DET,Detroit Tigers,L,R
+607471,Christopher Bostick,LF,MIA,Miami Marlins,R,R
+672335,Cionel Perez,P,HOU,Houston Astros,L,L
+453329,Clay Buchholz,P,TOR,Toronto Blue Jays,L,R
+605280,Clay Holmes,P,PIT,Pittsburgh Pirates,R,R
+449060,Clay Rapada,P,LAA,Los Angeles Angels,R,L
+607185,Clayton Blackburn,P,TEX,Texas Rangers,L,R
+477132,Clayton Kershaw,P,LAD,Los Angeles Dodgers,L,L
+489150,Clayton Mortensen,P,BOS,Boston Red Sox,R,R
+453385,Clayton Richard,P,TOR,Toronto Blue Jays,L,L
+460004,Clete Thomas,OF,MIN,Minnesota Twins,L,R
+424324,Cliff Lee,P,PHI,Philadelphia Phillies,L,L
+460060,Cliff Pennington,2B,CIN,Cincinnati Reds,S,R
+425549,Clint Barmes,SS,KC,Kansas City Royals,R,R
+640449,Clint Frazier,RF,NYY,New York Yankees,R,R
+519208,Clint Robinson,1B,WSH,Washington Nationals,L,L
+424825,Coco Crisp,OF,CLE,Cleveland Indians,S,R
+592102,Cody Allen,P,LAA,Los Angeles Angels,R,R
+594736,Cody Anderson,P,CLE,Cleveland Indians,R,R
+605125,Cody Asche,DH,KC,Kansas City Royals,L,R
+641355,Cody Bellinger,RF,LAD,Los Angeles Dodgers,L,L
+606944,Cody Carroll,P,BAL,Baltimore Orioles,R,R
+572804,Cody Decker,1B,KC,Kansas City Royals,R,R
+643297,Cody Ege,P,LAA,Los Angeles Angels,L,L
+543136,Cody Eppley,P,NYY,New York Yankees,R,R
+595235,Cody Hall,P,MIA,Miami Marlins,R,R
+592533,Cody Martin,P,SEA,Seattle Mariners,R,R
+285068,Cody Ransom,3B,CHC,Chicago Cubs,R,R
+642003,Cody Reed,P,CIN,Cincinnati Reds,L,L
+425496,Cody Ross,OF,OAK,Oakland Athletics,R,L
+592774,Cody Stanley,C,STL,St. Louis Cardinals,L,R
+664054,Cody Stashak,P,MIN,Minnesota Twins,R,R
+407890,Colby Lewis,P,TEX,Texas Rangers,R,R
+458675,Colby Rasmus,OF,BAL,Baltimore Orioles,L,L
+502676,Cole Figueroa,2B,MIA,Miami Marlins,L,R
+502261,Cole Gillespie,CF,MIA,Miami Marlins,R,R
+430935,Cole Hamels,P,CHC,Chicago Cubs,L,L
+608344,Cole Irvin,P,PHI,Philadelphia Phillies,L,L
+642121,Cole Sulser,P,TB,Tampa Bay Rays,R,R
+657061,Cole Tucker,SS,PIT,Pittsburgh Pirates,S,R
+592567,Colin Moran,3B,PIT,Pittsburgh Pirates,L,R
+621363,Colin Poche,P,TB,Tampa Bay Rays,L,L
+607067,Colin Rea,P,SD,San Diego Padres,R,R
+595023,Colin Walsh,3B,MIL,Milwaukee Brewers,S,R
+444446,Collin Balester,P,CIN,Cincinnati Reds,R,R
+518577,Collin Cowgill,RF,CLE,Cleveland Indians,R,L
+543521,Collin McHugh,P,HOU,Houston Astros,R,R
+518833,Colt Hynes,P,CLE,Cleveland Indians,L,L
+605155,Colten Brewer,P,BOS,Boston Red Sox,R,R
+605396,Colton Murray,P,PHI,Philadelphia Phillies,R,R
+641632,Conner Greene,P,KC,Kansas City Royals,R,R
+669214,Conner Menez,P,SF,San Francisco Giants,L,L
+656582,Connor Joe,OF,SF,San Francisco Giants,R,R
+592712,Connor Sadzeck,P,SEA,Seattle Mariners,R,R
+543216,Conor Gillaspie,3B,SF,San Francisco Giants,L,R
+571969,Conor Mullee,P,CHC,Chicago Cubs,R,R
+543377,Corban Joseph,2B,PIT,Pittsburgh Pirates,L,R
+669203,Corbin Burnes,P,MIL,Milwaukee Brewers,R,R
+656686,Corbin Martin,P,ARI,Arizona Diamondbacks,R,R
+543647,Cord Phelps,3B,BAL,Baltimore Orioles,S,R
+446395,Corey Brown,CF,BOS,Boston Red Sox,L,L
+572816,Corey Dickerson,LF,PHI,Philadelphia Phillies,L,R
+430611,Corey Hart,1B,PIT,Pittsburgh Pirates,R,R
+446372,Corey Kluber,P,CLE,Cleveland Indians,R,R
+608349,Corey Knebel,P,MIL,Milwaukee Brewers,R,R
+621261,Corey Oswalt,P,NYM,New York Mets,R,R
+608369,Corey Seager,SS,LAD,Los Angeles Dodgers,L,R
+280061,Corky Miller,C,CIN,Cincinnati Reds,R,R
+451132,Cory Burns,P,TOR,Toronto Blue Jays,R,R
+518715,Cory Gearrin,P,NYY,New York Yankees,R,R
+458537,Cory Luebke,P,PIT,Pittsburgh Pirates,R,L
+543508,Cory Mazzoni,P,CHC,Chicago Cubs,R,R
+474284,Cory Rasmus,P,LAA,Los Angeles Angels,R,R
+605486,Cory Spangenberg,3B,MIL,Milwaukee Brewers,L,R
+460677,Cory Wade,P,TOR,Toronto Blue Jays,R,R
+444520,Craig Breslow,P,TOR,Toronto Blue Jays,L,L
+502226,Craig Gentry,RF,BAL,Baltimore Orioles,R,R
+518886,Craig Kimbrel,P,CHC,Chicago Cubs,R,R
+489334,Craig Stammen,P,SD,San Diego Padres,R,R
+542436,Cristhian Adames,SS,SF,San Francisco Giants,S,R
+592200,Curt Casali,C,CIN,Cincinnati Reds,R,R
+434158,Curtis Granderson,LF,MIA,Miami Marlins,L,R
+489197,Curtis Partch,P,PIT,Pittsburgh Pirates,R,R
+605482,Cy Sneed,P,HOU,Houston Astros,R,R
+592637,D.J. Peterson,1B,CIN,Cincinnati Reds,R,R
+592769,D.J. Snelten,P,BAL,Baltimore Orioles,L,L
+493193,Dae-Ho Lee,1B,SEA,Seattle Mariners,R,R
+493137,Daisuke Matsuzaka,P,NYM,New York Mets,R,R
+641712,Dakota Hudson,P,STL,St. Louis Cardinals,R,R
+445612,Dale Thayer,P,BAL,Baltimore Orioles,R,R
+648737,Dalier Hinojosa,P,PHI,Philadelphia Phillies,R,R
+542923,Dallas Beeler,P,CHC,Chicago Cubs,R,R
+572971,Dallas Keuchel,P,ATL,Atlanta Braves,L,L
+592647,Dalton Pompey,RF,TOR,Toronto Blue Jays,S,R
+571911,Damien Magnifico,P,LAA,Los Angeles Angels,R,R
+656186,Dan Altavilla,P,SEA,Seattle Mariners,R,R
+576788,Dan Butler,C,BOS,Boston Red Sox,R,R
+429717,Dan Haren,P,CHC,Chicago Cubs,R,R
+543359,Dan Jennings,P,WSH,Washington Nationals,L,L
+430681,Dan Johnson,1B,STL,St. Louis Cardinals,L,R
+519096,Dan Otero,P,CLE,Cleveland Indians,R,R
+502130,Dan Runzler,P,PIT,Pittsburgh Pirates,L,L
+592753,Dan Slania,P,SF,San Francisco Giants,R,R
+573185,Dan Straily,P,BAL,Baltimore Orioles,R,R
+462564,Dan Uggla,2B,WSH,Washington Nationals,R,R
+595465,Dan Winkler,P,SF,San Francisco Giants,R,R
+445968,Dana Eveland,P,TB,Tampa Bay Rays,L,L
+451773,Dane De La Rosa,P,LAA,Los Angeles Angels,R,R
+453268,Daniel Bard,P,CHC,Chicago Cubs,R,R
+614171,Daniel Bravo,2B,SD,San Diego Padres,R,R
+547176,Daniel Camarena,P,NYY,New York Yankees,L,L
+658135,Daniel Carbonell,OF,SF,San Francisco Giants,R,R
+593495,Daniel Castro,SS,LAD,Los Angeles Dodgers,R,R
+542289,Daniel Corcino,P,LAD,Los Angeles Dodgers,R,R
+518614,Daniel Descalso,2B,CHC,Chicago Cubs,L,R
+571665,Daniel Fields,LF,CWS,Chicago White Sox,L,R
+605254,Daniel Gossett,P,OAK,Oakland Athletics,R,R
+543339,Daniel Hudson,P,WSH,Washington Nationals,R,R
+445216,Daniel McCutchen,P,TEX,Texas Rangers,R,R
+596043,Daniel Mengden,P,OAK,Oakland Athletics,R,R
+502517,Daniel Murphy,1B,COL,Colorado Rockies,L,R
+537953,Daniel Nava,LF,PHI,Philadelphia Phillies,S,L
+596057,Daniel Norris,P,DET,Detroit Tigers,L,L
+594953,Daniel Palka,RF,CWS,Chicago White Sox,L,L
+594965,Daniel Ponce de Leon,P,STL,St. Louis Cardinals,R,R
+543706,Daniel Robertson,LF,CLE,Cleveland Indians,R,R
+621002,Daniel Robertson,3B,TB,Tampa Bay Rays,R,R
+519259,Daniel Schlereth,P,BOS,Boston Red Sox,L,L
+458094,Daniel Stange,P,LAA,Los Angeles Angels,R,R
+621385,Daniel Stumpf,P,DET,Detroit Tigers,L,L
+596129,Daniel Vogelbach,1B,SEA,Seattle Mariners,L,R
+543900,Daniel Webb,P,CWS,Chicago White Sox,R,R
+642229,Daniel Wright,P,LAA,Los Angeles Angels,R,R
+623354,Daniel Zamora,P,NYM,New York Mets,L,L
+592130,Danny Barnes,P,TOR,Toronto Blue Jays,L,R
+592181,Danny Burawa,P,ATL,Atlanta Braves,R,R
+543056,Danny Coulombe,P,OAK,Oakland Athletics,L,L
+457760,Danny Dorn,RF,TOR,Toronto Blue Jays,L,L
+518633,Danny Duffy,P,KC,Kansas City Royals,L,L
+457787,Danny Espinosa,SS,NYY,New York Yankees,S,R
+543144,Danny Farquhar,P,CWS,Chicago White Sox,R,R
+543343,Danny Hultzen,P,CHC,Chicago Cubs,L,L
+643376,Danny Jansen,C,TOR,Toronto Blue Jays,R,R
+664901,Danny Mendick,SS,CWS,Chicago White Sox,R,R
+594940,Danny Muno,3B,NYM,New York Mets,S,R
+543611,Danny Ortiz,OF,PIT,Pittsburgh Pirates,L,L
+572066,Danny Reynolds,P,LAA,Los Angeles Angels,R,R
+517593,Danny Salazar,P,CLE,Cleveland Indians,R,R
+542454,Danny Santana,2B,TEX,Texas Rangers,S,R
+502143,Danny Valencia,3B,BAL,Baltimore Orioles,R,R
+519445,Danny Worth,2B,HOU,Houston Astros,R,R
+621020,Dansby Swanson,SS,ATL,Atlanta Braves,R,R
+435558,Daric Barton,1B,OAK,Oakland Athletics,L,R
+645848,Dariel Alvarez,RF,BAL,Baltimore Orioles,R,R
+445153,Darin Downs,P,HOU,Houston Astros,R,L
+518991,Darin Mastroianni,RF,MIN,Minnesota Twins,R,R
+573131,Darin Ruf,1B,LAD,Los Angeles Dodgers,R,R
+642607,Dario Agrazal,P,PIT,Pittsburgh Pirates,R,R
+516714,Dario Alvarez,P,SEA,Seattle Mariners,L,L
+572182,Darnell Sweeney,LF,TOR,Toronto Blue Jays,S,R
+571553,Darrell Ceciliani,LF,TOR,Toronto Blue Jays,L,L
+503285,Darren O'Day,P,ATL,Atlanta Braves,R,R
+446381,Darwin Barney,2B,TOR,Toronto Blue Jays,R,R
+650382,Darwinzon Hernandez,P,BOS,Boston Red Sox,L,L
+543743,Dave Sappelt,CF,PHI,Philadelphia Phillies,R,R
+430911,David Aardsma,P,ATL,Atlanta Braves,R,R
+458691,David Adams,3B,BAL,Baltimore Orioles,R,R
+670280,David Bednar,P,SD,San Diego Padres,L,R
+623520,David Bote,3B,CHC,Chicago Cubs,R,R
+571527,David Buchanan,P,PHI,Philadelphia Phillies,R,R
+502304,David Carpenter,P,TEX,Texas Rangers,R,R
+518526,David Carpenter,P,ATL,Atlanta Braves,R,R
+476036,David Cooper,1B,CLE,Cleveland Indians,L,L
+621311,David Dahl,LF,COL,Colorado Rockies,L,R
+430203,David DeJesus,OF,LAA,Los Angeles Angels,L,L
+664058,David Fletcher,3B,LAA,Los Angeles Angels,R,R
+501896,David Freese,1B,LAD,Los Angeles Dodgers,R,R
+571679,David Freitas,C,MIL,Milwaukee Brewers,R,R
+592341,David Goforth,P,MIL,Milwaukee Brewers,R,R
+571735,David Hale,P,NYY,New York Yankees,R,R
+456696,David Hernandez,P,CIN,Cincinnati Reds,R,R
+605276,David Hess,P,BAL,Baltimore Orioles,R,R
+571787,David Holmberg,P,CWS,Chicago White Sox,R,L
+453307,David Huff,P,LAA,Los Angeles Angels,S,L
+518953,David Lough,LF,PHI,Philadelphia Phillies,L,L
+451075,David Martinez,P,HOU,Houston Astros,R,R
+641853,David McKay,P,DET,Detroit Tigers,R,R
+461815,David Murphy,OF,BOS,Boston Red Sox,L,L
+456102,David Pauley,P,TOR,Toronto Blue Jays,R,R
+600944,David Paulino,P,TOR,Toronto Blue Jays,R,R
+444482,David Peralta,LF,ARI,Arizona Diamondbacks,L,L
+475479,David Phelps,P,CHC,Chicago Cubs,R,R
+456034,David Price,P,BOS,Boston Red Sox,L,L
+453515,David Purcey,P,CWS,Chicago White Sox,L,L
+502085,David Robertson,P,PHI,Philadelphia Phillies,R,R
+543716,David Rollins,P,CHC,Chicago Cubs,L,L
+424325,David Ross,C,CHC,Chicago Cubs,R,R
+572241,David Washington,1B,BAL,Baltimore Orioles,L,L
+431151,David Wright,3B,NYM,New York Mets,R,R
+608475,Dawel Lugo,3B,DET,Detroit Tigers,R,R
+500765,Dayan Diaz,P,LAA,Los Angeles Angels,R,R
+493364,Dayan Viciedo,OF,TOR,Toronto Blue Jays,R,R
+542883,Dean Anna,SS,MIN,Minnesota Twins,L,R
+657209,Dean Deetz,P,HOU,Houston Astros,R,R
+518883,Dean Kiekhefer,P,OAK,Oakland Athletics,L,L
+592547,Deck McGuire,P,LAA,Los Angeles Angels,R,R
+543829,Dee Gordon,2B,SEA,Seattle Mariners,L,R
+620453,Deivy Grullon,C,PHI,Philadelphia Phillies,R,R
+592261,Delino DeShields,CF,TEX,Texas Rangers,R,R
+476454,Dellin Betances,P,NYY,New York Yankees,R,R
+430321,Delmon Young,RF,BAL,Baltimore Orioles,R,R
+452655,Denard Span,LF,SEA,Seattle Mariners,L,L
+464426,Denis Phipps,RF,CIN,Cincinnati Reds,R,R
+642701,Dennis Santana,P,LAD,Los Angeles Dodgers,R,R
+660593,Denyi Reyes,P,BOS,Boston Red Sox,R,R
+500610,Deolis Guerra,P,MIL,Milwaukee Brewers,R,R
+605446,Dereck Rodriguez,P,SF,San Francisco Giants,R,R
+518618,Derek Dietrich,2B,CIN,Cincinnati Reds,L,R
+605233,Derek Fisher,RF,TOR,Toronto Blue Jays,L,R
+656537,Derek Hill,OF,DET,Detroit Tigers,R,R
+502706,Derek Holland,P,CHC,Chicago Cubs,S,L
+571882,Derek Law,P,TOR,Toronto Blue Jays,R,R
+519083,Derek Norris,C,TB,Tampa Bay Rays,R,R
+642524,Derian Gonzalez,P,STL,St. Louis Cardinals,R,R
+501961,Derrick Robinson,LF,CIN,Cincinnati Reds,S,L
+457775,Desmond Jennings,LF,TB,Tampa Bay Rays,R,R
+543329,Destin Hood,LF,MIA,Miami Marlins,R,R
+445177,Deunte Heath,P,CIN,Cincinnati Reds,R,R
+571918,Deven Marrero,3B,MIA,Miami Marlins,R,R
+519023,Devin Mesoraco,C,NYM,New York Mets,R,R
+656970,Devin Smeltzer,P,MIN,Minnesota Twins,R,L
+642207,Devin Williams,P,MIL,Milwaukee Brewers,R,R
+581527,Devon Travis,2B,TOR,Toronto Blue Jays,R,R
+451594,Dexter Fowler,RF,STL,St. Louis Cardinals,S,R
+661281,Dian Toscano,OF,ATL,Atlanta Braves,L,L
+544369,Didi Gregorius,SS,NYY,New York Yankees,L,R
+650895,Diego Castillo,P,TB,Tampa Bay Rays,R,R
+514981,Diego Moreno,P,CLE,Cleveland Indians,R,R
+608650,Dietrich Enns,P,MIN,Minnesota Twins,L,L
+518716,Dillon Gee,P,MIN,Minnesota Twins,R,R
+596027,Dillon Maples,P,CHC,Chicago Cubs,R,R
+592614,Dillon Overton,P,SD,San Diego Padres,L,L
+596071,Dillon Peters,P,LAA,Los Angeles Angels,L,L
+622253,Dillon Tate,P,BAL,Baltimore Orioles,R,R
+599096,Dilson Herrera,2B,CIN,Cincinnati Reds,R,R
+659275,Dinelson Lamet,P,SD,San Diego Padres,R,R
+425900,Dioner Navarro,C,TOR,Toronto Blue Jays,S,R
+553988,Dixon Machado,2B,DET,Detroit Tigers,R,R
+597113,DJ Johnson,P,COL,Colorado Rockies,L,R
+518934,DJ LeMahieu,2B,NYY,New York Yankees,R,R
+621466,DJ Stewart,RF,BAL,Baltimore Orioles,L,R
+624513,Dom Nunez,C,COL,Colorado Rockies,L,R
+642758,Domingo Acevedo,P,NYY,New York Yankees,R,R
+593334,Domingo German,P,NYY,New York Yankees,R,R
+642736,Domingo Leyba,2B,ARI,Arizona Diamondbacks,S,R
+570267,Domingo Santana,LF,SEA,Seattle Mariners,R,R
+608678,Dominic Leone,P,STL,St. Louis Cardinals,R,R
+642086,Dominic Smith,1B,NYM,New York Mets,L,L
+502126,Domonic Brown,RF,PHI,Philadelphia Phillies,L,L
+430603,Don Kelly,1B,MIA,Miami Marlins,L,R
+544371,Donald Lutz,1B,CIN,Cincinnati Reds,L,R
+543698,Donn Roach,P,OAK,Oakland Athletics,R,R
+643354,Donnie Hart,P,NYM,New York Mets,L,L
+548348,Donnie Joseph,P,MIA,Miami Marlins,L,L
+430906,Donnie Murphy,2B,TEX,Texas Rangers,R,R
+453264,Donnie Veal,P,TEX,Texas Rangers,L,L
+622268,Donnie Walton,2B,SEA,Seattle Mariners,L,R
+518764,Donovan Hand,P,CIN,Cincinnati Reds,R,R
+456781,Donovan Solano,SS,SF,San Francisco Giants,R,R
+448674,Doug Bernier,SS,MIN,Minnesota Twins,R,R
+450729,Doug Fister,P,TEX,Texas Rangers,L,R
+596720,Dovydas Neverauskas,P,PIT,Pittsburgh Pirates,R,R
+518493,Drake Britton,P,CHC,Chicago Cubs,L,L
+623454,Drew Anderson,P,PHI,Philadelphia Phillies,R,R
+460077,Drew Butera,C,COL,Colorado Rockies,R,R
+502165,Drew Carpenter,P,TOR,Toronto Blue Jays,R,R
+664916,Drew Ferguson,OF,HOU,Houston Astros,R,R
+543193,Drew Gagnon,P,NYM,New York Mets,R,R
+502457,Drew Hayes,P,CIN,Cincinnati Reds,R,R
+571800,Drew Hutchison,P,MIN,Minnesota Twins,L,R
+623515,Drew Jackson,SS,BAL,Baltimore Orioles,R,R
+519141,Drew Pomeranz,P,MIL,Milwaukee Brewers,R,L
+592685,Drew Robinson,CF,STL,St. Louis Cardinals,L,R
+607968,Drew Rucinski,P,MIA,Miami Marlins,R,R
+622098,Drew Smith,P,NYM,New York Mets,R,R
+592767,Drew Smyly,P,PHI,Philadelphia Phillies,L,L
+608716,Drew Steckenrider,P,MIA,Miami Marlins,R,R
+519322,Drew Storen,P,CIN,Cincinnati Reds,S,R
+453211,Drew Stubbs,OF,SF,San Francisco Giants,R,R
+572403,Drew VerHagen,P,DET,Detroit Tigers,R,R
+502102,Duane Below,P,MIA,Miami Marlins,L,L
+621249,Duane Underwood Jr.,P,CHC,Chicago Cubs,R,R
+444992,Duke Welker,P,PIT,Pittsburgh Pirates,L,R
+554429,Dustin Ackley,2B,SEA,Seattle Mariners,L,R
+542884,Dustin Antolin,P,TOR,Toronto Blue Jays,R,R
+641583,Dustin Fowler,CF,OAK,Oakland Athletics,L,L
+572863,Dustin Garneau,C,OAK,Oakland Athletics,R,R
+669160,Dustin May,P,LAD,Los Angeles Dodgers,R,R
+430661,Dustin McGowan,P,MIA,Miami Marlins,R,R
+451783,Dustin Molleken,P,DET,Detroit Tigers,L,R
+456030,Dustin Pedroia,2B,BOS,Boston Red Sox,R,R
+640460,Dustin Peterson,LF,DET,Detroit Tigers,R,R
+543038,Dusty Coleman,SS,SD,San Diego Padres,R,R
+596105,Dwight Smith Jr.,LF,BAL,Baltimore Orioles,L,R
+518420,Dylan Axelrod,P,CIN,Cincinnati Reds,R,R
+621173,Dylan Baker,P,LAD,Los Angeles Dodgers,R,R
+605164,Dylan Bundy,P,BAL,Baltimore Orioles,S,R
+656302,Dylan Cease,P,CWS,Chicago White Sox,R,R
+592229,Dylan Covey,P,CWS,Chicago White Sox,R,R
+622226,Dylan Cozens,RF,PHI,Philadelphia Phillies,L,L
+571670,Dylan Floro,P,LAD,Los Angeles Dodgers,L,R
+664238,Dylan Moore,3B,SEA,Seattle Mariners,R,R
+446225,Ed Easley,C,STL,St. Louis Cardinals,R,R
+448296,Ed Lucas,2B,TEX,Texas Rangers,R,R
+572750,Eddie Butler,P,TEX,Texas Rangers,R,R
+543195,Eddie Gamboa,P,TEX,Texas Rangers,R,R
+592696,Eddie Rosario,LF,MIN,Minnesota Twins,L,R
+453256,Eddy Rodriguez,C,SD,San Diego Padres,R,R
+658305,Edgar Garcia,P,PHI,Philadelphia Phillies,R,R
+429440,Edgar Gonzalez,P,HOU,Houston Astros,R,R
+500891,Edgar Ibarra,P,LAA,Los Angeles Angels,L,L
+543607,Edgar Olmos,P,CHC,Chicago Cubs,L,L
+650828,Edgar Santana,P,PIT,Pittsburgh Pirates,R,R
+467850,Edgmer Escalona,P,SF,San Francisco Giants,R,R
+450172,Edinson Volquez,P,TEX,Texas Rangers,R,R
+624641,Edmundo Sosa,SS,STL,St. Louis Cardinals,R,R
+500871,Eduardo Escobar,3B,ARI,Arizona Diamondbacks,S,R
+621592,Eduardo Jimenez,P,DET,Detroit Tigers,R,R
+456488,Eduardo Nunez,2B,BOS,Boston Red Sox,R,R
+622161,Eduardo Paredes,P,LAA,Los Angeles Angels,R,R
+593958,Eduardo Rodriguez,P,BOS,Boston Red Sox,L,L
+500674,Eduardo Sanchez,P,CHC,Chicago Cubs,R,R
+591693,Edubray Ramos,P,PHI,Philadelphia Phillies,R,R
+542369,Edwar Cabrera,P,TEX,Texas Rangers,L,L
+465629,Edward Mujica,P,DET,Detroit Tigers,R,R
+658668,Edward Olivares,CF,SD,San Diego Padres,R,R
+487675,Edward Paredes,P,PHI,Philadelphia Phillies,L,L
+621242,Edwin Diaz,P,NYM,New York Mets,R,R
+429665,Edwin Encarnacion,1B,NYY,New York Yankees,R,R
+546276,Edwin Escobar,P,CLE,Cleveland Indians,L,L
+429719,Edwin Jackson,P,DET,Detroit Tigers,R,R
+621458,Edwin Rios,3B,LAD,Los Angeles Dodgers,L,R
+519068,Efren Navarro,1B,CHC,Chicago Cubs,L,L
+501303,Ehire Adrianza,3B,MIN,Minnesota Twins,S,R
+467070,Elian Herrera,3B,MIL,Milwaukee Brewers,S,R
+553869,Elias Diaz,C,PIT,Pittsburgh Pirates,R,R
+622694,Elieser Hernandez,P,MIA,Miami Marlins,R,R
+608421,Eliezer Alvarez,OF,TEX,Texas Rangers,L,R
+471107,Elliot Johnson,2B,TEX,Texas Rangers,S,R
+554239,Elmer Reyes,SS,ATL,Atlanta Braves,R,R
+622556,Elniery Garcia,P,PHI,Philadelphia Phillies,L,L
+650391,Eloy Jimenez,LF,CWS,Chicago White Sox,R,R
+468517,Elvin Ramirez,P,PIT,Pittsburgh Pirates,R,R
+462101,Elvis Andrus,SS,TEX,Texas Rangers,R,R
+542587,Elvis Araujo,P,MIA,Miami Marlins,L,L
+672773,Elvis Luciano,P,TOR,Toronto Blue Jays,R,R
+466988,Emilio Bonifacio,LF,ATL,Atlanta Braves,S,R
+641941,Emilio Pagan,P,TB,Tampa Bay Rays,L,R
+642496,Emilio Vargas,P,ARI,Arizona Diamondbacks,R,R
+502034,Emmanuel Burriss,2B,PHI,Philadelphia Phillies,S,R
+661403,Emmanuel Clase,P,TEX,Texas Rangers,R,R
+542255,Ender Inciarte,CF,ATL,Atlanta Braves,L,L
+575070,Enderson Franco,P,SF,San Francisco Giants,R,R
+346795,Endy Chavez,RF,SEA,Seattle Mariners,L,L
+491688,Enerio Del Rosario,P,HOU,Houston Astros,R,R
+520976,Engel Beltre,RF,TEX,Texas Rangers,L,L
+622713,Engelb Vielma,SS,BAL,Baltimore Orioles,S,R
+544836,Enny Romero,P,KC,Kansas City Royals,R,L
+542609,Enrique Burgos,P,ATL,Atlanta Braves,R,R
+571771,Enrique Hernandez,2B,LAD,Los Angeles Dodgers,R,R
+660853,Enyel De Los Santos,P,PHI,Philadelphia Phillies,R,R
+541640,Erasmo Ramirez,P,BOS,Boston Red Sox,R,R
+493472,Eric Campbell,1B,NYM,New York Mets,R,R
+456544,Eric Farris,2B,MIL,Milwaukee Brewers,R,R
+543174,Eric Fornataro,P,WSH,Washington Nationals,R,R
+518700,Eric Fryer,C,STL,St. Louis Cardinals,R,R
+606992,Eric Haase,C,CLE,Cleveland Indians,R,R
+621098,Eric Hanhold,P,BAL,Baltimore Orioles,R,R
+543333,Eric Hosmer,1B,SD,San Diego Padres,L,L
+518852,Eric Jokisch,P,MIA,Miami Marlins,R,L
+641778,Eric Lauer,P,SD,San Diego Padres,R,L
+447714,Eric O'Flaherty,P,ATL,Atlanta Braves,L,L
+607215,Eric Skoglund,P,KC,Kansas City Royals,L,L
+519299,Eric Sogard,2B,TB,Tampa Bay Rays,L,R
+608715,Eric Stamets,SS,CLE,Cleveland Indians,R,R
+657770,Eric Stout,P,KC,Kansas City Royals,L,L
+445590,Eric Stults,P,LAD,Los Angeles Dodgers,L,L
+474668,Eric Surkamp,P,TEX,Texas Rangers,L,L
+519346,Eric Thames,1B,MIL,Milwaukee Brewers,L,R
+642233,Eric Yardley,P,SD,San Diego Padres,R,R
+458913,Eric Young Jr.,LF,BAL,Baltimore Orioles,S,R
+430947,Erick Aybar,SS,SD,San Diego Padres,S,R
+607200,Erick Fedde,P,WSH,Washington Nationals,R,R
+625510,Erick Mejia,2B,KC,Kansas City Royals,S,R
+407853,Erik Bedard,P,TB,Tampa Bay Rays,L,L
+449170,Erik Cordier,P,MIA,Miami Marlins,R,R
+458530,Erik Davis,P,WSH,Washington Nationals,R,R
+592340,Erik Goeddel,P,LAD,Los Angeles Dodgers,R,R
+570481,Erik Gonzalez,SS,PIT,Pittsburgh Pirates,R,R
+605304,Erik Johnson,P,SD,San Diego Padres,R,R
+518900,Erik Komatsu,RF,MIN,Minnesota Twins,L,L
+456124,Erik Kratz,C,TB,Tampa Bay Rays,R,R
+657024,Erik Swanson,P,SEA,Seattle Mariners,R,R
+628326,Erisbel Arruebarrena,SS,LAD,Los Angeles Dodgers,R,R
+457117,Ernesto Frieri,P,TEX,Texas Rangers,R,R
+429722,Ervin Santana,P,CWS,Chicago White Sox,R,R
+469134,Esmil Rogers,P,NYY,New York Yankees,R,R
+620145,Estarlin Arias,P,STL,St. Louis Cardinals,R,R
+543495,Ethan Martin,P,PHI,Philadelphia Phillies,R,R
+553993,Eugenio Suarez,3B,CIN,Cincinnati Reds,R,R
+545001,Eury De La Rosa,P,SD,San Diego Padres,L,L
+516811,Eury Perez,LF,PIT,Pittsburgh Pirates,R,R
+457751,Evan Crawford,P,TOR,Toronto Blue Jays,R,L
+594828,Evan Gattis,C,HOU,Houston Astros,R,R
+446334,Evan Longoria,3B,SF,San Francisco Giants,R,R
+605359,Evan Marshall,P,CWS,Chicago White Sox,R,R
+457425,Evan Meek,P,BAL,Baltimore Orioles,R,R
+623465,Evan Phillips,P,BAL,Baltimore Orioles,R,R
+519175,Evan Reed,P,DET,Detroit Tigers,R,R
+592709,Evan Rutckyj,P,ATL,Atlanta Braves,R,L
+519267,Evan Scribner,P,SEA,Seattle Mariners,R,R
+501870,Everett Teaford,P,TB,Tampa Bay Rays,L,L
+465784,Everth Cabrera,SS,BAL,Baltimore Orioles,S,R
+485567,Ezequiel Carrera,LF,TOR,Toronto Blue Jays,L,L
+503566,Fabio Castillo,P,LAD,Los Angeles Dodgers,R,R
+462956,Felipe Paulino,P,BOS,Boston Red Sox,R,R
+553878,Felipe Vazquez,P,PIT,Pittsburgh Pirates,L,L
+467094,Felix Doubront,P,OAK,Oakland Athletics,L,L
+433587,Felix Hernandez,P,SEA,Seattle Mariners,R,R
+602928,Felix Jorge,P,MIN,Minnesota Twins,R,R
+570240,Felix Pena,P,LAA,Los Angeles Angels,R,R
+472551,Fernando Abad,P,SF,San Francisco Giants,L,L
+407845,Fernando Rodney,P,WSH,Washington Nationals,R,R
+451775,Fernando Rodriguez Jr.,P,OAK,Oakland Athletics,R,R
+622864,Fernando Romero,P,MIN,Minnesota Twins,R,R
+477569,Fernando Salas,P,PHI,Philadelphia Phillies,R,R
+665487,Fernando Tatis Jr.,SS,SD,San Diego Padres,R,R
+664285,Framber Valdez,P,HOU,Houston Astros,L,L
+614173,Franchy Cordero,CF,SD,San Diego Padres,L,R
+642564,Francis Martes,P,HOU,Houston Astros,R,R
+516472,Francisco Arcia,C,LAA,Los Angeles Angels,L,R
+465041,Francisco Cervelli,C,ATL,Atlanta Braves,R,R
+596019,Francisco Lindor,SS,CLE,Cleveland Indians,S,R
+434538,Francisco Liriano,P,PIT,Pittsburgh Pirates,L,L
+642336,Francisco Mejia,C,SD,San Diego Padres,S,R
+501317,Francisco Peguero,LF,BAL,Baltimore Orioles,R,R
+506747,Francisco Pena,C,STL,St. Louis Cardinals,R,R
+477557,Francisco Rodriguez,P,LAA,Los Angeles Angels,R,R
+408061,Francisco Rodriguez,P,PHI,Philadelphia Phillies,R,R
+499107,Francisley Bueno,P,KC,Kansas City Royals,L,L
+407911,Frank Francisco,P,CWS,Chicago White Sox,R,R
+571057,Frank Garces,P,SD,San Diego Padres,L,L
+497807,Frank Herrmann,P,PHI,Philadelphia Phillies,L,R
+643524,Frank Schwindel,1B,KC,Kansas City Royals,R,R
+593423,Frankie Montas,P,OAK,Oakland Athletics,R,R
+620439,Franklin Barreto,2B,OAK,Oakland Athletics,R,R
+429711,Franklin Gutierrez,OF,LAD,Los Angeles Dodgers,R,R
+462985,Franklin Morales,P,TOR,Toronto Blue Jays,L,L
+658530,Franklin Perez,P,DET,Detroit Tigers,R,R
+642584,Franklyn Kilome,P,NYM,New York Mets,R,R
+614177,Franmil Reyes,RF,CLE,Cleveland Indians,R,R
+518692,Freddie Freeman,1B,ATL,Atlanta Braves,L,R
+520471,Freddy Galvis,SS,CIN,Cincinnati Reds,S,R
+430686,Freddy Guzman,DH,TB,Tampa Bay Rays,S,R
+642547,Freddy Peralta,P,MIL,Milwaukee Brewers,R,R
+642100,Gabe Speier,P,KC,Kansas City Royals,L,L
+602115,Gabriel Guerrero,RF,CIN,Cincinnati Reds,R,R
+622382,Gabriel Moya,P,MIN,Minnesota Twins,L,L
+650434,Gabriel Ovalle,SS,CIN,Cincinnati Reds,S,R
+593679,Gabriel Ynoa,P,BAL,Baltimore Orioles,R,R
+459991,Gaby Sanchez,1B,PIT,Pittsburgh Pirates,R,R
+594555,Garin Cecchini,1B,MIL,Milwaukee Brewers,L,R
+643265,Garrett Cooper,RF,MIA,Miami Marlins,R,R
+641658,Garrett Hampson,2B,COL,Colorado Rockies,R,R
+434540,Garrett Jones,OF,NYY,New York Yankees,L,L
+572070,Garrett Richards,P,SD,San Diego Padres,R,R
+596117,Garrett Stubbs,C,HOU,Houston Astros,L,R
+518502,Gary Brown,OF,LAA,Los Angeles Angels,R,R
+596142,Gary Sanchez,C,NYY,New York Yankees,R,R
+608325,Gavin Cecchini,2B,NYM,New York Mets,R,R
+425856,Gavin Floyd,P,TOR,Toronto Blue Jays,R,R
+666158,Gavin Lux,2B,LAD,Los Angeles Dodgers,L,R
+650893,Genesis Cabrera,P,STL,St. Louis Cardinals,L,L
+664129,Geoff Hartlieb,P,PIT,Pittsburgh Pirates,R,R
+502004,George Kontos,P,NYY,New York Yankees,R,R
+435459,George Kottaras,C,TOR,Toronto Blue Jays,L,R
+430941,George Sherrill,P,KC,Kansas City Royals,L,L
+543807,George Springer,RF,HOU,Houston Astros,R,R
+434567,Geovany Soto,C,CWS,Chicago White Sox,R,R
+408042,Gerald Laird,C,ARI,Arizona Diamondbacks,R,R
+615868,Gerardo Concepcion,P,CHC,Chicago Cubs,L,L
+467827,Gerardo Parra,LF,WSH,Washington Nationals,L,L
+622103,Gerardo Reyes,P,SD,San Diego Padres,R,R
+608566,German Marquez,P,COL,Colorado Rockies,R,R
+543037,Gerrit Cole,P,HOU,Houston Astros,R,R
+639373,Gerson Bautista,P,SEA,Seattle Mariners,R,R
+642575,Gerson Moreno,P,DET,Detroit Tigers,R,R
+519317,Giancarlo Stanton,LF,NYY,New York Yankees,R,R
+547912,Gift Ngoepe,SS,TOR,Toronto Blue Jays,R,R
+444041,Gil Velazquez,3B,MIA,Miami Marlins,R,R
+461829,Gio Gonzalez,P,MIL,Milwaukee Brewers,R,L
+570482,Gio Urshela,3B,NYY,New York Yankees,R,R
+543803,Giovanni Soto,P,CWS,Chicago White Sox,L,L
+606149,Giovanny Gallegos,P,STL,St. Louis Cardinals,R,R
+450282,Glen Perkins,P,MIN,Minnesota Twins,L,L
+642098,Glenn Sparkman,P,KC,Kansas City Royals,R,R
+650402,Gleyber Torres,SS,NYY,New York Yankees,R,R
+542674,Gonzalez Germen,P,COL,Colorado Rockies,R,R
+493596,Gordon Beckham,SS,DET,Detroit Tigers,R,R
+491676,Gorkys Hernandez,CF,BOS,Boston Red Sox,R,R
+429713,Grady Sizemore,OF,TB,Tampa Bay Rays,L,L
+453232,Graham Godfrey,P,OAK,Oakland Athletics,R,R
+346797,Grant Balfour,P,TB,Tampa Bay Rays,R,R
+594795,Grant Dayton,P,ATL,Atlanta Braves,L,L
+502205,Grant Green,2B,WSH,Washington Nationals,R,R
+656550,Grant Holmes,P,OAK,Oakland Athletics,L,R
+543204,Grayson Garvin,P,TB,Tampa Bay Rays,L,L
+606988,Grayson Greiner,C,DET,Detroit Tigers,R,R
+656185,Greg Allen,LF,CLE,Cleveland Indians,S,R
+595885,Greg Bird,1B,NYY,New York Yankees,L,R
+457566,Greg Burke,P,PHI,Philadelphia Phillies,R,R
+425785,Greg Dobbs,1B,WSH,Washington Nationals,L,R
+594824,Greg Garcia,2B,SD,San Diego Padres,L,R
+518813,Greg Holland,P,ARI,Arizona Diamondbacks,R,R
+657670,Greg Mahle,P,LAA,Los Angeles Angels,L,L
+453923,Gregor Blanco,CF,SF,San Francisco Giants,L,L
+463610,Gregorio Petit,SS,PHI,Philadelphia Phillies,R,R
+500872,Gregory Infante,P,CWS,Chicago White Sox,R,R
+570256,Gregory Polanco,RF,PIT,Pittsburgh Pirates,L,L
+642397,Gregory Soto,P,DET,Detroit Tigers,L,L
+656288,Griffin Canning,P,LAA,Los Angeles Angels,R,R
+605317,Guido Knudson,P,PIT,Pittsburgh Pirates,R,R
+457517,Guilder Rodriguez,SS,TEX,Texas Rangers,S,R
+628338,Guillermo Heredia,CF,TB,Tampa Bay Rays,R,L
+425565,Guillermo Quiroz,C,CLE,Cleveland Indians,R,R
+534576,Gus Schlosser,P,ATL,Atlanta Braves,R,R
+573349,Hak-Ju Lee,SS,TB,Tampa Bay Rays,L,R
+474233,Hank Conger,C,TB,Tampa Bay Rays,S,R
+434670,Hanley Ramirez,1B,CLE,Cleveland Indians,R,R
+570663,Hansel Robles,P,LAA,Los Angeles Angels,R,R
+593643,Hanser Alberto,2B,BAL,Baltimore Orioles,R,R
+605612,Harold Castro,3B,DET,Detroit Tigers,L,R
+623912,Harold Ramirez,CF,MIA,Miami Marlins,R,R
+664056,Harrison Bader,CF,STL,St. Louis Cardinals,R,R
+643466,Harrison Musgrave,P,COL,Colorado Rockies,L,L
+425514,Heath Bell,P,WSH,Washington Nationals,R,R
+641571,Heath Fillmyer,P,KC,Kansas City Royals,R,R
+592390,Heath Hembree,P,BOS,Boston Red Sox,R,R
+459932,Hector Ambriz,P,SD,San Diego Padres,L,R
+430591,Hector Gimenez,C,CWS,Chicago White Sox,S,R
+467143,Hector Gomez,2B,MIL,Milwaukee Brewers,R,R
+593576,Hector Neris,P,PHI,Philadelphia Phillies,R,R
+456051,Hector Noesi,P,MIA,Miami Marlins,R,R
+493343,Hector Olivera,LF,SD,San Diego Padres,R,R
+660431,Hector Perez,P,TOR,Toronto Blue Jays,R,R
+444468,Hector Rondon,P,HOU,Houston Astros,R,R
+516949,Hector Sanchez,C,SD,San Diego Padres,S,R
+502327,Hector Santiago,P,CWS,Chicago White Sox,R,L
+584171,Hector Velazquez,P,BOS,Boston Red Sox,R,R
+506693,Henderson Alvarez III,P,PHI,Philadelphia Phillies,R,R
+514719,Henry Alejandro Rodriguez,2B,CIN,Cincinnati Reds,S,R
+596064,Henry Owens,P,LAD,Los Angeles Dodgers,L,L
+469159,Henry Rodriguez,P,MIA,Miami Marlins,R,R
+625329,Henry Urrutia,LF,BAL,Baltimore Orioles,L,R
+454975,Hernan Iribarren,CF,CIN,Cincinnati Reds,L,R
+541650,Hernan Perez,2B,MIL,Milwaukee Brewers,R,R
+572744,Hiram Burgos,P,MIL,Milwaukee Brewers,R,R
+493133,Hiroki Kuroda,P,NYY,New York Yankees,R,R
+547874,Hisashi Iwakuma,P,SEA,Seattle Mariners,R,R
+571948,Hoby Milner,P,TB,Tampa Bay Rays,L,L
+456701,Homer Bailey,P,OAK,Oakland Athletics,R,R
+435062,Howie Kendrick,3B,WSH,Washington Nationals,R,R
+660623,Huascar Ynoa,P,ATL,Atlanta Braves,R,R
+600858,Humberto Arteaga,3B,KC,Kansas City Royals,R,R
+279827,Humberto Quintero,C,SEA,Seattle Mariners,R,R
+543017,Hunter Cervenka,P,MIA,Miami Marlins,L,L
+641531,Hunter Dozier,3B,KC,Kansas City Royals,R,R
+640451,Hunter Harvey,P,BAL,Baltimore Orioles,R,R
+452254,Hunter Pence,DH,TEX,Texas Rangers,R,R
+592669,Hunter Renfroe,LF,SD,San Diego Padres,R,R
+519326,Hunter Strickland,P,WSH,Washington Nationals,R,R
+621056,Hunter Wood,P,CLE,Cleveland Indians,R,R
+434718,Huston Street,P,LAA,Los Angeles Angels,R,R
+547957,Hyun Soo Kim,RF,PHI,Philadelphia Phillies,L,R
+547943,Hyun-Jin Ryu,P,LAD,Los Angeles Dodgers,R,L
+624420,Ian Clarkin,P,CWS,Chicago White Sox,L,L
+435622,Ian Desmond,CF,COL,Colorado Rockies,R,R
+571687,Ian Gardeck,P,SF,San Francisco Giants,R,R
+664139,Ian Gibaut,P,TEX,Texas Rangers,R,R
+641656,Ian Hamilton,P,CWS,Chicago White Sox,R,R
+664023,Ian Happ,CF,CHC,Chicago Cubs,S,R
+453178,Ian Kennedy,P,KC,Kansas City Royals,R,R
+435079,Ian Kinsler,2B,SD,San Diego Padres,R,R
+571871,Ian Krol,P,LAA,Los Angeles Angels,L,L
+641878,Ian Miller,CF,MIN,Minnesota Twins,L,R
+622210,Ian Parmley,OF,TOR,Toronto Blue Jays,L,L
+456655,Ian Stewart,3B,LAA,Los Angeles Angels,L,R
+621962,Ian Thomas,P,LAD,Los Angeles Dodgers,R,L
+400085,Ichiro Suzuki,OF,SEA,Seattle Mariners,L,R
+477195,Ike Davis,1B,NYY,New York Yankees,L,L
+545121,Ildemaro Vargas,2B,ARI,Arizona Diamondbacks,S,R
+458252,Irving Falu,2B,MIL,Milwaukee Brewers,S,R
+543194,Isaac Galloway,RF,MIA,Miami Marlins,R,R
+656371,Isan Diaz,2B,MIA,Miami Marlins,L,R
+643396,Isiah Kiner-Falefa,3B,TEX,Texas Rangers,R,R
+474443,Ivan De Jesus Jr.,SS,CIN,Cincinnati Reds,R,R
+467100,Ivan Nova,P,CWS,Chicago White Sox,R,R
+457918,J.A. Happ,P,NYY,New York Yankees,L,L
+605525,J.B. Wendelken,P,OAK,Oakland Athletics,R,R
+400268,J.C. Boscan,C,CHC,Chicago Cubs,R,R
+605204,J.D. Davis,3B,NYM,New York Mets,R,R
+502110,J.D. Martinez,LF,BOS,Boston Red Sox,R,R
+429666,J.J. Hardy,SS,BAL,Baltimore Orioles,R,R
+543331,J.J. Hoover,P,MIL,Milwaukee Brewers,R,R
+450317,J.P. Arencibia,C,TB,Tampa Bay Rays,R,R
+641487,J.P. Crawford,SS,SEA,Seattle Mariners,L,R
+434442,J.P. Howell,P,TOR,Toronto Blue Jays,L,L
+543242,J.R. Graham,P,NYY,New York Yankees,R,R
+592663,J.T. Realmuto,C,PHI,Philadelphia Phillies,R,R
+518466,Jabari Blash,RF,LAA,Los Angeles Angels,R,R
+605240,Jace Fry,P,CWS,Chicago White Sox,L,L
+607054,Jace Peterson,3B,BAL,Baltimore Orioles,L,R
+656427,Jack Flaherty,P,STL,St. Louis Cardinals,R,R
+435219,Jack Hannahan,1B,CIN,Cincinnati Reds,L,R
+605333,Jack Leathersich,P,TEX,Texas Rangers,R,L
+608686,Jack Mayfield,2B,HOU,Houston Astros,R,R
+595373,Jack Reinheimer,SS,BAL,Baltimore Orioles,R,R
+598265,Jackie Bradley Jr.,CF,BOS,Boston Red Sox,L,R
+623451,Jackson Stephens,P,CIN,Cincinnati Reds,R,R
+519425,Jackson Williams,C,SF,San Francisco Giants,R,R
+606930,Jacob Barnes,P,KC,Kansas City Royals,R,R
+594798,Jacob deGrom,P,NYM,New York Mets,L,R
+595238,Jacob Hannemann,CF,CHC,Chicago Cubs,L,L
+605338,Jacob Lindgren,P,ATL,Atlanta Braves,R,L
+594576,Jacob May,CF,CWS,Chicago White Sox,S,R
+656798,Jacob Nix,P,SD,San Diego Padres,R,R
+641924,Jacob Nottingham,C,MIL,Milwaukee Brewers,R,R
+642008,Jacob Rhame,P,NYM,New York Mets,R,R
+607732,Jacob Stallings,C,PIT,Pittsburgh Pirates,R,R
+545363,Jacob Turner,P,DET,Detroit Tigers,R,R
+621097,Jacob Waguespack,P,TOR,Toronto Blue Jays,R,R
+657097,Jacob Webb,P,ATL,Atlanta Braves,R,R
+453056,Jacoby Ellsbury,CF,NYY,New York Yankees,L,L
+592444,JaCoby Jones,CF,DET,Detroit Tigers,R,R
+666561,Jae-Gyun Hwang,3B,SF,San Francisco Giants,R,R
+543094,Jaff Decker,CF,OAK,Oakland Athletics,L,L
+642545,Jaime Barria,P,LAA,Los Angeles Angels,R,R
+448802,Jaime Garcia,P,CHC,Chicago Cubs,L,L
+621289,Jaime Schultz,P,LAD,Los Angeles Dodgers,R,R
+457453,Jair Jurrjens,P,COL,Colorado Rockies,R,R
+446003,Jairo Asencio,P,CWS,Chicago White Sox,R,R
+545064,Jairo Diaz,P,COL,Colorado Rockies,R,R
+607951,Jairo Labourt,P,OAK,Oakland Athletics,L,L
+453562,Jake Arrieta,P,PHI,Philadelphia Phillies,R,R
+545332,Jake Barrett,P,NYY,New York Yankees,R,R
+641343,Jake Bauers,LF,CLE,Cleveland Indians,L,L
+502010,Jake Brigham,P,ATL,Atlanta Braves,R,R
+594772,Jake Buchanan,P,CIN,Cincinnati Reds,R,R
+595909,Jake Cave,CF,MIN,Minnesota Twins,L,L
+518617,Jake Diekman,P,OAK,Oakland Athletics,L,L
+572827,Jake Dunning,P,SF,San Francisco Giants,R,R
+518653,Jake Elmore,2B,PIT,Pittsburgh Pirates,R,R
+605222,Jake Esch,P,SD,San Diego Padres,R,R
+607188,Jake Faria,P,MIL,Milwaukee Brewers,R,R
+641584,Jake Fraley,CF,SEA,Seattle Mariners,L,L
+572876,Jake Goebbert,1B,TB,Tampa Bay Rays,L,L
+657228,Jake Jewell,P,LAA,Los Angeles Angels,R,R
+571875,Jake Lamb,1B,ARI,Arizona Diamondbacks,L,R
+545350,Jake Marisnick,CF,HOU,Houston Astros,R,R
+459429,Jake McGee,P,COL,Colorado Rockies,L,L
+623470,Jake Newberry,P,KC,Kansas City Royals,R,R
+669738,Jake Noll,1B,WSH,Washington Nationals,R,R
+543606,Jake Odorizzi,P,MIN,Minnesota Twins,R,R
+408241,Jake Peavy,P,SF,San Francisco Giants,R,R
+502593,Jake Petricka,P,MIL,Milwaukee Brewers,R,R
+668670,Jake Rogers,C,DET,Detroit Tigers,R,R
+607727,Jake Smith,P,SD,San Diego Padres,R,R
+519295,Jake Smolinski,CF,OAK,Oakland Athletics,R,R
+622097,Jake Thompson,P,MIL,Milwaukee Brewers,R,R
+596001,Jakob Junis,P,KC,Kansas City Royals,R,R
+656222,Jalen Beeks,P,TB,Tampa Bay Rays,L,L
+503437,James Beresford,3B,MIN,Minnesota Twins,L,R
+630263,James Bourque,P,WSH,Washington Nationals,R,R
+543083,James Darnell,OF,SD,San Diego Padres,R,R
+624586,James Hoyt,P,CLE,Cleveland Indians,R,R
+571825,James Jones,CF,TEX,Texas Rangers,L,L
+621076,James Kaprielian,P,OAK,Oakland Athletics,R,R
+675916,James Karinchak,P,CLE,Cleveland Indians,R,R
+425766,James Loney,1B,NYM,New York Mets,L,L
+621086,James Marvel,P,PIT,Pittsburgh Pirates,R,R
+543510,James McCann,C,CWS,Chicago White Sox,R,R
+457428,James McDonald,P,CHC,Chicago Cubs,L,R
+571982,James Needy,P,MIA,Miami Marlins,R,R
+656803,James Norwood,P,CHC,Chicago Cubs,R,R
+572020,James Paxton,P,NYY,New York Yankees,L,L
+572021,James Pazos,P,COL,Colorado Rockies,R,L
+607256,James Ramsey,OF,LAD,Los Angeles Dodgers,L,R
+460701,James Russell,P,CLE,Cleveland Indians,L,L
+448306,James Shields,P,CWS,Chicago White Sox,R,R
+592791,Jameson Taillon,P,PIT,Pittsburgh Pirates,R,R
+621094,Jamie Callahan,P,NYM,New York Mets,R,R
+457449,Jamie Romak,LF,ARI,Arizona Diamondbacks,R,R
+594311,Jandel Gustave,P,SF,San Francisco Giants,R,R
+454537,Jared Burton,P,NYY,New York Yankees,R,R
+592419,Jared Hoying,CF,TEX,Texas Rangers,L,R
+453172,Jared Hughes,P,PHI,Philadelphia Phillies,R,R
+656744,Jared Miller,P,ARI,Arizona Diamondbacks,L,L
+665120,Jared Walsh,1B,LAA,Los Angeles Angels,L,L
+606424,Jarlin Garcia,P,MIA,Miami Marlins,L,L
+543054,Jarred Cosart,P,SD,San Diego Padres,R,R
+459439,Jarrett Grube,P,SEA,Seattle Mariners,R,R
+592620,Jarrett Parker,LF,LAA,Los Angeles Angels,L,L
+502481,Jarrod Dyson,CF,ARI,Arizona Diamondbacks,L,R
+519105,Jarrod Parker,P,OAK,Oakland Athletics,R,R
+457454,Jarrod Saltalamacchia,C,DET,Detroit Tigers,S,R
+592094,Jason Adam,P,TOR,Toronto Blue Jays,R,R
+430583,Jason Bartlett,SS,MIN,Minnesota Twins,R,R
+460072,Jason Berken,P,CHC,Chicago Cubs,R,R
+430652,Jason Bourgeois,CF,ARI,Arizona Diamondbacks,R,R
+488771,Jason Castro,C,MIN,Minnesota Twins,L,R
+605183,Jason Coats,RF,TB,Tampa Bay Rays,R,R
+453228,Jason Donald,3B,CIN,Cincinnati Reds,R,R
+430630,Jason Frasor,P,ATL,Atlanta Braves,R,R
+592329,Jason Garcia,P,BAL,Baltimore Orioles,R,R
+276351,Jason Grilli,P,TEX,Texas Rangers,R,R
+543261,Jason Gurka,P,LAA,Los Angeles Angels,L,L
+434628,Jason Hammel,P,TEX,Texas Rangers,R,R
+518792,Jason Heyward,RF,CHC,Chicago Cubs,L,L
+592422,Jason Hursh,P,ATL,Atlanta Braves,R,R
+543401,Jason Kipnis,2B,CLE,Cleveland Indians,L,R
+430585,Jason Kubel,OF,MIN,Minnesota Twins,L,R
+407835,Jason Lane,P,SD,San Diego Padres,R,L
+641829,Jason Martin,CF,PIT,Pittsburgh Pirates,L,R
+435400,Jason Motte,P,STL,St. Louis Cardinals,R,R
+445095,Jason Pridie,CF,OAK,Oakland Athletics,L,R
+595386,Jason Rogers,1B,PIT,Pittsburgh Pirates,R,R
+450306,Jason Vargas,P,PHI,Philadelphia Phillies,L,L
+605528,Jason Wheeler,P,LAD,Los Angeles Dodgers,L,L
+595879,Javier Baez,SS,CHC,Chicago Cubs,R,R
+425657,Javier Lopez,P,SF,San Francisco Giants,L,L
+457915,Javy Guerra,P,WSH,Washington Nationals,R,R
+642770,Javy Guerra,P,SD,San Diego Padres,L,R
+457803,Jay Bruce,RF,PHI,Philadelphia Phillies,L,L
+543351,Jay Jackson,P,MIL,Milwaukee Brewers,R,R
+595144,Jaycob Brugman,CF,BAL,Baltimore Orioles,L,L
+488776,Jaye Chapman,P,MIL,Milwaukee Brewers,R,R
+664041,Jaylin Davis,RF,SF,San Francisco Giants,R,R
+593969,Jayson Aquino,P,BAL,Baltimore Orioles,L,L
+434624,Jayson Nix,2B,KC,Kansas City Royals,R,R
+150029,Jayson Werth,OF,WSH,Washington Nationals,R,R
+543776,JB Shuck,LF,PIT,Pittsburgh Pirates,L,L
+500724,JC Ramirez,P,LAA,Los Angeles Angels,R,R
+670456,JD Hammer,P,PHI,Philadelphia Phillies,R,R
+650496,Jean Carlos Mejia,P,CLE,Cleveland Indians,R,R
+466948,Jean Machi,P,SEA,Seattle Mariners,R,R
+516416,Jean Segura,SS,PHI,Philadelphia Phillies,R,R
+491646,Jeanmar Gomez,P,TEX,Texas Rangers,R,R
+605152,Jed Bradley,P,BAL,Baltimore Orioles,L,L
+476704,Jed Lowrie,2B,NYM,New York Mets,S,R
+576397,Jedd Gyorko,3B,LAD,Los Angeles Dodgers,R,R
+425557,Jeff Baker,1B,MIA,Miami Marlins,R,R
+542924,Jeff Beliveau,P,CLE,Cleveland Indians,L,L
+488703,Jeff Bianchi,SS,BOS,Boston Red Sox,R,R
+656257,Jeff Brigham,P,MIA,Miami Marlins,R,R
+594815,Jeff Ferrell,P,DET,Detroit Tigers,R,R
+433585,Jeff Francis,P,TOR,Toronto Blue Jays,L,L
+425796,Jeff Francoeur,OF,MIA,Miami Marlins,R,R
+656546,Jeff Hoffman,P,COL,Colorado Rockies,R,R
+433898,Jeff Keppinger,2B,CWS,Chicago White Sox,R,R
+571862,Jeff Kobernus,LF,WSH,Washington Nationals,R,R
+502046,Jeff Locke,P,MIA,Miami Marlins,L,L
+453249,Jeff Manship,P,CIN,Cincinnati Reds,R,R
+425772,Jeff Mathis,C,TEX,Texas Rangers,R,R
+643446,Jeff McNeil,LF,NYM,New York Mets,L,R
+502188,Jeff Samardzija,P,SF,San Francisco Giants,R,R
+502368,Jeff Walters,P,NYM,New York Mets,R,R
+605488,Jeffrey Springs,P,TEX,Texas Rangers,L,L
+527043,Jefry Marte,1B,LAA,Los Angeles Angels,R,R
+622446,Jefry Rodriguez,P,CLE,Cleveland Indians,R,R
+600869,Jeimer Candelario,3B,DET,Detroit Tigers,S,R
+457789,Jemile Weeks,2B,SD,San Diego Padres,S,R
+627500,Jen-Ho Tseng,P,CHC,Chicago Cubs,L,R
+516769,Jenrry Mejia,P,NYM,New York Mets,R,R
+595191,Jerad Eickhoff,P,PHI,Philadelphia Phillies,R,R
+450308,Jered Weaver,P,SD,San Diego Padres,R,R
+346793,Jeremy Affeldt,P,SF,San Francisco Giants,L,L
+542946,Jeremy Bleich,P,BOS,Boston Red Sox,L,L
+425386,Jeremy Guthrie,P,WSH,Washington Nationals,R,R
+571757,Jeremy Hazelbaker,CF,TB,Tampa Bay Rays,L,R
+458550,Jeremy Hefner,P,NYM,New York Mets,R,R
+476451,Jeremy Hellickson,P,WSH,Washington Nationals,R,R
+435181,Jeremy Hermida,OF,SD,San Diego Padres,L,R
+456662,Jeremy Horst,P,PHI,Philadelphia Phillies,L,L
+502026,Jeremy Jeffress,P,MIL,Milwaukee Brewers,R,R
+489096,Jeremy McBryde,P,LAA,Los Angeles Angels,R,R
+668683,Jeremy Walker,P,ATL,Atlanta Braves,R,R
+543079,Jermaine Curtis,LF,STL,St. Louis Cardinals,R,R
+425532,Jerome Williams,P,STL,St. Louis Cardinals,R,R
+460283,Jerry Blevins,P,ATL,Atlanta Braves,L,L
+543742,Jerry Sands,1B,CWS,Chicago White Sox,R,R
+657786,Jerry Vasto,P,CHC,Chicago Cubs,L,L
+592279,Jesen Therrien,P,PHI,Philadelphia Phillies,R,R
+621044,Jesmuel Valentin,3B,PHI,Philadelphia Phillies,S,R
+592145,Jesse Biddle,P,TEX,Texas Rangers,L,L
+445926,Jesse Chavez,P,TEX,Texas Rangers,R,R
+430884,Jesse Crain,P,HOU,Houston Astros,R,R
+534910,Jesse Hahn,P,KC,Kansas City Royals,R,R
+608385,Jesse Winker,LF,CIN,Cincinnati Reds,L,L
+542583,Jesus Aguilar,1B,TB,Tampa Bay Rays,R,R
+612792,Jesus Castillo,P,LAA,Los Angeles Angels,R,R
+435520,Jesus Flores,C,ATL,Atlanta Braves,R,R
+461882,Jesus Guzman,1B,CHC,Chicago Cubs,R,R
+622338,Jesus Liranzo,P,PIT,Pittsburgh Pirates,R,R
+666200,Jesus Luzardo,P,OAK,Oakland Athletics,L,L
+524968,Jesus Montero,1B,TOR,Toronto Blue Jays,R,R
+660875,Jesus Reyes,P,CIN,Cincinnati Reds,R,R
+660821,Jesus Sanchez,RF,MIA,Miami Marlins,L,R
+491696,Jesus Sucre,C,BAL,Baltimore Orioles,R,R
+622786,Jesus Tinoco,P,COL,Colorado Rockies,R,R
+542908,Jett Bandy,C,MIL,Milwaukee Brewers,R,R
+544727,Jeurys Familia,P,NYM,New York Mets,R,R
+501697,Jhan Marinez,P,BAL,Baltimore Orioles,R,R
+605194,Jharel Cotton,P,OAK,Oakland Athletics,R,R
+500207,Jhonatan Solano,C,WSH,Washington Nationals,R,R
+425509,Jhonny Peralta,3B,STL,St. Louis Cardinals,R,R
+468504,Jhoulys Chacin,P,BOS,Boston Red Sox,R,R
+596847,Ji-Man Choi,1B,TB,Tampa Bay Rays,L,R
+451192,Jim Adduci,RF,CHC,Chicago Cubs,L,L
+449104,Jim Henderson,P,NYM,New York Mets,L,R
+462382,Jim Johnson,P,LAA,Los Angeles Angels,R,R
+461848,Jim Miller,P,NYY,New York Yankees,R,R
+642073,Jimmie Sherfy,P,ARI,Arizona Diamondbacks,R,R
+622772,Jimmy Cordero,P,CWS,Chicago White Sox,R,R
+623474,Jimmy Herget,P,CIN,Cincinnati Reds,R,R
+519076,Jimmy Nelson,P,MIL,Milwaukee Brewers,R,R
+517370,Jimmy Paredes,RF,PHI,Philadelphia Phillies,S,R
+276519,Jimmy Rollins,SS,CWS,Chicago White Sox,S,R
+642231,Jimmy Yacabonis,P,BAL,Baltimore Orioles,R,R
+457456,Jo-Jo Reyes,P,MIA,Miami Marlins,L,L
+465657,Joakim Soria,P,OAK,Oakland Athletics,R,R
+593340,Joan Gregorio,P,SF,San Francisco Giants,R,R
+435078,Joaquin Arias,3B,ARI,Arizona Diamondbacks,R,R
+276542,Joaquin Benoit,P,WSH,Washington Nationals,R,R
+501955,Joba Chamberlain,P,CLE,Cleveland Indians,R,R
+592626,Joc Pederson,LF,LAD,Los Angeles Dodgers,L,L
+346847,Joe Beimel,P,SEA,Seattle Mariners,L,L
+607352,Joe Biagini,P,HOU,Houston Astros,R,R
+430599,Joe Blanton,P,WSH,Washington Nationals,R,R
+571572,Joe Colon,P,STL,St. Louis Cardinals,R,R
+641646,Joe Gunkel,P,MIA,Miami Marlins,R,R
+642840,Joe Harvey,P,COL,Colorado Rockies,R,R
+621529,Joe Hudson,C,STL,St. Louis Cardinals,R,R
+641729,Joe Jimenez,P,DET,Detroit Tigers,R,R
+523260,Joe Kelly,P,LAD,Los Angeles Dodgers,R,R
+573009,Joe Mantiply,P,NYY,New York Yankees,R,L
+458155,Joe Martinez,P,CLE,Cleveland Indians,L,R
+408045,Joe Mauer,1B,MIN,Minnesota Twins,L,R
+663411,Joe McCarthy,LF,SF,San Francisco Giants,L,L
+605397,Joe Musgrove,P,PIT,Pittsburgh Pirates,R,R
+517451,Joe Ortiz,P,CHC,Chicago Cubs,L,L
+643478,Joe Palumbo,P,TEX,Texas Rangers,L,L
+605412,Joe Panik,2B,NYM,New York Mets,L,R
+519110,Joe Paterson,P,ARI,Arizona Diamondbacks,R,L
+605452,Joe Ross,P,WSH,Washington Nationals,R,R
+434578,Joe Saunders,P,BAL,Baltimore Orioles,L,L
+456045,Joe Savery,P,CWS,Chicago White Sox,L,L
+501925,Joe Smith,P,HOU,Houston Astros,R,R
+491159,Joe Thatcher,P,CLE,Cleveland Indians,L,L
+543921,Joe Wieland,P,ATL,Atlanta Braves,R,R
+468528,Joel Carreno,P,TOR,Toronto Blue Jays,R,R
+503444,Joel De La Cruz,P,ATL,Atlanta Braves,R,R
+430629,Joel Hanrahan,P,DET,Detroit Tigers,R,R
+669270,Joel Kuhnel,P,CIN,Cincinnati Reds,R,R
+606303,Joel Payamps,P,ARI,Arizona Diamondbacks,R,R
+407908,Joel Peralta,P,CHC,Chicago Cubs,R,R
+570257,Joely Rodriguez,P,TEX,Texas Rangers,L,L
+542994,Joey Butler,LF,CLE,Cleveland Indians,R,R
+621575,Joey Curletta,1B,BOS,Boston Red Sox,R,R
+608336,Joey Gallo,CF,TEX,Texas Rangers,L,R
+607216,Joey Krehbiel,P,ARI,Arizona Diamondbacks,R,R
+664192,Joey Lucchesi,P,SD,San Diego Padres,L,L
+572073,Joey Rickard,RF,SF,San Francisco Giants,R,L
+519345,Joey Terdoslavich,1B,BAL,Baltimore Orioles,S,R
+458015,Joey Votto,1B,CIN,Cincinnati Reds,L,R
+621563,Joey Wendle,2B,TB,Tampa Bay Rays,L,R
+622666,Johan Camargo,3B,ATL,Atlanta Braves,S,R
+607430,John Andreoli,OF,MIN,Minnesota Twins,R,R
+446099,John Axford,P,TOR,Toronto Blue Jays,R,R
+434633,John Baker,C,CHC,Chicago Cubs,L,R
+657524,John Bormann,C,PIT,Pittsburgh Pirates,R,R
+605154,John Brebbia,P,STL,St. Louis Cardinals,L,R
+407833,John Buck,C,ATL,Atlanta Braves,R,R
+607405,John Cornely,P,BOS,Boston Red Sox,R,R
+595928,John Curtiss,P,LAA,Los Angeles Angels,R,R
+433579,John Danks,P,CWS,Chicago White Sox,L,L
+518655,John Ely,P,HOU,Houston Astros,R,R
+607231,John Gant,P,STL,St. Louis Cardinals,R,R
+518713,John Gast,P,STL,St. Louis Cardinals,L,L
+452105,John Hester,C,LAA,Los Angeles Angels,R,R
+543308,John Hicks,C,DET,Detroit Tigers,R,R
+458720,John Holdzkom,P,PIT,Pittsburgh Pirates,R,R
+444379,John Jaso,RF,PIT,Pittsburgh Pirates,L,R
+407793,John Lackey,P,CHC,Chicago Cubs,R,R
+543424,John Lamb,P,LAA,Los Angeles Angels,L,L
+458709,John Lannan,P,NYM,New York Mets,L,L
+460055,John Mayberry Jr.,LF,DET,Detroit Tigers,R,R
+607644,John Means,P,BAL,Baltimore Orioles,L,L
+571974,John Ryan Murphy,C,ATL,Atlanta Braves,R,R
+670167,John Schreiber,P,DET,Detroit Tigers,R,R
+592127,Johnny Barbato,P,DET,Detroit Tigers,R,R
+456501,Johnny Cueto,P,SF,San Francisco Giants,R,R
+643275,Johnny Davis,OF,TB,Tampa Bay Rays,S,R
+608654,Johnny Field,RF,CHC,Chicago Cubs,R,R
+543213,Johnny Giavotella,2B,BAL,Baltimore Orioles,R,R
+518782,Johnny Hellweg,P,MIL,Milwaukee Brewers,R,R
+476192,Johnny Monell,C,NYM,New York Mets,L,R
+542932,Jon Berti,3B,MIA,Miami Marlins,R,R
+641541,Jon Duplantier,P,ARI,Arizona Diamondbacks,L,R
+457754,Jon Edwards,P,CLE,Cleveland Indians,R,R
+592351,Jon Gray,P,COL,Colorado Rockies,R,R
+445055,Jon Jay,CF,CWS,Chicago White Sox,L,L
+452657,Jon Lester,P,CHC,Chicago Cubs,L,L
+621209,Jon Moscot,P,CIN,Cincinnati Reds,R,R
+572138,Jon Singleton,1B,HOU,Houston Astros,L,L
+452293,Jonathan Albaladejo,P,ARI,Arizona Diamondbacks,R,R
+608167,Jonathan Aro,P,SEA,Seattle Mariners,R,R
+455009,Jonathan Broxton,P,STL,St. Louis Cardinals,R,R
+641505,Jonathan Davis,CF,TOR,Toronto Blue Jays,R,R
+502409,Jonathan Diaz,2B,TOR,Toronto Blue Jays,R,R
+642546,Jonathan Hernandez,P,TEX,Texas Rangers,R,R
+468406,Jonathan Herrera,2B,CHC,Chicago Cubs,S,R
+656547,Jonathan Holder,P,NYY,New York Yankees,R,R
+642528,Jonathan Loaisiga,P,NYY,New York Yankees,R,R
+518960,Jonathan Lucroy,C,CHC,Chicago Cubs,R,R
+449097,Jonathan Papelbon,P,WSH,Washington Nationals,R,R
+543643,Jonathan Pettibone,P,PHI,Philadelphia Phillies,L,R
+456043,Jonathan Sanchez,P,CIN,Cincinnati Reds,L,L
+570731,Jonathan Schoop,2B,MIN,Minnesota Twins,R,R
+542340,Jonathan Villar,2B,BAL,Baltimore Orioles,S,R
+477003,Jonathon Niese,P,NYY,New York Yankees,L,L
+430404,Jonny Gomes,OF,KC,Kansas City Royals,R,R
+458924,Jonny Venters,P,WSH,Washington Nationals,L,L
+488740,Jordan Brown,1B,MIA,Miami Marlins,L,L
+458668,Jordan Danks,CF,PHI,Philadelphia Phillies,L,R
+663855,Jordan Hicks,P,STL,St. Louis Cardinals,R,R
+656548,Jordan Holloway,P,MIA,Miami Marlins,R,R
+543357,Jordan Jankowski,P,LAD,Los Angeles Dodgers,R,R
+656669,Jordan Luplow,RF,CLE,Cleveland Indians,R,R
+543475,Jordan Lyles,P,MIL,Milwaukee Brewers,R,R
+641872,Jordan Milbrath,P,CLE,Cleveland Indians,R,R
+656756,Jordan Montgomery,P,NYY,New York Yankees,L,L
+467099,Jordan Norberto,P,OAK,Oakland Athletics,L,L
+457574,Jordan Pacheco,C,CIN,Cincinnati Reds,R,R
+641958,Jordan Patterson,RF,CIN,Cincinnati Reds,L,L
+605447,Jordan Romano,P,TOR,Toronto Blue Jays,R,R
+457788,Jordan Schafer,CF,MIN,Minnesota Twins,L,L
+596111,Jordan Stephens,P,CLE,Cleveland Indians,R,R
+477229,Jordan Walden,P,STL,St. Louis Cardinals,R,R
+657141,Jordan Yamamoto,P,MIA,Miami Marlins,R,R
+519455,Jordan Zimmermann,P,DET,Detroit Tigers,R,R
+518170,Jordany Valdespin,LF,MIA,Miami Marlins,L,R
+474568,Jordy Mercer,SS,DET,Detroit Tigers,R,R
+660896,Jorge Alcala,P,MIN,Minnesota Twins,R,R
+595751,Jorge Alfaro,C,MIA,Miami Marlins,R,R
+593528,Jorge Bonifacio,RF,KC,Kansas City Royals,R,R
+407822,Jorge De La Rosa,P,CHC,Chicago Cubs,L,L
+501529,Jorge De Leon,P,OAK,Oakland Athletics,R,R
+660422,Jorge Guzman,P,MIA,Miami Marlins,R,R
+605347,Jorge Lopez,P,KC,Kansas City Royals,R,R
+622761,Jorge Mateo,SS,OAK,Oakland Athletics,R,R
+593871,Jorge Polanco,SS,MIN,Minnesota Twins,S,R
+504083,Jorge Rondon,P,PIT,Pittsburgh Pirates,R,R
+624585,Jorge Soler,RF,KC,Kansas City Royals,R,R
+572308,Jose A. Valdez,P,SF,San Francisco Giants,R,R
+547989,Jose Abreu,1B,CWS,Chicago White Sox,R,R
+514888,Jose Altuve,2B,HOU,Houston Astros,R,R
+621237,Jose Alvarado,P,TB,Tampa Bay Rays,L,L
+501625,Jose Alvarez,P,PHI,Philadelphia Phillies,L,L
+461766,Jose Arredondo,P,CIN,Cincinnati Reds,R,R
+430832,Jose Bautista,RF,PHI,Philadelphia Phillies,R,R
+621244,Jose Berrios,P,MIN,Minnesota Twins,R,R
+593993,Jose Briceno,C,LAA,Los Angeles Angels,R,R
+620454,Jose Castillo,P,SD,San Diego Padres,L,L
+542585,Jose Cisnero,P,DET,Detroit Tigers,R,R
+468429,Jose Constanza,LF,ATL,Atlanta Braves,L,L
+473265,Jose De La Torre,P,MIL,Milwaukee Brewers,R,R
+592254,Jose De Leon,P,TB,Tampa Bay Rays,R,R
+517059,Jose De Paula,P,NYY,New York Yankees,R,L
+523848,Jose Dominguez,P,SD,San Diego Padres,R,R
+451990,Jose G. Valdez,P,HOU,Houston Astros,R,R
+578428,Jose Iglesias,SS,CIN,Cincinnati Reds,R,R
+600917,Jose Leclerc,P,TEX,Texas Rangers,R,R
+446653,Jose Lobaton,C,SEA,Seattle Mariners,S,R
+656661,Jose Lopez,P,CIN,Cincinnati Reds,R,R
+622774,Jose Manuel Fernandez,P,DET,Detroit Tigers,L,L
+592530,Jose Marmolejos,1B,WSH,Washington Nationals,L,L
+500874,Jose Martinez,RF,STL,St. Louis Cardinals,R,R
+621089,Jose Mesa,P,BAL,Baltimore Orioles,R,R
+628336,Jose Miguel Fernandez,2B,LAA,Los Angeles Angels,L,R
+467726,Jose Mijares,P,CIN,Cincinnati Reds,L,L
+620445,Jose Mujica,P,TB,Tampa Bay Rays,R,R
+514639,Jose Ortega,P,DET,Detroit Tigers,R,R
+591741,Jose Osuna,3B,PIT,Pittsburgh Pirates,R,R
+606299,Jose Peraza,2B,CIN,Cincinnati Reds,R,R
+517369,Jose Pirela,LF,PHI,Philadelphia Phillies,R,R
+650671,Jose Quijada,P,MIA,Miami Marlins,L,L
+500779,Jose Quintana,P,CHC,Chicago Cubs,R,L
+542432,Jose Ramirez,P,ATL,Atlanta Braves,R,R
+608070,Jose Ramirez,3B,CLE,Cleveland Indians,S,R
+408314,Jose Reyes,3B,NYM,New York Mets,S,R
+642578,Jose Rodriguez,P,LAA,Los Angeles Angels,R,R
+602922,Jose Rondon,2B,BAL,Baltimore Orioles,R,R
+542231,Jose Rosario,P,CHC,Chicago Cubs,R,R
+614179,Jose Ruiz,P,CWS,Chicago White Sox,R,R
+642350,Jose Siri,CF,CIN,Cincinnati Reds,R,R
+660761,Jose Suarez,P,LAA,Los Angeles Angels,L,L
+467798,Jose Tabata,OF,PIT,Pittsburgh Pirates,R,R
+650810,Jose Taveras,P,PHI,Philadelphia Phillies,L,R
+600526,Jose Torres,P,SD,San Diego Padres,L,L
+624431,Jose Trevino,C,TEX,Texas Rangers,R,R
+570632,Jose Urena,P,MIA,Miami Marlins,R,R
+664353,Jose Urquidy,P,HOU,Houston Astros,R,R
+407842,Jose Veras,P,ATL,Atlanta Braves,R,R
+595001,Josh A. Smith,P,BOS,Boston Red Sox,R,R
+277417,Josh Beckett,P,LAD,Los Angeles Dodgers,R,R
+605137,Josh Bell,1B,PIT,Pittsburgh Pirates,S,R
+518567,Josh Collmenter,P,ATL,Atlanta Braves,R,R
+605479,Josh D. Smith,P,MIA,Miami Marlins,L,L
+518626,Josh Donaldson,3B,ATL,Atlanta Braves,R,R
+572831,Josh Edgin,P,NYM,New York Mets,R,L
+451661,Josh Fields,P,LAD,Los Angeles Dodgers,R,R
+658069,Josh Fuentes,3B,COL,Colorado Rockies,R,R
+623352,Josh Hader,P,MIL,Milwaukee Brewers,L,L
+285078,Josh Hamilton,OF,TEX,Texas Rangers,L,L
+543281,Josh Harrison,2B,DET,Detroit Tigers,R,R
+657624,Josh James,P,HOU,Houston Astros,R,R
+435178,Josh Johnson,P,SD,San Diego Padres,L,R
+448337,Josh Kinney,P,SEA,Seattle Mariners,R,R
+458676,Josh Lindblom,P,PIT,Pittsburgh Pirates,R,R
+572998,Josh Lucas,P,BAL,Baltimore Orioles,R,R
+518961,Josh Lueke,P,TB,Tampa Bay Rays,R,R
+607294,Josh Martin,P,SD,San Diego Padres,R,R
+647304,Josh Naylor,RF,SD,San Diego Padres,L,L
+592612,Josh Osich,P,CWS,Chicago White Sox,L,L
+489189,Josh Outman,P,ATL,Atlanta Braves,L,L
+572033,Josh Phegley,C,OAK,Oakland Athletics,R,R
+572389,Josh Prince,CF,MIL,Milwaukee Brewers,R,R
+502051,Josh Ravin,P,ATL,Atlanta Braves,R,R
+502210,Josh Reddick,RF,HOU,Houston Astros,L,R
+502158,Josh Roenicke,P,MIN,Minnesota Twins,R,R
+642028,Josh Rogers,P,BAL,Baltimore Orioles,L,L
+668942,Josh Rojas,3B,ARI,Arizona Diamondbacks,L,R
+592710,Josh Rutledge,3B,BOS,Boston Red Sox,R,R
+543744,Josh Satin,1B,NYM,New York Mets,R,R
+622250,Josh Sborz,P,LAD,Los Angeles Dodgers,R,R
+519294,Josh Smoker,P,DET,Detroit Tigers,L,L
+543805,Josh Spence,P,NYY,New York Yankees,L,L
+622251,Josh Staumont,P,KC,Kansas City Royals,R,R
+502139,Josh Stinson,P,PIT,Pittsburgh Pirates,R,R
+657031,Josh Taylor,P,BOS,Boston Red Sox,L,L
+489365,Josh Thole,C,LAD,Los Angeles Dodgers,L,R
+458708,Josh Tomlin,P,ATL,Atlanta Braves,R,R
+642165,Josh VanMeter,LF,CIN,Cincinnati Reds,L,R
+519388,Josh Vitters,LF,CHC,Chicago Cubs,R,R
+476205,Josh Wall,P,PIT,Pittsburgh Pirates,R,R
+425545,Josh Willingham,OF,KC,Kansas City Royals,R,R
+425543,Josh Wilson,2B,TEX,Texas Rangers,R,R
+473646,Josh Zeid,P,DET,Detroit Tigers,R,R
+500887,Josmil Pinto,C,MIL,Milwaukee Brewers,R,R
+664141,JT Brubaker,P,PIT,Pittsburgh Pirates,R,R
+608638,JT Chargois,P,LAD,Los Angeles Dodgers,S,R
+595375,JT Riddle,SS,MIA,Miami Marlins,L,R
+543633,Juan Carlo Perez,RF,SF,San Francisco Giants,R,R
+434663,Juan Carlos Oviedo,P,TEX,Texas Rangers,R,R
+518542,Juan Centeno,C,BOS,Boston Red Sox,L,R
+501726,Juan Diaz,SS,CLE,Cleveland Indians,L,R
+544269,Juan Duran,OF,CIN,Cincinnati Reds,R,R
+464433,Juan Francisco,3B,BOS,Boston Red Sox,L,R
+492802,Juan Graterol,C,CIN,Cincinnati Reds,R,R
+434641,Juan Gutierrez,P,SF,San Francisco Giants,R,R
+462089,Juan Jaime,P,ATL,Atlanta Braves,R,R
+501571,Juan Lagares,CF,NYM,New York Mets,R,R
+573668,Juan Minaya,P,CWS,Chicago White Sox,R,R
+504379,Juan Nicasio,P,PHI,Philadelphia Phillies,R,R
+407487,Juan Rivera,OF,NYY,New York Yankees,R,R
+665742,Juan Soto,LF,WSH,Washington Nationals,L,L
+346874,Juan Uribe,3B,CLE,Cleveland Indians,R,R
+642759,Julian Fernandez,P,MIA,Miami Marlins,R,R
+657240,Julian Merryweather,P,TOR,Toronto Blue Jays,R,R
+474865,Julio Borbon,CF,BAL,Baltimore Orioles,L,L
+573650,Julio Morban,OF,SEA,Seattle Mariners,L,L
+527054,Julio Teheran,P,ATL,Atlanta Braves,R,R
+628711,Julio Urias,P,LAD,Los Angeles Dodgers,L,L
+471822,Jumbo Diaz,P,TB,Tampa Bay Rays,R,R
+628356,Jung Ho Kang,3B,PIT,Pittsburgh Pirates,R,R
+547749,Junichi Tazawa,P,CHC,Chicago Cubs,R,R
+578570,Juniel Querecuto,3B,TB,Tampa Bay Rays,S,R
+658551,Junior Fernandez,P,STL,St. Louis Cardinals,R,R
+448855,Junior Guerra,P,MIL,Milwaukee Brewers,R,R
+656501,Junior Harding,P,CIN,Cincinnati Reds,R,R
+516809,Junior Lake,RF,TOR,Toronto Blue Jays,R,R
+595777,Jurickson Profar,2B,OAK,Oakland Athletics,S,R
+605121,Justin Anderson,P,LAA,Los Angeles Angels,L,R
+571506,Justin Bour,1B,LAA,Los Angeles Angels,L,R
+451629,Justin Christian,LF,SF,San Francisco Giants,R,R
+518603,Justin DeFratus,P,SEA,Seattle Mariners,S,R
+643290,Justin Dunn,P,SEA,Seattle Mariners,R,R
+543178,Justin Freeman,P,CIN,Cincinnati Reds,R,R
+430683,Justin Germano,P,TEX,Texas Rangers,R,R
+518748,Justin Grimm,P,LAD,Los Angeles Dodgers,R,R
+595234,Justin Haley,P,BOS,Boston Red Sox,R,R
+606995,Justin Hancock,P,CHC,Chicago Cubs,R,R
+664875,Justin Lawrence,P,COL,Colorado Rockies,R,R
+476123,Justin Marks,P,LAD,Los Angeles Dodgers,L,L
+475416,Justin Masterson,P,BOS,Boston Red Sox,R,R
+452239,Justin Maxwell,CF,MIA,Miami Marlins,R,R
+502522,Justin Miller,P,WSH,Washington Nationals,R,R
+408047,Justin Morneau,DH,CWS,Chicago White Sox,L,R
+592593,Justin Nicolino,P,CIN,Cincinnati Reds,L,L
+592604,Justin O'Conner,C,TB,Tampa Bay Rays,R,R
+448605,Justin Ruggiano,CF,SF,San Francisco Giants,R,R
+451088,Justin Sellers,SS,SD,San Diego Padres,R,R
+596101,Justin Shafer,P,TOR,Toronto Blue Jays,R,R
+475253,Justin Smoak,1B,TOR,Toronto Blue Jays,S,L
+657006,Justin Steele,P,CHC,Chicago Cubs,L,L
+476206,Justin Thomas,P,NYY,New York Yankees,L,L
+457759,Justin Turner,3B,LAD,Los Angeles Dodgers,R,R
+457708,Justin Upton,LF,LAA,Los Angeles Angels,R,R
+434378,Justin Verlander,P,HOU,Houston Astros,R,R
+642211,Justin Williams,LF,STL,St. Louis Cardinals,L,R
+458677,Justin Wilson,P,NYM,New York Mets,L,L
+656954,Justus Sheffield,P,SEA,Seattle Mariners,L,L
+592230,Kaleb Cowart,3B,LAA,Los Angeles Angels,S,R
+434180,Kameron Loe,P,SF,San Francisco Giants,R,R
+628318,Kazuhisa Makita,P,SD,San Diego Padres,R,R
+642221,Kean Wong,2B,TB,Tampa Bay Rays,L,R
+660688,Keibert Ruiz,C,LAD,Los Angeles Dodgers,S,R
+572751,Keith Butler,P,STL,St. Louis Cardinals,R,R
+594857,Keith Hessler,P,SD,San Diego Padres,L,L
+605509,Kelby Tomlinson,SS,SF,San Francisco Giants,R,R
+571633,Kelly Dugan,OF,PHI,Philadelphia Phillies,L,R
+430637,Kelly Johnson,3B,NYM,New York Mets,L,R
+431159,Kelly Shoppach,C,CLE,Cleveland Indians,R,R
+642721,Kelvin Gutierrez,3B,KC,Kansas City Royals,R,R
+516969,Kelvin Herrera,P,CWS,Chicago White Sox,R,R
+517629,Kelvin Marte,P,PIT,Pittsburgh Pirates,R,L
+571704,Ken Giles,P,TOR,Toronto Blue Jays,R,R
+594977,Ken Roberts,P,PHI,Philadelphia Phillies,L,L
+608665,Kendall Graveman,P,CHC,Chicago Cubs,R,R
+572309,Kendry Flores,P,MIA,Miami Marlins,R,R
+434778,Kendrys Morales,DH,NYY,New York Yankees,S,R
+445276,Kenley Jansen,P,LAD,Los Angeles Dodgers,S,R
+573627,Kennys Vargas,DH,MIN,Minnesota Twins,S,R
+547887,Kensuke Tanaka,LF,SF,San Francisco Giants,L,R
+628317,Kenta Maeda,P,LAD,Los Angeles Dodgers,R,R
+542979,Keon Broxton,CF,SEA,Seattle Mariners,R,R
+605309,Keone Kela,P,PIT,Pittsburgh Pirates,R,R
+669374,Keston Hiura,2B,MIL,Milwaukee Brewers,R,R
+606466,Ketel Marte,CF,ARI,Arizona Diamondbacks,S,R
+622492,Keury Mella,P,CIN,Cincinnati Reds,R,R
+607345,Kevan Smith,C,LAA,Los Angeles Angels,R,R
+502087,Kevin Chapman,P,ATL,Atlanta Braves,L,L
+429781,Kevin Correia,P,PHI,Philadelphia Phillies,R,R
+605196,Kevin Cron,1B,ARI,Arizona Diamondbacks,R,R
+435623,Kevin Frandsen,1B,SF,San Francisco Giants,R,R
+640737,Kevin Gadea,P,TB,Tampa Bay Rays,R,R
+592332,Kevin Gausman,P,CIN,Cincinnati Reds,L,R
+656464,Kevin Ginkel,P,ARI,Arizona Diamondbacks,L,R
+276514,Kevin Gregg,P,CIN,Cincinnati Reds,R,R
+448178,Kevin Jepsen,P,TEX,Texas Rangers,R,R
+664842,Kevin Kaczmarski,RF,NYM,New York Mets,L,R
+595281,Kevin Kiermaier,CF,TB,Tampa Bay Rays,L,R
+450260,Kevin Kouzmanoff,3B,TEX,Texas Rangers,R,R
+596012,Kevin Kramer,2B,PIT,Pittsburgh Pirates,L,R
+543503,Kevin Mattison,CF,MIA,Miami Marlins,L,L
+641838,Kevin McCarthy,P,KC,Kansas City Royals,R,R
+641850,Kevin McGowan,P,NYM,New York Mets,R,R
+576409,Kevin Munson,P,ARI,Arizona Diamondbacks,R,R
+621028,Kevin Newman,SS,PIT,Pittsburgh Pirates,R,R
+607680,Kevin Pillar,CF,SF,San Francisco Giants,R,R
+608700,Kevin Plawecki,C,CLE,Cleveland Indians,R,R
+534812,Kevin Quackenbush,P,CIN,Cincinnati Reds,R,R
+594992,Kevin Shackelford,P,CIN,Cincinnati Reds,R,R
+543779,Kevin Siegrist,P,PHI,Philadelphia Phillies,L,L
+458713,Kevin Slowey,P,PHI,Philadelphia Phillies,R,R
+460128,Kevin Whelan,P,DET,Detroit Tigers,R,R
+641871,Keynan Middleton,P,LAA,Los Angeles Angels,R,R
+572102,Keyvius Sampson,P,CIN,Cincinnati Reds,R,R
+501981,Khris Davis,LF,OAK,Oakland Athletics,R,R
+451500,Kila Ka'aihue,1B,OAK,Oakland Athletics,L,R
+489446,Kirby Yates,P,SD,San Diego Padres,L,R
+543590,Kirk Nieuwenhuis,CF,MIL,Milwaukee Brewers,L,R
+606983,Koda Glover,P,WSH,Washington Nationals,R,R
+656727,Kodi Medeiros,P,CWS,Chicago White Sox,L,L
+640464,Kohl Stewart,P,MIN,Minnesota Twins,R,R
+493157,Koji Uehara,P,CHC,Chicago Cubs,R,R
+663465,Kolby Allard,P,TEX,Texas Rangers,L,L
+594777,Kole Calhoun,RF,LAA,Los Angeles Angels,L,L
+543939,Kolten Wong,2B,STL,St. Louis Cardinals,L,R
+425542,Koyie Hill,C,PHI,Philadelphia Phillies,S,R
+592178,Kris Bryant,3B,CHC,Chicago Cubs,R,R
+453241,Kris Johnson,P,MIN,Minnesota Twins,L,L
+450665,Kris Medlen,P,ARI,Arizona Diamondbacks,S,R
+502117,Kristopher Negron,2B,LAD,Los Angeles Dodgers,R,R
+435559,Kurt Suzuki,C,WSH,Washington Nationals,R,R
+607457,Kyle Barraclough,P,SF,San Francisco Giants,R,R
+613317,Kyle Bird,P,TEX,Texas Rangers,L,L
+452035,Kyle Blanks,1B,TEX,Texas Rangers,R,R
+605195,Kyle Crick,P,PIT,Pittsburgh Pirates,L,R
+641490,Kyle Crockett,P,CIN,Cincinnati Reds,L,L
+664871,Kyle Dowdy,P,TEX,Texas Rangers,R,R
+475138,Kyle Drabek,P,ARI,Arizona Diamondbacks,R,R
+571657,Kyle Farmer,2B,CIN,Cincinnati Reds,R,R
+607536,Kyle Freeland,P,COL,Colorado Rockies,L,L
+664247,Kyle Garlick,RF,LAD,Los Angeles Dodgers,R,R
+502043,Kyle Gibson,P,MIN,Minnesota Twins,R,R
+543294,Kyle Hendricks,P,CHC,Chicago Cubs,R,R
+543309,Kyle Higashioka,C,NYY,New York Yankees,R,R
+571812,Kyle Jensen,1B,ARI,Arizona Diamondbacks,R,L
+664918,Kyle Keller,P,MIA,Miami Marlins,R,R
+452718,Kyle Kendrick,P,BOS,Boston Red Sox,R,R
+605323,Kyle Kubitza,3B,ATL,Atlanta Braves,L,R
+641786,Kyle Lewis,CF,SEA,Seattle Mariners,R,R
+643414,Kyle Lloyd,P,SD,San Diego Padres,R,R
+543456,Kyle Lobstein,P,BAL,Baltimore Orioles,L,L
+346798,Kyle Lohse,P,TEX,Texas Rangers,R,R
+573016,Kyle Martin,P,BOS,Boston Red Sox,R,R
+641851,Kyle McGowin,P,WSH,Washington Nationals,R,R
+657681,Kyle McGrath,P,SD,San Diego Padres,L,L
+519015,Kyle McPherson,P,PIT,Pittsburgh Pirates,R,R
+592621,Kyle Parker,RF,COL,Colorado Rockies,R,R
+594986,Kyle Ryan,P,CHC,Chicago Cubs,L,L
+656941,Kyle Schwarber,LF,CHC,Chicago Cubs,L,R
+572122,Kyle Seager,3B,SEA,Seattle Mariners,L,R
+543788,Kyle Skipworth,C,CIN,Cincinnati Reds,L,R
+663656,Kyle Tucker,RF,HOU,Houston Astros,L,R
+592835,Kyle Waldrop,RF,CIN,Cincinnati Reds,L,L
+657140,Kyle Wright,P,ATL,Atlanta Braves,R,R
+622092,Kyle Zimmer,P,KC,Kansas City Royals,R,R
+493117,Kyuji Fujikawa,P,TEX,Texas Rangers,L,R
+543321,L.J. Hoes,LF,BAL,Baltimore Orioles,R,R
+664774,LaMonte Wade Jr,LF,MIN,Minnesota Twins,L,L
+458681,Lance Lynn,P,TEX,Texas Rangers,S,R
+621121,Lance McCullers Jr.,P,HOU,Houston Astros,L,R
+572669,Lane Adams,CF,ATL,Atlanta Braves,R,R
+657041,Lane Thomas,CF,STL,St. Louis Cardinals,R,R
+502249,Lars Anderson,1B,TOR,Toronto Blue Jays,L,L
+425556,Laynce Nix,OF,PHI,Philadelphia Phillies,L,L
+643550,Layne Somsen,P,LAD,Los Angeles Dodgers,R,R
+516684,Lendy Castillo,P,CHC,Chicago Cubs,S,R
+599998,Leonel Campos,P,CLE,Cleveland Indians,R,R
+547982,Leonys Martin,CF,CLE,Cleveland Indians,L,R
+500902,Lester Oliveros,P,MIN,Minnesota Twins,R,R
+544725,Leury Garcia,CF,CWS,Chicago White Sox,S,R
+217915,Lew Ford,LF,BAL,Baltimore Orioles,R,R
+621446,Lewis Brinson,CF,MIA,Miami Marlins,R,R
+626929,Lewis Thorpe,P,MIN,Minnesota Twins,R,L
+521230,Liam Hendriks,P,OAK,Oakland Athletics,R,R
+570810,Lisalverto Bonilla,P,CLE,Cleveland Indians,S,R
+657766,Locke St. John,P,TEX,Texas Rangers,L,L
+663531,Logan Allen,P,CLE,Cleveland Indians,R,L
+592244,Logan Darnell,P,MIN,Minnesota Twins,L,L
+523253,Logan Forsythe,1B,TEX,Texas Rangers,R,R
+434137,Logan Kensing,P,DET,Detroit Tigers,R,R
+489149,Logan Morrison,1B,PHI,Philadelphia Phillies,L,L
+446185,Logan Ondrusek,P,BAL,Baltimore Orioles,R,R
+502582,Logan Schafer,RF,MIN,Minnesota Twins,L,L
+548337,Logan Verrett,P,BAL,Baltimore Orioles,R,R
+543894,Logan Watkins,2B,CHC,Chicago Cubs,L,R
+657277,Logan Webb,P,SF,San Francisco Giants,R,R
+502082,Lonnie Chisenhall,OF,PIT,Pittsburgh Pirates,L,R
+456715,Lorenzo Cain,CF,MIL,Milwaukee Brewers,R,R
+453974,Lou Marson,C,PHI,Philadelphia Phillies,R,R
+642152,Lou Trivino,P,OAK,Oakland Athletics,R,R
+488786,Louis Coleman,P,DET,Detroit Tigers,R,R
+666971,Lourdes Gurriel Jr.,LF,TOR,Toronto Blue Jays,R,R
+446263,Lucas Duda,1B,KC,Kansas City Royals,L,R
+608337,Lucas Giolito,P,CWS,Chicago White Sox,R,R
+449173,Lucas Harrell,P,TOR,Toronto Blue Jays,S,R
+476595,Lucas Luetge,P,LAA,Los Angeles Angels,L,L
+608371,Lucas Sims,P,CIN,Cincinnati Reds,R,R
+642772,Luis Alexander Basabe,CF,CWS,Chicago White Sox,S,R
+650333,Luis Arraez,2B,MIN,Minnesota Twins,L,R
+501593,Luis Avilan,P,NYM,New York Mets,L,L
+425646,Luis Ayala,P,WSH,Washington Nationals,R,R
+642456,Luis Barrera,CF,OAK,Oakland Athletics,L,L
+622491,Luis Castillo,P,CIN,Cincinnati Reds,R,R
+570666,Luis Cessa,P,NYY,New York Yankees,R,R
+543071,Luis Cruz,P,HOU,Houston Astros,L,L
+650813,Luis Escobar,P,PIT,Pittsburgh Pirates,R,R
+458701,Luis Exposito,C,BAL,Baltimore Orioles,R,R
+472610,Luis Garcia,P,LAA,Los Angeles Angels,R,R
+641645,Luis Guillorme,SS,NYM,New York Mets,L,R
+455921,Luis Jimenez,DH,SEA,Seattle Mariners,L,L
+499864,Luis Jimenez,3B,BOS,Boston Red Sox,R,R
+650347,Luis Madero,P,LAA,Los Angeles Angels,R,R
+656814,Luis Ortiz,P,BAL,Baltimore Orioles,R,R
+466412,Luis Perdomo,P,MIN,Minnesota Twins,R,R
+606131,Luis Perdomo,P,SD,San Diego Padres,R,R
+469802,Luis Perez,P,TOR,Toronto Blue Jays,L,L
+650859,Luis Rengifo,2B,LAA,Los Angeles Angels,S,R
+608601,Luis Santos,P,TOR,Toronto Blue Jays,R,R
+596143,Luis Sardinas,2B,BAL,Baltimore Orioles,S,R
+622663,Luis Severino,P,NYY,New York Yankees,R,R
+620443,Luis Torrens,C,SD,San Diego Padres,R,R
+649966,Luis Urias,2B,SD,San Diego Padres,R,R
+472528,Luis Valbuena,3B,LAA,Los Angeles Angels,L,R
+644443,Luis Ysla,P,LAD,Los Angeles Dodgers,L,L
+627894,Luiz Gohara,P,ATL,Atlanta Braves,L,L
+572703,Luke Bard,P,LAA,Los Angeles Angels,R,R
+450192,Luke Carlin,C,DET,Detroit Tigers,S,R
+608652,Luke Farrell,P,TEX,Texas Rangers,L,R
+502381,Luke Gregerson,P,STL,St. Louis Cardinals,L,R
+460024,Luke Hochevar,P,KC,Kansas City Royals,R,R
+471863,Luke Hughes,3B,OAK,Oakland Athletics,R,R
+592426,Luke Jackson,P,ATL,Atlanta Braves,R,R
+571912,Luke Maile,C,TOR,Toronto Blue Jays,R,R
+452215,Luke Montz,DH,OAK,Oakland Athletics,R,R
+446367,Luke Putkonen,P,DET,Detroit Tigers,R,R
+432928,Luke Scott,DH,TB,Tampa Bay Rays,L,R
+572228,Luke Voit,1B,NYY,New York Yankees,R,R
+596133,Luke Weaver,P,ARI,Arizona Diamondbacks,R,R
+607776,Mac Williamson,LF,SEA,Seattle Mariners,R,R
+518516,Madison Bumgarner,P,SF,San Francisco Giants,R,L
+572283,Madison Younginer,P,ATL,Atlanta Braves,R,R
+642423,Magneuris Sierra,CF,MIA,Miami Marlins,L,L
+430895,Maicer Izturis,2B,TOR,Toronto Blue Jays,S,R
+521055,Maikel Cleto,P,CWS,Chicago White Sox,R,R
+596748,Maikel Franco,3B,PHI,Philadelphia Phillies,R,R
+605480,Mallex Smith,CF,SEA,Seattle Mariners,L,R
+407924,Manny Acosta,P,NYM,New York Mets,R,R
+544365,Manny Banuelos,P,CWS,Chicago White Sox,R,L
+466918,Manny Corpas,P,COL,Colorado Rockies,R,R
+592518,Manny Machado,SS,SD,San Diego Padres,R,R
+448159,Manny Parra,P,CHC,Chicago Cubs,L,L
+444489,Manny Pina,C,MIL,Milwaukee Brewers,R,R
+622534,Manuel Margot,CF,SD,San Diego Padres,R,R
+571868,Marc Krauss,1B,DET,Detroit Tigers,L,R
+519240,Marc Rzepczynski,P,CLE,Cleveland Indians,L,L
+542303,Marcell Ozuna,LF,STL,St. Louis Cardinals,R,R
+462136,Marco Estrada,P,OAK,Oakland Athletics,R,R
+594835,Marco Gonzales,P,SEA,Seattle Mariners,L,L
+593523,Marco Hernandez,3B,BOS,Boston Red Sox,L,R
+340192,Marco Scutaro,2B,SF,San Francisco Giants,R,R
+650959,Marcos Diplan,P,DET,Detroit Tigers,R,R
+456496,Marcos Mateo,P,SD,San Diego Padres,R,R
+622506,Marcos Molina,P,NYM,New York Mets,R,R
+502281,Marcus Hatley,P,STL,St. Louis Cardinals,R,R
+543760,Marcus Semien,SS,OAK,Oakland Athletics,R,R
+573186,Marcus Stroman,P,NYM,New York Mets,R,R
+519393,Marcus Walden,P,BOS,Boston Red Sox,R,R
+571786,Mario Hollands,P,PHI,Philadelphia Phillies,L,L
+571446,Mark Appel,P,PHI,Philadelphia Phillies,R,R
+592192,Mark Canha,1B,OAK,Oakland Athletics,R,R
+643410,Mark Leiter Jr.,P,TOR,Toronto Blue Jays,R,R
+450275,Mark Lowe,P,LAD,Los Angeles Dodgers,L,R
+453343,Mark Melancon,P,ATL,Atlanta Braves,R,R
+448602,Mark Reynolds,1B,COL,Colorado Rockies,R,R
+449161,Mark Rogers,P,TEX,Texas Rangers,R,R
+407893,Mark Teixeira,1B,NYY,New York Yankees,S,R
+444432,Mark Trumbo,DH,BAL,Baltimore Orioles,R,R
+657145,Mark Zagunis,RF,CHC,Chicago Cubs,R,R
+407781,Marlon Byrd,OF,CLE,Cleveland Indians,R,R
+455117,Martin Maldonado,C,HOU,Houston Astros,R,R
+527048,Martin Perez,P,MIN,Minnesota Twins,L,L
+445988,Martin Prado,1B,MIA,Miami Marlins,R,R
+503556,Marwin Gonzalez,3B,MIN,Minnesota Twins,S,R
+547888,Masahiro Tanaka,P,NYY,New York Yankees,R,R
+608691,Mason Melotakis,P,MIN,Minnesota Twins,R,L
+592863,Mason Williams,OF,BAL,Baltimore Orioles,L,R
+451143,Mat Gamel,1B,ATL,Atlanta Braves,L,R
+502009,Mat Latos,P,TOR,Toronto Blue Jays,R,R
+571431,Matt Adams,1B,WSH,Washington Nationals,L,R
+458006,Matt Albers,P,MIL,Milwaukee Brewers,L,R
+542882,Matt Andriese,P,ARI,Arizona Diamondbacks,R,R
+598264,Matt Barnes,P,BOS,Boston Red Sox,R,R
+607461,Matt Beaty,1B,LAD,Los Angeles Dodgers,L,R
+279571,Matt Belisle,P,MIN,Minnesota Twins,R,R
+621199,Matt Bowman,P,CIN,Cincinnati Reds,R,R
+501936,Matt Buschmann,P,ARI,Arizona Diamondbacks,R,R
+456713,Matt Bush,P,TEX,Texas Rangers,R,R
+430912,Matt Cain,P,SF,San Francisco Giants,R,R
+448165,Matt Capps,P,ATL,Atlanta Braves,R,R
+571539,Matt Carasiti,P,SEA,Seattle Mariners,R,R
+572761,Matt Carpenter,3B,STL,St. Louis Cardinals,L,R
+454998,Matt Carson,RF,CLE,Cleveland Indians,R,R
+656305,Matt Chapman,3B,OAK,Oakland Athletics,R,R
+518558,Matt Clark,1B,CHC,Chicago Cubs,L,R
+457935,Matt Daley,P,NYY,New York Yankees,R,R
+571602,Matt Davidson,1B,CWS,Chicago White Sox,R,R
+571616,Matt Dermody,P,TOR,Toronto Blue Jays,R,L
+518625,Matt Dominguez,3B,TOR,Toronto Blue Jays,R,R
+592274,Matt Duffy,3B,TEX,Texas Rangers,R,R
+622110,Matt Duffy,3B,TB,Tampa Bay Rays,R,R
+670036,Matt Festa,P,SEA,Seattle Mariners,R,R
+490063,Matt Garza,P,MIL,Milwaukee Brewers,R,R
+594840,Matt Grace,P,WSH,Washington Nationals,L,L
+407825,Matt Guerrier,P,MIN,Minnesota Twins,R,R
+518755,Matt Hague,1B,TOR,Toronto Blue Jays,R,R
+664180,Matt Hall,P,DET,Detroit Tigers,L,L
+457448,Matt Harrison,P,PHI,Philadelphia Phillies,L,L
+518774,Matt Harvey,P,LAA,Los Angeles Angels,R,R
+407812,Matt Holliday,LF,COL,Colorado Rockies,R,R
+459964,Matt Joyce,LF,ATL,Atlanta Braves,L,R
+461314,Matt Kemp,LF,CIN,Cincinnati Reds,R,R
+571863,Matt Koch,P,ARI,Arizona Diamondbacks,L,R
+543426,Matt Langwell,P,ARI,Arizona Diamondbacks,R,R
+453181,Matt LaPorta,1B,BAL,Baltimore Orioles,R,R
+434637,Matt Lindstrom,P,LAA,Los Angeles Angels,R,R
+543483,Matt Magill,P,SEA,Seattle Mariners,R,R
+476011,Matt Maloney,P,MIN,Minnesota Twins,L,L
+621408,Matt Marksberry,P,ARI,Arizona Diamondbacks,L,L
+473724,Matt McBride,C,OAK,Oakland Athletics,R,R
+519043,Matt Moore,P,DET,Detroit Tigers,L,L
+621566,Matt Olson,1B,OAK,Oakland Athletics,L,R
+431166,Matt Pagnozzi,C,MIL,Milwaukee Brewers,R,R
+461212,Matt Palmer,P,SD,San Diego Padres,R,R
+545357,Matt Purke,P,CWS,Chicago White Sox,L,L
+543677,Matt Ramsey,P,LAA,Los Angeles Angels,R,R
+519186,Matt Reynolds,P,SF,San Francisco Giants,L,L
+608703,Matt Reynolds,SS,WSH,Washington Nationals,R,R
+533167,Matt Shoemaker,P,TOR,Toronto Blue Jays,R,R
+605474,Matt Skole,1B,CWS,Chicago White Sox,L,R
+592781,Matt Stites,P,ARI,Arizona Diamondbacks,L,R
+621381,Matt Strahm,P,SD,San Diego Padres,R,L
+519333,Matt Szczur,RF,SD,San Diego Padres,R,R
+642136,Matt Thaiss,1B,LAA,Los Angeles Angels,L,R
+407819,Matt Thornton,P,SD,San Diego Padres,L,L
+595441,Matt Tracy,P,NYY,New York Yankees,L,L
+449168,Matt Tuiasosopo,LF,ATL,Atlanta Braves,R,R
+519411,Matt West,P,LAD,Los Angeles Dodgers,R,R
+446308,Matt Wieters,C,STL,St. Louis Cardinals,S,R
+605538,Matt Wisler,P,SEA,Seattle Mariners,R,R
+642226,Matt Wotherspoon,P,BAL,Baltimore Orioles,R,R
+571510,Matthew Boyd,P,DET,Detroit Tigers,L,L
+544925,Matthew den Dekker,CF,NYM,New York Mets,L,L
+606291,Mauricio Cabrera,P,ATL,Atlanta Braves,R,R
+643289,Mauricio Dubon,SS,SF,San Francisco Giants,R,R
+500909,Mauricio Robles,P,PHI,Philadelphia Phillies,L,L
+608331,Max Fried,P,ATL,Atlanta Braves,L,L
+596146,Max Kepler,RF,MIN,Minnesota Twins,L,L
+621559,Max Moroff,SS,CLE,Cleveland Indians,S,R
+571970,Max Muncy,1B,LAD,Los Angeles Dodgers,L,R
+605428,Max Povse,P,SEA,Seattle Mariners,R,R
+453286,Max Scherzer,P,WSH,Washington Nationals,R,R
+545358,Max Stassi,C,LAA,Los Angeles Angels,R,R
+515052,Mayckol Guaipe,P,SEA,Seattle Mariners,R,R
+650619,Meibrys Viloria,C,KC,Kansas City Royals,L,R
+466320,Melky Cabrera,RF,PIT,Pittsburgh Pirates,S,L
+444859,Melky Mesa,CF,KC,Kansas City Royals,R,R
+661536,Melvin Adon,P,SF,San Francisco Giants,L,R
+542235,Melvin Mercedes,P,DET,Detroit Tigers,R,R
+642571,Merandy Gonzalez,P,STL,St. Louis Cardinals,R,R
+518876,Merrill Kelly,P,ARI,Arizona Diamondbacks,R,R
+608672,Micah Johnson,2B,TB,Tampa Bay Rays,L,R
+452249,Micah Owings,P,SD,San Diego Padres,R,R
+572191,Michael A. Taylor,CF,WSH,Washington Nationals,R,R
+518468,Michael Blazek,P,WSH,Washington Nationals,R,R
+456422,Michael Bourn,OF,BAL,Baltimore Orioles,L,R
+476601,Michael Bowden,P,CIN,Cincinnati Reds,R,R
+572728,Michael Brady,P,OAK,Oakland Athletics,R,R
+488726,Michael Brantley,LF,HOU,Houston Astros,L,L
+670712,Michael Brosseau,3B,TB,Tampa Bay Rays,R,R
+656308,Michael Chavis,2B,BOS,Boston Red Sox,R,R
+574831,Michael Choice,RF,CLE,Cleveland Indians,R,R
+624424,Michael Conforto,RF,NYM,New York Mets,L,R
+150212,Michael Cuddyer,OF,NYM,New York Mets,R,R
+593140,Michael Feliz,P,PIT,Pittsburgh Pirates,R,R
+605242,Michael Fulmer,P,DET,Detroit Tigers,R,R
+283166,Michael Gonzalez,P,WSH,Washington Nationals,R,L
+641684,Michael Hermosillo,CF,LAA,Los Angeles Angels,R,R
+547184,Michael Kelly,P,BAL,Baltimore Orioles,R,R
+650633,Michael King,P,NYY,New York Yankees,R,R
+457779,Michael Kirkman,P,ATL,Atlanta Braves,L,L
+543409,Michael Kohn,P,MIN,Minnesota Twins,R,R
+656629,Michael Kopech,P,CWS,Chicago White Sox,R,R
+547179,Michael Lorenzen,P,CIN,Cincinnati Reds,R,R
+592527,Michael Mariot,P,PHI,Philadelphia Phillies,R,R
+492841,Michael Martinez,2B,TB,Tampa Bay Rays,S,R
+502374,Michael McKenry,C,ATL,Atlanta Braves,R,R
+434604,Michael Morse,1B,SF,San Francisco Giants,R,R
+605421,Michael Perez,C,TB,Tampa Bay Rays,L,R
+501381,Michael Pineda,P,MIN,Minnesota Twins,R,R
+605439,Michael Reed,CF,SF,San Francisco Giants,R,R
+607706,Michael Roth,P,TB,Tampa Bay Rays,L,L
+459431,Michael Saunders,OF,COL,Colorado Rockies,L,R
+452741,Michael Stutes,P,PHI,Philadelphia Phillies,R,R
+446345,Michael Taylor,OF,CWS,Chicago White Sox,R,R
+543859,Michael Tonkin,P,TEX,Texas Rangers,R,R
+608379,Michael Wacha,P,STL,St. Louis Cardinals,R,R
+573589,Michael Ynoa,P,CWS,Chicago White Sox,R,R
+673258,Michel Baez,P,SD,San Diego Padres,R,R
+650520,Micker Adolfo,OF,CWS,Chicago White Sox,R,R
+493547,Mickey Storey,P,TOR,Toronto Blue Jays,R,R
+646057,Miguel Alfredo Gonzalez,P,PHI,Philadelphia Phillies,R,R
+602083,Miguel Almonte,P,LAA,Los Angeles Angels,R,R
+609280,Miguel Andujar,3B,NYY,New York Yankees,R,R
+408234,Miguel Cabrera,1B,DET,Detroit Tigers,R,R
+612434,Miguel Castro,P,BAL,Baltimore Orioles,R,R
+600887,Miguel Del Pozo,P,LAA,Los Angeles Angels,L,L
+622766,Miguel Diaz,P,SD,San Diego Padres,R,R
+622497,Miguel Gomez,2B,SF,San Francisco Giants,S,R
+456068,Miguel Gonzalez,P,CWS,Chicago White Sox,R,R
+544838,Miguel Gonzalez,C,CWS,Chicago White Sox,R,R
+471083,Miguel Montero,C,WSH,Washington Nationals,L,R
+400018,Miguel Olivo,C,LAD,Los Angeles Dodgers,R,R
+500743,Miguel Rojas,SS,MIA,Miami Marlins,R,R
+593934,Miguel Sano,3B,MIN,Minnesota Twins,R,R
+462515,Miguel Socolovich,P,ATL,Atlanta Braves,R,R
+658531,Miguelangel Sierra,SS,HOU,Houston Astros,R,R
+430606,Mike Adams,P,PHI,Philadelphia Phillies,R,R
+449107,Mike Aviles,SS,MIA,Miami Marlins,R,R
+488689,Mike Baxter,RF,CHC,Chicago Cubs,L,R
+506988,Mike Belfiore,P,DET,Detroit Tigers,R,L
+502211,Mike Bolsinger,P,TOR,Toronto Blue Jays,R,R
+458678,Mike Broadway,P,TB,Tampa Bay Rays,R,R
+455077,Mike Carp,1B,TEX,Texas Rangers,L,R
+605182,Mike Clevinger,P,CLE,Cleveland Indians,R,R
+453068,Mike Costanzo,3B,CIN,Cincinnati Reds,L,R
+445197,Mike Dunn,P,COL,Colorado Rockies,L,L
+455091,Mike Ekstrom,P,COL,Colorado Rockies,R,R
+571666,Mike Fiers,P,OAK,Oakland Athletics,R,R
+592314,Mike Foltynewicz,P,ATL,Atlanta Braves,R,R
+430917,Mike Fontenot,2B,WSH,Washington Nationals,L,R
+645801,Mike Ford,1B,NYY,New York Yankees,L,R
+502273,Mike Freeman,2B,CLE,Cleveland Indians,L,R
+595222,Mike Gerber,CF,SF,San Francisco Giants,L,R
+623434,Mike Hauschild,P,TOR,Toronto Blue Jays,R,R
+408312,Mike Jacobs,1B,SEA,Seattle Mariners,L,R
+592464,Mike Kickham,P,TEX,Texas Rangers,L,L
+502190,Mike Leake,P,ARI,Arizona Diamondbacks,R,R
+213680,Mike MacDougal,P,LAD,Los Angeles Dodgers,S,R
+605357,Mike Marjama,C,SEA,Seattle Mariners,R,R
+594577,Mike Mayers,P,STL,St. Louis Cardinals,R,R
+501873,Mike McClendon,P,COL,Colorado Rockies,R,R
+453454,Mike McCoy,2B,TOR,Toronto Blue Jays,R,R
+623166,Mike Miller,SS,BOS,Boston Red Sox,R,R
+501985,Mike Minor,P,TEX,Texas Rangers,R,L
+543557,Mike Montgomery,P,KC,Kansas City Royals,L,L
+573046,Mike Morin,P,PHI,Philadelphia Phillies,R,R
+519058,Mike Moustakas,2B,MIL,Milwaukee Brewers,L,R
+435063,Mike Napoli,1B,TEX,Texas Rangers,R,R
+435081,Mike Nickeas,C,TOR,Toronto Blue Jays,R,R
+572000,Mike Ohlman,C,TEX,Texas Rangers,R,R
+592609,Mike Olt,3B,CWS,Chicago White Sox,R,R
+460059,Mike Pelfrey,P,CWS,Chicago White Sox,R,R
+642067,Mike Shawaryn,P,BOS,Boston Red Sox,R,R
+647336,Mike Soroka,P,ATL,Atlanta Braves,R,R
+572175,Mike Strong,P,MIN,Minnesota Twins,L,L
+643565,Mike Tauchman,CF,NYY,New York Yankees,L,L
+545361,Mike Trout,CF,LAA,Los Angeles Angels,R,R
+605541,Mike Wright,P,SEA,Seattle Mariners,R,R
+573262,Mike Yastrzemski,LF,SF,San Francisco Giants,L,L
+489448,Mike Zagurski,P,CHC,Chicago Cubs,L,L
+572287,Mike Zunino,C,TB,Tampa Bay Rays,R,R
+543484,Mikie Mahtook,CF,DET,Detroit Tigers,R,R
+571945,Miles Mikolas,P,STL,St. Louis Cardinals,R,R
+641598,Mitch Garver,C,MIN,Minnesota Twins,R,R
+571745,Mitch Haniger,RF,SEA,Seattle Mariners,R,R
+518771,Mitch Harris,P,STL,St. Louis Cardinals,R,R
+656605,Mitch Keller,P,PIT,Pittsburgh Pirates,R,R
+430574,Mitch Maier,OF,CHC,Chicago Cubs,L,R
+519048,Mitch Moreland,1B,BOS,Boston Red Sox,L,L
+605520,Mitch Walding,3B,PHI,Philadelphia Phillies,L,R
+459939,Mitchell Boggs,P,BOS,Boston Red Sox,R,R
+501213,Moises Sierra,LF,WSH,Washington Nationals,R,R
+657566,Montana DuRapau,P,PIT,Pittsburgh Pirates,R,R
+656509,Monte Harrison,CF,MIA,Miami Marlins,R,R
+572080,Montreal Robertson,P,DET,Detroit Tigers,R,R
+605141,Mookie Betts,RF,BOS,Boston Red Sox,R,R
+493128,Munenori Kawasaki,SS,CHC,Chicago Cubs,L,R
+571710,Mychal Givens,P,BAL,Baltimore Orioles,R,R
+594867,Myles Jaye,P,MIN,Minnesota Twins,S,R
+664702,Myles Straw,CF,HOU,Houston Astros,R,R
+502264,Nate Adcock,P,CIN,Cincinnati Reds,R,R
+474384,Nate Freiman,1B,ATL,Atlanta Braves,R,R
+518858,Nate Jones,P,TEX,Texas Rangers,R,R
+501992,Nate Karns,P,BAL,Baltimore Orioles,R,R
+663993,Nate Lowe,1B,TB,Tampa Bay Rays,L,R
+434661,Nate McLouth,OF,WSH,Washington Nationals,L,R
+644337,Nate Orf,2B,MIL,Milwaukee Brewers,R,R
+435625,Nate Schierholtz,OF,TEX,Texas Rangers,L,R
+642091,Nate Smith,P,LAA,Los Angeles Angels,L,L
+460621,Nate Spears,3B,BOS,Boston Red Sox,L,R
+543135,Nathan Eovaldi,P,BOS,Boston Red Sox,R,R
+425840,Neal Cotts,P,HOU,Houston Astros,L,L
+596331,Nefi Ogando,P,CIN,Cincinnati Reds,R,R
+491703,Neftali Feliz,P,KC,Kansas City Royals,R,R
+519304,Neftali Soto,1B,CIN,Cincinnati Reds,R,R
+519166,Neil Ramirez,P,TOR,Toronto Blue Jays,R,R
+474599,Neil Wagner,P,TOR,Toronto Blue Jays,R,R
+435522,Neil Walker,1B,MIA,Miami Marlins,S,R
+443558,Nelson Cruz,DH,MIN,Minnesota Twins,R,R
+641482,Nestor Cortes Jr.,P,NYY,New York Yankees,R,L
+502213,Nevin Ashley,C,NYM,New York Mets,R,R
+592206,Nicholas Castellanos,RF,CHC,Chicago Cubs,R,R
+605113,Nick Ahmed,SS,ARI,Arizona Diamondbacks,R,R
+623433,Nick Anderson,P,TB,Tampa Bay Rays,R,R
+595897,Nick Burdi,P,PIT,Pittsburgh Pirates,R,R
+502544,Nick Buss,LF,LAA,Los Angeles Angels,L,R
+543023,Nick Christiani,P,CIN,Cincinnati Reds,R,R
+624419,Nick Ciuffo,C,TB,Tampa Bay Rays,L,R
+664926,Nick Dini,C,KC,Kansas City Royals,R,R
+452783,Nick Evans,1B,ARI,Arizona Diamondbacks,R,R
+545338,Nick Franklin,2B,MIL,Milwaukee Brewers,S,R
+643320,Nick Gardewine,P,TEX,Texas Rangers,R,R
+580792,Nick Goody,P,CLE,Cleveland Indians,R,R
+624503,Nick Gordon,SS,MIN,Minnesota Twins,L,R
+643340,Nick Green,P,NYY,New York Yankees,R,R
+572889,Nick Greenwood,P,STL,St. Louis Cardinals,R,L
+444935,Nick Hagadone,P,CLE,Cleveland Indians,L,L
+460026,Nick Hundley,C,OAK,Oakland Athletics,R,R
+592468,Nick Kingham,P,TOR,Toronto Blue Jays,R,R
+595297,Nick Lee,P,WSH,Washington Nationals,L,L
+676606,Nick Margevicius,P,SD,San Diego Padres,L,L
+455976,Nick Markakis,RF,ATL,Atlanta Braves,L,L
+543488,Nick Maronde,P,CLE,Cleveland Indians,S,L
+607259,Nick Martinez,P,TEX,Texas Rangers,L,R
+605361,Nick Martini,LF,SD,San Diego Padres,L,L
+434665,Nick Masset,P,ATL,Atlanta Braves,R,R
+519082,Nick Noonan,SS,SD,San Diego Padres,L,R
+601713,Nick Pivetta,P,PHI,Philadelphia Phillies,R,R
+346857,Nick Punto,2B,OAK,Oakland Athletics,S,R
+598286,Nick Ramirez,P,DET,Detroit Tigers,L,L
+592705,Nick Rumbelow,P,SEA,Seattle Mariners,R,R
+669222,Nick Senzel,CF,CIN,Cincinnati Reds,R,R
+669256,Nick Solak,2B,TEX,Texas Rangers,R,R
+430897,Nick Swisher,OF,ATL,Atlanta Braves,S,L
+519344,Nick Tepesch,P,TOR,Toronto Blue Jays,R,R
+621072,Nick Travieso,P,CIN,Cincinnati Reds,R,R
+607374,Nick Tropeano,P,LAA,Los Angeles Angels,R,R
+543883,Nick Vincent,P,PHI,Philadelphia Phillies,R,R
+608384,Nick Williams,LF,PHI,Philadelphia Phillies,L,L
+621295,Nick Wittgren,P,CLE,Cleveland Indians,R,R
+547170,Nicky Delmonico,LF,CWS,Chicago White Sox,L,R
+670032,Nicky Lopez,2B,KC,Kansas City Royals,L,R
+663538,Nico Hoerner,SS,CHC,Chicago Cubs,R,R
+543867,Nik Turley,P,PIT,Pittsburgh Pirates,L,L
+592348,Niko Goodrum,LF,DET,Detroit Tigers,S,R
+592789,Noah Syndergaard,P,NYM,New York Mets,L,R
+598287,Noe Ramirez,P,LAA,Los Angeles Angels,R,R
+571595,Noel Cuevas,LF,COL,Colorado Rockies,R,R
+571448,Nolan Arenado,3B,COL,Colorado Rockies,R,R
+545337,Nolan Fontana,SS,LAA,Los Angeles Angels,L,R
+460099,Nolan Reimold,LF,BAL,Baltimore Orioles,R,R
+608577,Nomar Mazara,RF,TEX,Texas Rangers,L,L
+493114,Norichika Aoki,OF,NYM,New York Mets,L,R
+460579,Nyjer Morgan,CF,CLE,Cleveland Indians,L,L
+607297,O'Koyea Dickson,LF,LAD,Los Angeles Dodgers,R,R
+628333,Odrisamer Despaigne,P,CWS,Chicago White Sox,R,R
+546318,Odubel Herrera,CF,PHI,Philadelphia Phillies,L,R
+543118,Oliver Drake,P,TB,Tampa Bay Rays,R,R
+424144,Oliver Perez,P,CLE,Cleveland Indians,L,L
+408299,Omar Infante,2B,KC,Kansas City Royals,R,R
+553882,Omar Narvaez,C,SEA,Seattle Mariners,L,R
+435560,Omar Quintanilla,SS,NYM,New York Mets,L,R
+435408,Omir Santos,C,CLE,Cleveland Indians,R,R
+607162,Onelki Garcia,P,KC,Kansas City Royals,L,L
+606115,Orlando Arcia,SS,MIL,Milwaukee Brewers,R,R
+593525,Orlando Calixte,SS,SF,San Francisco Giants,R,R
+642601,Oscar De La Cruz,P,CHC,Chicago Cubs,R,R
+591712,Oscar Hernandez,C,BOS,Boston Red Sox,R,R
+640458,Oscar Mercado,RF,CLE,Cleveland Indians,R,R
+570805,Oscar Taveras,OF,STL,St. Louis Cardinals,L,L
+591672,Osmer Morales,P,LAA,Los Angeles Angels,R,R
+542455,Oswaldo Arcia,LF,SD,San Diego Padres,L,R
+615703,Owen Spiwak,P,TOR,Toronto Blue Jays,L,R
+645277,Ozzie Albies,2B,ATL,Atlanta Braves,S,R
+664869,P.J. Conlon,P,NYM,New York Mets,L,L
+502208,P.J. Walters,P,LAD,Los Angeles Dodgers,R,R
+641154,Pablo Lopez,P,MIA,Miami Marlins,L,R
+622569,Pablo Reyes,LF,PIT,Pittsburgh Pirates,R,R
+467055,Pablo Sandoval,3B,SF,San Francisco Giants,S,R
+572089,Paco Rodriguez,P,ATL,Atlanta Braves,L,L
+502179,Paolo Espino,P,TEX,Texas Rangers,R,R
+592170,Parker Bridwell,P,OAK,Oakland Athletics,R,R
+571917,Parker Markel,P,PIT,Pittsburgh Pirates,R,R
+534737,Pat Dean,P,MIN,Minnesota Twins,L,L
+572990,Pat Light,P,SEA,Seattle Mariners,R,R
+450212,Pat Neshek,P,PHI,Philadelphia Phillies,S,R
+642162,Pat Valaika,3B,COL,Colorado Rockies,R,R
+519381,Pat Venditte,P,SF,San Francisco Giants,L,S
+571578,Patrick Corbin,P,WSH,Washington Nationals,L,L
+623182,Patrick Kivlehan,OF,PIT,Pittsburgh Pirates,R,R
+519003,Patrick McCoy,P,BAL,Baltimore Orioles,L,L
+641907,Patrick Murphy,P,TOR,Toronto Blue Jays,R,R
+663776,Patrick Sandoval,P,LAA,Los Angeles Angels,L,L
+572119,Patrick Schuster,P,PHI,Philadelphia Phillies,R,L
+622256,Patrick Weigel,P,ATL,Atlanta Braves,R,R
+621550,Patrick Wisdom,1B,TEX,Texas Rangers,R,R
+621112,Paul Blackburn,P,OAK,Oakland Athletics,R,R
+518560,Paul Clemens,P,SD,San Diego Padres,R,R
+657557,Paul DeJong,SS,STL,St. Louis Cardinals,R,R
+643316,Paul Fry,P,BAL,Baltimore Orioles,L,L
+502671,Paul Goldschmidt,1B,STL,St. Louis Cardinals,R,R
+457926,Paul Janish,SS,BAL,Baltimore Orioles,R,R
+430904,Paul Maholm,P,CIN,Cincinnati Reds,L,L
+623149,Paul Sewald,P,NYM,New York Mets,R,R
+449181,Paulo Orlando,OF,LAD,Los Angeles Dodgers,R,R
+476883,Pedro Alvarez,3B,BAL,Baltimore Orioles,L,R
+606478,Pedro Araujo,P,BAL,Baltimore Orioles,R,R
+658648,Pedro Avila,P,SD,San Diego Padres,R,R
+520980,Pedro Baez,P,LAD,Los Angeles Dodgers,R,R
+474039,Pedro Beato,P,PHI,Philadelphia Phillies,R,R
+465674,Pedro Ciriaco,2B,TEX,Texas Rangers,R,R
+408230,Pedro Feliciano,P,NYM,New York Mets,L,L
+471896,Pedro Figueroa,P,TEX,Texas Rangers,L,L
+465753,Pedro Florimon,SS,PHI,Philadelphia Phillies,S,R
+517060,Pedro Hernandez,P,COL,Colorado Rockies,L,L
+622797,Pedro Payano,P,TEX,Texas Rangers,R,R
+600474,Pedro Severino,C,BAL,Baltimore Orioles,R,R
+467008,Pedro Strop,P,CHC,Chicago Cubs,R,R
+543881,Pedro Villarreal,P,CIN,Cincinnati Reds,R,R
+592330,Perci Garner,P,CLE,Cleveland Indians,R,R
+624413,Pete Alonso,1B,NYM,New York Mets,R,R
+664126,Pete Fairbanks,P,TB,Tampa Bay Rays,R,R
+518902,Pete Kozma,SS,DET,Detroit Tigers,R,R
+434681,Pete Orr,3B,PHI,Philadelphia Phillies,L,R
+488721,Peter Bourjos,OF,LAA,Los Angeles Angels,R,R
+663567,Peter Lambert,P,COL,Colorado Rockies,R,R
+493247,Peter Moylan,P,ATL,Atlanta Braves,R,R
+598284,Peter O'Brien,RF,MIA,Miami Marlins,R,R
+457435,Phil Coke,P,PIT,Pittsburgh Pirates,L,L
+594838,Phil Gosselin,SS,PHI,Philadelphia Phillies,R,R
+461833,Phil Hughes,P,SD,San Diego Padres,R,R
+572947,Phil Irwin,P,TEX,Texas Rangers,R,R
+607309,Phil Klein,P,PHI,Philadelphia Phillies,R,R
+664208,Phil Maton,P,CLE,Cleveland Indians,R,R
+458950,Philip Humber,P,HOU,Houston Astros,R,R
+670426,Phillip Diehl,P,COL,Colorado Rockies,L,L
+640447,Phillip Ervin,RF,CIN,Cincinnati Reds,R,R
+595943,Phillip Evans,3B,NYM,New York Mets,R,R
+518418,Phillippe Aumont,P,PHI,Philadelphia Phillies,L,R
+570488,Phillips Valdez,P,TEX,Texas Rangers,R,R
+572955,Pierce Johnson,P,SF,San Francisco Giants,R,R
+502011,Preston Claiborne,P,TEX,Texas Rangers,R,R
+543258,Preston Guilmet,P,TOR,Toronto Blue Jays,R,R
+605512,Preston Tucker,LF,ATL,Atlanta Braves,L,L
+425902,Prince Fielder,DH,TEX,Texas Rangers,L,R
+450641,Quintin Berry,CF,MIL,Milwaukee Brewers,L,L
+285079,R.A. Dickey,P,ATL,Atlanta Braves,R,R
+595798,R.J. Alaniz,P,CIN,Cincinnati Reds,R,R
+571439,R.J. Alvarez,P,TEX,Texas Rangers,R,R
+467785,Radhames Liz,P,PIT,Pittsburgh Pirates,R,R
+622441,Rafael Bautista,CF,WSH,Washington Nationals,R,R
+429783,Rafael Betancourt,P,COL,Colorado Rockies,R,R
+646240,Rafael Devers,3B,BOS,Boston Red Sox,L,R
+503569,Rafael Dolis,P,DET,Detroit Tigers,R,R
+514669,Rafael Martin,P,WSH,Washington Nationals,R,R
+606160,Rafael Montero,P,TEX,Texas Rangers,R,R
+542364,Rafael Ortega,LF,ATL,Atlanta Braves,L,R
+460370,Rafael Perez,P,CLE,Cleveland Indians,L,L
+400089,Rafael Soriano,P,CHC,Chicago Cubs,R,R
+501255,Rafael Ynoa,LF,COL,Colorado Rockies,S,R
+607257,Raffy Lopez,C,ATL,Atlanta Braves,L,R
+606132,Raimel Tapia,LF,COL,Colorado Rockies,L,L
+628452,Raisel Iglesias,P,CIN,Cincinnati Reds,R,R
+434658,Rajai Davis,CF,NYM,New York Mets,R,R
+455369,Ramiro Pena,2B,SF,San Francisco Giants,S,R
+541608,Ramon Cabrera,C,CIN,Cincinnati Reds,S,R
+430673,Ramon E Ramirez,P,BAL,Baltimore Orioles,R,R
+570717,Ramon Flores,OF,BOS,Boston Red Sox,L,L
+657656,Ramon Laureano,CF,OAK,Oakland Athletics,R,R
+421124,Ramon Santiago,2B,TOR,Toronto Blue Jays,S,R
+593527,Ramon Torres,2B,KC,Kansas City Royals,S,R
+470462,Ramon Troncoso,P,CWS,Chicago White Sox,R,R
+602104,Ramon Urias,2B,STL,St. Louis Cardinals,R,R
+545341,Randal Grichuk,CF,TOR,Toronto Blue Jays,R,R
+517414,Randall Delgado,P,CWS,Chicago White Sox,R,R
+668227,Randy Arozarena,LF,STL,St. Louis Cardinals,R,R
+677976,Randy Dobnak,P,MIN,Minnesota Twins,R,R
+600968,Randy Rosario,P,KC,Kansas City Royals,L,L
+592660,Rangel Ravelo,1B,STL,St. Louis Cardinals,R,R
+624133,Ranger Suarez,P,PHI,Philadelphia Phillies,L,L
+612272,Raudel Lazo,P,MIA,Miami Marlins,L,L
+600466,Raudy Read,C,WSH,Washington Nationals,R,R
+593417,Raul Alcantara,P,OAK,Oakland Athletics,R,R
+447744,Raul Valdes,P,HOU,Houston Astros,L,L
+605143,Ray Black,P,MIL,Milwaukee Brewers,R,R
+408232,Ray Olmedo,SS,CWS,Chicago White Sox,S,R
+543234,Rayan Gonzalez,P,COL,Colorado Rockies,R,R
+572017,Red Patterson,P,LAD,Los Angeles Dodgers,R,R
+657585,Reed Garrett,P,DET,Detroit Tigers,R,R
+407862,Reed Johnson,OF,WSH,Washington Nationals,R,R
+624512,Reese McGuire,C,TOR,Toronto Blue Jays,L,R
+596035,Reggie McClain,P,SEA,Seattle Mariners,R,R
+458582,Reid Brignac,SS,WSH,Washington Nationals,L,R
+600524,Renato Nunez,3B,BAL,Baltimore Orioles,R,R
+425784,Rene Rivera,C,NYM,New York Mets,R,R
+571521,Rex Brothers,P,ATL,Atlanta Braves,L,L
+571681,Rey Fuentes,CF,ARI,Arizona Diamondbacks,L,L
+519071,Rey Navarro,SS,LAA,Los Angeles Angels,S,R
+606625,Reyes Moronta,P,SF,San Francisco Giants,R,R
+594056,Reymin Guduan,P,HOU,Houston Astros,L,L
+625643,Reynaldo Lopez,P,CWS,Chicago White Sox,R,R
+462480,Rhiner Cruz,P,TOR,Toronto Blue Jays,R,R
+656555,Rhys Hoskins,1B,PHI,Philadelphia Phillies,R,R
+620982,Ricardo Pinto,P,SF,San Francisco Giants,R,R
+600965,Ricardo Rodriguez,P,TEX,Texas Rangers,R,R
+645307,Ricardo Sanchez,P,SEA,Seattle Mariners,L,L
+448179,Rich Hill,P,LAD,Los Angeles Dodgers,L,L
+542947,Richard Bleier,P,BAL,Baltimore Orioles,L,L
+663992,Richard Lovelady,P,KC,Kansas City Royals,L,L
+593144,Richard Rodriguez,P,PIT,Pittsburgh Pirates,R,R
+620446,Richard Urena,SS,TOR,Toronto Blue Jays,S,R
+621006,Richie Martin,SS,BAL,Baltimore Orioles,R,R
+572128,Richie Shaffer,1B,CLE,Cleveland Indians,R,R
+519144,Rick Porcello,P,BOS,Boston Red Sox,R,R
+430001,Rickie Weeks,1B,TB,Tampa Bay Rays,R,R
+445060,Ricky Nolasco,P,KC,Kansas City Royals,R,R
+460069,Ricky Romero,P,TOR,Toronto Blue Jays,R,L
+670329,Rico Garcia,P,COL,Colorado Rockies,R,R
+592596,Rico Noel,CF,NYY,New York Yankees,R,R
+621068,Riley Ferrell,P,MIA,Miami Marlins,R,R
+547004,Rio Ruiz,3B,BAL,Baltimore Orioles,L,R
+542963,Rob Brantly,C,PHI,Philadelphia Phillies,L,R
+519169,Rob Rasmussen,P,LAA,Los Angeles Angels,R,L
+608701,Rob Refsnyder,OF,ARI,Arizona Diamondbacks,R,R
+543746,Rob Scahill,P,CHC,Chicago Cubs,L,R
+574847,Rob Segedin,3B,LAD,Los Angeles Dodgers,R,R
+547007,Rob Whalen,P,SEA,Seattle Mariners,R,R
+543942,Rob Wooten,P,MIL,Milwaukee Brewers,R,R
+642239,Rob Zastryzny,P,CHC,Chicago Cubs,R,L
+572362,Robbie Erlin,P,SD,San Diego Padres,R,L
+543257,Robbie Grossman,LF,OAK,Oakland Athletics,S,L
+592662,Robbie Ray,P,ARI,Arizona Diamondbacks,L,L
+543726,Robbie Ross Jr.,P,BOS,Boston Red Sox,L,L
+582494,Robby Scott,P,ARI,Arizona Diamondbacks,R,L
+596825,Robel Garcia,2B,CHC,Chicago Cubs,S,R
+435180,Robert Andino,2B,MIA,Miami Marlins,R,R
+518533,Robert Carson,P,LAA,Los Angeles Angels,L,L
+445193,Robert Coello,P,LAA,Los Angeles Angels,R,R
+667498,Robert Dugger,P,MIA,Miami Marlins,R,R
+607229,Robert Gsellman,P,NYM,New York Mets,R,R
+596112,Robert Stephenson,P,CIN,Cincinnati Reds,R,R
+476594,Robert Stock,P,SD,San Diego Padres,L,R
+596816,Roberto  Gomez,P,SF,San Francisco Giants,R,R
+433584,Roberto Hernandez,P,ATL,Atlanta Braves,R,R
+532077,Roberto Osuna,P,HOU,Houston Astros,R,R
+547379,Roberto Perez,C,CLE,Cleveland Indians,R,R
+429664,Robinson Cano,2B,NYM,New York Mets,L,R
+455139,Robinson Chirinos,C,HOU,Houston Astros,R,R
+502570,Rocky Gale,C,LAD,Los Angeles Dodgers,R,R
+606273,Roenis Elias,P,WSH,Washington Nationals,L,L
+660494,Rogelio Armenteros,P,HOU,Houston Astros,R,R
+465668,Roger Bernadina,LF,LAD,Los Angeles Dodgers,L,L
+523261,Roger Kieschnick,RF,LAA,Los Angeles Angels,L,R
+430638,Roman Colon,P,KC,Kansas City Royals,R,R
+542669,Roman Mendez,P,BOS,Boston Red Sox,R,R
+596451,Roman Quinn,CF,PHI,Philadelphia Phillies,S,R
+660670,Ronald Acuna Jr.,LF,ATL,Atlanta Braves,R,R
+430613,Ronald Belisario,P,TB,Tampa Bay Rays,R,R
+671790,Ronald Bolanos,P,SD,San Diego Padres,R,R
+608597,Ronald Guzman,1B,TEX,Texas Rangers,L,L
+622703,Ronald Herrera,P,TEX,Texas Rangers,R,R
+591720,Ronald Torreyes,2B,MIN,Minnesota Twins,R,R
+608589,Ronnier Mustelier,OF,ATL,Atlanta Braves,R,R
+430592,Ronny Cedeno,SS,PHI,Philadelphia Phillies,R,R
+425661,Ronny Paulino,C,SEA,Seattle Mariners,R,R
+500135,Ronny Rodriguez,SS,DET,Detroit Tigers,R,R
+606959,Rookie Davis,P,PIT,Pittsburgh Pirates,R,R
+594011,Rosell Herrera,CF,MIA,Miami Marlins,S,R
+446321,Ross Detwiler,P,CWS,Chicago White Sox,R,L
+456027,Ross Ohlendorf,P,CIN,Cincinnati Reds,R,R
+548389,Ross Stripling,P,LAD,Los Angeles Dodgers,R,R
+448693,Ross Wolf,P,TEX,Texas Rangers,R,R
+596059,Rougned Odor,2B,TEX,Texas Rangers,L,R
+592858,Rowan Wick,P,CHC,Chicago Cubs,L,R
+642133,Rowdy Tellez,1B,TOR,Toronto Blue Jays,L,L
+523989,Rubby De La Rosa,P,ARI,Arizona Diamondbacks,R,R
+514913,Ruben Tejada,2B,NYM,New York Mets,R,R
+502168,Rudy Owens,P,HOU,Houston Astros,L,L
+628329,Rusney Castillo,LF,BOS,Boston Red Sox,R,R
+444453,Russ Canzler,3B,PIT,Pittsburgh Pirates,R,R
+431145,Russell Martin,C,LAD,Los Angeles Dodgers,R,R
+621366,Ryan Borucki,P,TOR,Toronto Blue Jays,L,L
+518489,Ryan Brasier,P,BOS,Boston Red Sox,R,R
+460075,Ryan Braun,LF,MIL,Milwaukee Brewers,R,R
+592166,Ryan Brett,2B,TB,Tampa Bay Rays,R,R
+488748,Ryan Buchter,P,OAK,Oakland Athletics,L,L
+621114,Ryan Burr,P,CWS,Chicago White Sox,R,R
+543001,Ryan Carpenter,P,DET,Detroit Tigers,L,L
+624418,Ryan Castellani,P,COL,Colorado Rockies,R,R
+475857,Ryan Cook,P,SEA,Seattle Mariners,R,R
+641477,Ryan Cordell,RF,CWS,Chicago White Sox,R,R
+606956,Ryan Court,SS,SEA,Seattle Mariners,R,R
+572810,Ryan Dennick,P,LAD,Los Angeles Dodgers,L,L
+425491,Ryan Doumit,OF,ATL,Atlanta Braves,S,R
+623430,Ryan Dull,P,TOR,Toronto Blue Jays,R,R
+592280,Ryan Eades,P,BAL,Baltimore Orioles,R,R
+456387,Ryan Feierabend,P,TOR,Toronto Blue Jays,L,L
+475247,Ryan Flaherty,3B,CLE,Cleveland Indians,L,R
+623439,Ryan Garton,P,SEA,Seattle Mariners,R,R
+572365,Ryan Goins,2B,CWS,Chicago White Sox,L,R
+670394,Ryan Gold,C,TOR,Toronto Blue Jays,L,R
+452672,Ryan Hanigan,C,CLE,Cleveland Indians,R,R
+664854,Ryan Helsley,P,STL,St. Louis Cardinals,R,R
+429667,Ryan Howard,1B,PHI,Philadelphia Phillies,L,L
+474249,Ryan Jackson,SS,SEA,Seattle Mariners,R,R
+501888,Ryan Kalish,LF,CHC,Chicago Cubs,L,L
+502462,Ryan Kelly,P,ATL,Atlanta Braves,R,R
+534606,Ryan LaMarre,OF,MIN,Minnesota Twins,R,L
+407798,Ryan Langerhans,1B,TOR,Toronto Blue Jays,L,L
+543432,Ryan Lavarnway,C,CIN,Cincinnati Reds,R,R
+489067,Ryan Lollis,RF,SF,San Francisco Giants,L,L
+407886,Ryan Ludwick,OF,TEX,Texas Rangers,R,L
+425492,Ryan Madson,P,LAD,Los Angeles Dodgers,L,R
+458919,Ryan Mattheus,P,CIN,Cincinnati Reds,R,R
+643436,Ryan McBroom,1B,KC,Kansas City Royals,R,L
+641857,Ryan McMahon,2B,COL,Colorado Rockies,L,R
+664682,Ryan Meisinger,P,STL,St. Louis Cardinals,R,R
+607320,Ryan Merritt,P,CLE,Cleveland Indians,L,L
+656811,Ryan O'Hearn,1B,KC,Kansas City Royals,L,L
+594951,Ryan O'Rourke,P,NYM,New York Mets,R,L
+543634,Ryan Perry,P,WSH,Washington Nationals,R,R
+519151,Ryan Pressly,P,HOU,Houston Astros,R,R
+430605,Ryan Raburn,OF,WSH,Washington Nationals,R,R
+474256,Ryan Reid,P,NYM,New York Mets,L,R
+440251,Ryan Roberts,2B,KC,Kansas City Royals,R,R
+434884,Ryan Rowland-Smith,P,ARI,Arizona Diamondbacks,L,L
+607387,Ryan Rua,LF,TEX,Texas Rangers,R,R
+572114,Ryan Schimpf,3B,LAA,Los Angeles Angels,L,R
+595411,Ryan Sherriff,P,STL,St. Louis Cardinals,L,L
+595005,Ryan Strausborger,LF,TEX,Texas Rangers,R,R
+435220,Ryan Sweeney,OF,CHC,Chicago Cubs,L,L
+572193,Ryan Tepera,P,TOR,Toronto Blue Jays,R,R
+489400,Ryan Verdugo,P,KC,Kansas City Royals,L,L
+285064,Ryan Vogelsong,P,SF,San Francisco Giants,R,R
+444436,Ryan Webb,P,TB,Tampa Bay Rays,R,R
+543901,Ryan Weber,P,BOS,Boston Red Sox,R,R
+572253,Ryan Wheeler,3B,LAA,Los Angeles Angels,L,R
+642232,Ryan Yarbrough,P,TB,Tampa Bay Rays,R,L
+475582,Ryan Zimmerman,1B,WSH,Washington Nationals,R,R
+624507,Ryder Jones,3B,SF,San Francisco Giants,L,R
+542642,Rymer Liriano,RF,CWS,Chicago White Sox,R,R
+607560,Ryne Harper,P,MIN,Minnesota Twins,R,R
+592773,Ryne Stanek,P,MIA,Miami Marlins,R,R
+592387,Ryon Healy,3B,SEA,Seattle Mariners,R,R
+607219,Sal Romano,P,CIN,Cincinnati Reds,L,R
+521692,Salvador Perez,C,KC,Kansas City Royals,R,R
+656322,Sam Coonrod,P,SF,San Francisco Giants,R,R
+451585,Sam Demel,P,NYY,New York Yankees,R,R
+473879,Sam Dyson,P,MIN,Minnesota Twins,R,R
+518693,Sam Freeman,P,LAA,Los Angeles Angels,R,L
+453539,Sam Fuld,LF,OAK,Oakland Athletics,L,L
+543208,Sam Gaviglio,P,TOR,Toronto Blue Jays,R,R
+664059,Sam Haggerty,2B,NYM,New York Mets,S,R
+656529,Sam Hentges,P,CLE,Cleveland Indians,L,L
+656541,Sam Hilliard,RF,COL,Colorado Rockies,L,L
+607572,Sam Howard,P,COL,Colorado Rockies,R,L
+459967,Sam LeCure,P,ARI,Arizona Diamondbacks,R,R
+656726,Sam McWilliams,P,KC,Kansas City Royals,R,R
+594580,Sam Moll,P,TOR,Toronto Blue Jays,L,L
+572125,Sam Selman,P,SF,San Francisco Giants,R,L
+607752,Sam Travis,1B,BOS,Boston Red Sox,R,R
+592815,Sam Tuivailala,P,SEA,Seattle Mariners,R,R
+642279,Samir Duenez,1B,KC,Kansas City Royals,L,R
+519301,Sammy Solis,P,WSH,Washington Nationals,R,L
+465679,Samuel Deduno,P,HOU,Houston Astros,R,R
+645261,Sandy Alcantara,P,MIA,Miami Marlins,R,R
+622783,Sandy Baez,P,DET,Detroit Tigers,R,R
+506702,Sandy Leon,C,BOS,Boston Red Sox,S,R
+466459,Sandy Rosario,P,SF,San Francisco Giants,R,R
+433586,Santiago Casilla,P,OAK,Oakland Athletics,R,R
+571697,Scooter Gennett,2B,SF,San Francisco Giants,L,R
+518397,Scott Alexander,P,LAD,Los Angeles Dodgers,L,L
+425786,Scott Atchison,P,CLE,Cleveland Indians,R,R
+435044,Scott Baker,P,LAD,Los Angeles Dodgers,R,R
+605130,Scott Barlow,P,KC,Kansas City Royals,R,R
+488683,Scott Barnes,P,TOR,Toronto Blue Jays,L,L
+656240,Scott Blewett,P,KC,Kansas City Royals,R,R
+453222,Scott Carroll,P,CWS,Chicago White Sox,R,R
+571577,Scott Copeland,P,NYM,New York Mets,R,R
+539438,Scott Diamond,P,TOR,Toronto Blue Jays,L,L
+455092,Scott Elbert,P,LAD,Los Angeles Dodgers,L,L
+444857,Scott Feldman,P,CIN,Cincinnati Reds,L,R
+430668,Scott Hairston,OF,WSH,Washington Nationals,R,R
+595981,Scott Heineman,RF,TEX,Texas Rangers,R,R
+431148,Scott Kazmir,P,ATL,Atlanta Braves,L,L
+664068,Scott Kingery,CF,PHI,Philadelphia Phillies,R,R
+453186,Scott Maine,P,MIA,Miami Marlins,L,L
+543518,Scott McGough,P,BAL,Baltimore Orioles,R,R
+445599,Scott Moore,3B,HOU,Houston Astros,L,R
+623184,Scott Oberg,P,COL,Colorado Rockies,R,R
+446488,Scott Rice,P,NYM,New York Mets,L,L
+594988,Scott Schebler,CF,CIN,Cincinnati Reds,L,R
+502003,Scott Sizemore,3B,NYY,New York Yankees,R,R
+607087,Scott Snodgress,P,CWS,Chicago White Sox,L,L
+475100,Scott Van Slyke,LF,CIN,Cincinnati Reds,R,R
+430634,Sean Burnett,P,WSH,Washington Nationals,L,L
+592231,Sean Coyle,2B,LAA,Los Angeles Angels,R,R
+448281,Sean Doolittle,P,WSH,Washington Nationals,L,L
+543219,Sean Gilmartin,P,BAL,Baltimore Orioles,L,L
+488936,Sean Halton,1B,MIL,Milwaukee Brewers,R,R
+640455,Sean Manaea,P,OAK,Oakland Athletics,R,L
+445156,Sean Marshall,P,CIN,Cincinnati Reds,L,L
+669221,Sean Murphy,C,OAK,Oakland Athletics,R,R
+656794,Sean Newcomb,P,ATL,Atlanta Braves,L,L
+543594,Sean Nolin,P,MIL,Milwaukee Brewers,L,L
+457711,Sean O'Sullivan,P,BOS,Boston Red Sox,R,R
+664092,Sean Poppen,P,MIN,Minnesota Twins,R,R
+656887,Sean Reid-Foley,P,TOR,Toronto Blue Jays,R,R
+446481,Sean Rodriguez,SS,PHI,Philadelphia Phillies,R,R
+664874,Seby Zavala,C,CWS,Chicago White Sox,R,R
+622554,Seranthony Dominguez,P,PHI,Philadelphia Phillies,R,R
+642727,Sergio Alcantara,SS,DET,Detroit Tigers,S,R
+489265,Sergio Romo,P,MIN,Minnesota Twins,R,R
+435045,Sergio Santos,P,NYY,New York Yankees,R,R
+664913,Seth Brown,1B,OAK,Oakland Athletics,L,L
+571676,Seth Frankoff,P,SEA,Seattle Mariners,R,R
+607625,Seth Lugo,P,NYM,New York Mets,R,R
+595307,Seth Maness,P,KC,Kansas City Royals,R,R
+623180,Seth Mejias-Brean,3B,SD,San Diego Padres,R,R
+519229,Seth Rosin,P,PHI,Philadelphia Phillies,R,R
+452234,Seth Smith,OF,BAL,Baltimore Orioles,L,L
+493200,Seunghwan Oh,P,COL,Colorado Rockies,R,R
+605894,Severino Gonzalez,P,MIA,Miami Marlins,R,R
+623406,Shae Simmons,P,CHC,Chicago Cubs,R,R
+669456,Shane Bieber,P,CLE,Cleveland Indians,R,R
+641438,Shane Carle,P,TEX,Texas Rangers,R,R
+572888,Shane Greene,P,ATL,Atlanta Braves,R,R
+400076,Shane Loux,P,SF,San Francisco Giants,R,R
+451089,Shane Peterson,LF,TB,Tampa Bay Rays,L,L
+453203,Shane Robinson,LF,NYY,New York Yankees,R,R
+425664,Shane Victorino,OF,CHC,Chicago Cubs,S,R
+641312,Shaun Anderson,P,SF,San Francisco Giants,R,R
+451788,Shaun Marcum,P,CLE,Cleveland Indians,R,R
+542888,Shawn Armstrong,P,BAL,Baltimore Orioles,R,R
+429718,Shawn Hill,P,TOR,Toronto Blue Jays,R,R
+518875,Shawn Kelley,P,TEX,Texas Rangers,R,R
+596049,Shawn Morimando,P,CLE,Cleveland Indians,L,L
+502523,Shawn O'Malley,SS,SEA,Seattle Mariners,S,R
+474521,Shawn Tolleson,P,TB,Tampa Bay Rays,R,R
+643418,Shed Long,2B,SEA,Seattle Mariners,L,R
+571946,Shelby Miller,P,TEX,Texas Rangers,R,R
+641914,Sheldon Neuse,3B,OAK,Oakland Athletics,R,R
+582473,Sherman Johnson,2B,LAA,Los Angeles Angels,L,R
+425783,Shin-Soo Choo,LF,TEX,Texas Rangers,L,L
+660271,Shohei Ohtani,DH,LAA,Los Angeles Angels,L,R
+611093,Silvino Bracho,P,ARI,Arizona Diamondbacks,R,R
+501563,Simon Castro,P,OAK,Oakland Athletics,R,R
+435401,Skip Schumaker,OF,SD,San Diego Padres,L,R
+621450,Skye Bolt,RF,OAK,Oakland Athletics,S,R
+571761,Slade Heathcott,CF,NYY,New York Yankees,L,L
+593647,Socrates Brito,RF,TOR,Toronto Blue Jays,L,L
+543243,Sonny Gray,P,CIN,Cincinnati Reds,R,R
+571851,Spencer Kieboom,C,WSH,Washington Nationals,R,R
+607359,Spencer Patton,P,CHC,Chicago Cubs,R,R
+605513,Spencer Turnbull,P,DET,Detroit Tigers,R,R
+516770,Starlin Castro,2B,MIA,Miami Marlins,R,R
+516782,Starling Marte,CF,PIT,Pittsburgh Pirates,R,R
+592233,Stefan Crichton,P,ARI,Arizona Diamondbacks,R,R
+552662,Stefen Romero,RF,SEA,Seattle Mariners,R,R
+506924,Stephen Cardullo,LF,COL,Colorado Rockies,R,R
+452220,Stephen Drew,SS,WSH,Washington Nationals,L,R
+543155,Stephen Fife,P,LAD,Los Angeles Dodgers,R,R
+624427,Stephen Gonsalves,P,MIN,Minnesota Twins,L,L
+621283,Stephen Johnson,P,CIN,Cincinnati Reds,R,R
+668665,Stephen Nogosek,P,NYM,New York Mets,R,R
+572039,Stephen Piscotty,RF,OAK,Oakland Athletics,R,R
+543668,Stephen Pryor,P,MIN,Minnesota Twins,R,R
+544931,Stephen Strasburg,P,WSH,Washington Nationals,R,R
+605501,Stephen Tarpley,P,NYY,New York Yankees,R,L
+519390,Stephen Vogt,C,SF,San Francisco Giants,L,R
+571441,Steve Ames,P,MIA,Miami Marlins,R,R
+518553,Steve Cishek,P,CHC,Chicago Cubs,R,R
+502182,Steve Clevenger,C,SEA,Seattle Mariners,L,R
+447755,Steve Delabar,P,CIN,Cincinnati Reds,R,R
+453580,Steve Edlefsen,P,SF,San Francisco Giants,R,R
+544993,Steve Geltz,P,MIL,Milwaukee Brewers,R,R
+643355,Steve Hathaway,P,ARI,Arizona Diamondbacks,L,L
+489002,Steve Johnson,P,BAL,Baltimore Orioles,R,R
+543459,Steve Lombardozzi,2B,MIA,Miami Marlins,S,R
+456665,Steve Pearce,1B,BOS,Boston Red Sox,R,R
+592731,Steve Selsky,3B,BOS,Boston Red Sox,R,R
+519330,Steve Susdorf,OF,PHI,Philadelphia Phillies,L,L
+476270,Steve Tolleson,2B,TOR,Toronto Blue Jays,R,R
+571467,Steven Baron,C,PIT,Pittsburgh Pirates,R,R
+643230,Steven Brault,P,PIT,Pittsburgh Pirates,L,L
+621453,Steven Duggar,RF,SF,San Francisco Giants,L,R
+452722,Steven Lerud,C,PHI,Philadelphia Phillies,L,R
+571927,Steven Matz,P,NYM,New York Mets,R,L
+570615,Steven Moya,RF,DET,Detroit Tigers,L,R
+595345,Steven Okert,P,SF,San Francisco Giants,L,L
+519306,Steven Souza Jr.,RF,ARI,Arizona Diamondbacks,R,R
+453214,Steven Wright,P,BOS,Boston Red Sox,R,R
+592859,Stevie Wilkerson,CF,BAL,Baltimore Orioles,S,R
+516935,Stolmy Pimentel,P,TEX,Texas Rangers,R,R
+642156,Stuart Turner,C,CIN,Cincinnati Reds,R,R
+516970,Sugar Ray Marimon,P,ATL,Atlanta Braves,R,R
+519008,T.J. McFarland,P,ARI,Arizona Diamondbacks,L,L
+608061,T.J. Rivera,3B,NYM,New York Mets,R,R
+643615,T.J. Zeuch,P,TOR,Toronto Blue Jays,R,R
+592836,Taijuan Walker,P,ARI,Arizona Diamondbacks,R,R
+664196,Tanner Anderson,P,OAK,Oakland Athletics,R,R
+663432,Tanner Rainey,P,WSH,Washington Nationals,R,R
+543699,Tanner Roark,P,OAK,Oakland Athletics,R,R
+489294,Tanner Scheppers,P,TEX,Texas Rangers,R,R
+656945,Tanner Scott,P,BAL,Baltimore Orioles,R,L
+605463,Tayler Scott,P,BAL,Baltimore Orioles,R,R
+664199,Taylor Clarke,P,ARI,Arizona Diamondbacks,R,R
+518566,Taylor Cole,P,LAA,Los Angeles Angels,R,R
+543089,Taylor Davis,C,CHC,Chicago Cubs,R,R
+605214,Taylor Dugas,OF,NYY,New York Yankees,L,L
+605227,Taylor Featherston,2B,TB,Tampa Bay Rays,R,R
+488919,Taylor Green,3B,MIL,Milwaukee Brewers,L,R
+605260,Taylor Guerrieri,P,TEX,Texas Rangers,R,R
+607555,Taylor Guilbeau,P,SEA,Seattle Mariners,L,L
+621368,Taylor Hearn,P,TEX,Texas Rangers,L,L
+592398,Taylor Hill,P,WSH,Washington Nationals,R,R
+518863,Taylor Jordan,P,WSH,Washington Nationals,R,R
+543380,Taylor Jungmann,P,MIL,Milwaukee Brewers,R,R
+592506,Taylor Lindsey,2B,SD,San Diego Padres,L,R
+600301,Taylor Motter,SS,MIN,Minnesota Twins,R,R
+573124,Taylor Rogers,P,MIN,Minnesota Twins,L,L
+460003,Taylor Teagarden,C,CHC,Chicago Cubs,R,R
+543853,Taylor Thompson,P,OAK,Oakland Athletics,R,R
+621493,Taylor Ward,3B,LAA,Los Angeles Angels,R,R
+592865,Taylor Williams,P,MIL,Milwaukee Brewers,S,R
+594027,Tayron Guerrero,P,MIA,Miami Marlins,R,R
+606192,Teoscar Hernandez,LF,TOR,Toronto Blue Jays,R,R
+605253,Terrance Gore,LF,KC,Kansas City Royals,R,R
+519403,Thad Weber,P,TOR,Toronto Blue Jays,R,R
+642731,Thairo Estrada,2B,NYY,New York Yankees,R,R
+489166,Thomas Neal,LF,CHC,Chicago Cubs,R,R
+623381,Thomas Pannone,P,TOR,Toronto Blue Jays,L,L
+600986,Thyago Vieira,P,CWS,Chicago White Sox,R,R
+534947,Tim Adleman,P,CIN,Cincinnati Reds,R,R
+641313,Tim Anderson,SS,CWS,Chicago White Sox,R,R
+542921,Tim Beckham,SS,SEA,Seattle Mariners,R,R
+572718,Tim Berry,P,MIA,Miami Marlins,L,L
+525768,Tim Collins,P,CHC,Chicago Cubs,L,L
+608641,Tim Cooney,P,CLE,Cleveland Indians,L,L
+457422,Tim Dillard,P,MIL,Milwaukee Brewers,R,R
+543148,Tim Federowicz,C,TEX,Texas Rangers,R,R
+657612,Tim Hill,P,KC,Kansas City Royals,R,L
+453311,Tim Lincecum,P,TEX,Texas Rangers,L,R
+641796,Tim Locastro,LF,ARI,Arizona Diamondbacks,R,R
+621005,Tim Lopes,2B,SEA,Seattle Mariners,R,R
+641835,Tim Mayza,P,TOR,Toronto Blue Jays,L,L
+543532,Tim Melville,P,COL,Colorado Rockies,R,R
+623402,Tim Peterson,P,NYM,New York Mets,R,R
+431162,Tim Stauffer,P,ARI,Arizona Diamondbacks,R,R
+543334,TJ House,P,TOR,Toronto Blue Jays,R,L
+434298,Todd Coffey,P,LAD,Los Angeles Dodgers,R,R
+592239,Todd Cunningham,CF,PIT,Pittsburgh Pirates,S,R
+453943,Todd Frazier,3B,NYM,New York Mets,R,R
+445170,Todd Redmond,P,TOR,Toronto Blue Jays,R,R
+664045,Tom Eshelman,P,BAL,Baltimore Orioles,R,R
+452733,Tom Gorzelanny,P,CLE,Cleveland Indians,R,L
+543408,Tom Koehler,P,LAD,Los Angeles Dodgers,R,R
+608596,Tom Murphy,C,SEA,Seattle Mariners,R,R
+452666,Tom Wilhelmsen,P,ARI,Arizona Diamondbacks,R,R
+621512,Tomas Nido,C,NYM,New York Mets,R,R
+542513,Tomas Telis,C,MIA,Miami Marlins,S,R
+669242,Tommy Edman,SS,STL,St. Louis Cardinals,S,R
+474494,Tommy Field,2B,TEX,Texas Rangers,R,R
+462102,Tommy Hanson,P,TEX,Texas Rangers,R,R
+459415,Tommy Hottovy,P,TOR,Toronto Blue Jays,L,L
+488984,Tommy Hunter,P,PHI,Philadelphia Phillies,R,R
+571830,Tommy Joseph,1B,TEX,Texas Rangers,R,R
+592454,Tommy Kahnle,P,NYY,New York Yankees,R,R
+600303,Tommy La Stella,2B,LAA,Los Angeles Angels,L,R
+518927,Tommy Layne,P,NYY,New York Yankees,L,L
+523265,Tommy Medica,1B,MIA,Miami Marlins,R,R
+543548,Tommy Milone,P,SEA,Seattle Mariners,L,L
+502054,Tommy Pham,LF,TB,Tampa Bay Rays,R,R
+473234,Tony Abreu,2B,SF,San Francisco Giants,S,R
+501817,Tony Barnette,P,CHC,Chicago Cubs,R,R
+542999,Tony Campana,CF,LAA,Los Angeles Angels,L,L
+571561,Tony Cingrani,P,STL,St. Louis Cardinals,L,L
+488810,Tony Cruz,C,CIN,Cincinnati Reds,R,R
+664062,Tony Gonsolin,P,LAD,Los Angeles Dodgers,R,R
+448242,Tony Gwynn Jr.,CF,PHI,Philadelphia Phillies,L,R
+643393,Tony Kemp,CF,CHC,Chicago Cubs,L,R
+573113,Tony Renda,2B,BOS,Boston Red Sox,R,R
+506997,Tony Sanchez,C,CIN,Cincinnati Reds,R,R
+448609,Tony Sipp,P,WSH,Washington Nationals,L,L
+453265,Tony Watson,P,SF,San Francisco Giants,L,L
+547172,Tony Wolters,C,COL,Colorado Rockies,L,R
+543964,Tony Zych,P,SEA,Seattle Mariners,R,R
+538506,Toru Murata,P,CLE,Cleveland Indians,L,R
+657053,Touki Toussaint,P,ATL,Atlanta Braves,R,R
+664157,Travis Bergen,P,SF,San Francisco Giants,L,L
+429715,Travis Blackley,P,TEX,Texas Rangers,L,L
+459941,Travis Buck,OF,HOU,Houston Astros,L,R
+518595,Travis d'Arnaud,C,TB,Tampa Bay Rays,R,R
+641513,Travis Demeritte,LF,DET,Detroit Tigers,R,R
+400098,Travis Hafner,DH,NYY,New York Yankees,L,R
+448170,Travis Ishikawa,1B,PIT,Pittsburgh Pirates,L,L
+608671,Travis Jankowski,RF,SD,San Diego Padres,L,R
+664042,Travis Lakins,P,BOS,Boston Red Sox,R,R
+543768,Travis Shaw,3B,MIL,Milwaukee Brewers,L,R
+501983,Travis Snider,RF,TEX,Texas Rangers,L,L
+607369,Travis Taijeron,RF,NYM,New York Mets,R,R
+502023,Travis Tartamella,C,STL,St. Louis Cardinals,R,R
+475243,Travis Wood,P,SD,San Diego Padres,R,L
+572204,Trayce Thompson,RF,CWS,Chicago White Sox,R,R
+477054,Trayvon Robinson,LF,SD,San Diego Padres,S,R
+607208,Trea Turner,SS,WSH,Washington Nationals,R,R
+663757,Trent Grisham,RF,MIL,Milwaukee Brewers,L,L
+663423,Trent Thornton,P,TOR,Toronto Blue Jays,R,R
+668663,Tres Barrera,C,WSH,Washington Nationals,R,R
+545333,Trevor Bauer,P,CIN,Cincinnati Reds,R,R
+457707,Trevor Bell,P,CIN,Cincinnati Reds,L,R
+623143,Trevor Brown,C,SF,San Francisco Giants,R,R
+502239,Trevor Cahill,P,LAA,Los Angeles Angels,R,R
+460067,Trevor Crowe,OF,HOU,Houston Astros,S,R
+641587,Trevor Frank,P,SD,San Diego Padres,R,R
+641627,Trevor Gott,P,SF,San Francisco Giants,R,R
+657610,Trevor Hildenberger,P,MIN,Minnesota Twins,R,R
+665001,Trevor Kelley,P,BOS,Boston Red Sox,R,R
+543507,Trevor May,P,MIN,Minnesota Twins,R,R
+656805,Trevor Oaks,P,KC,Kansas City Royals,R,R
+461858,Trevor Plouffe,3B,PHI,Philadelphia Phillies,R,R
+670950,Trevor Richards,P,TB,Tampa Bay Rays,R,R
+572096,Trevor Rosenthal,P,DET,Detroit Tigers,R,R
+596115,Trevor Story,SS,COL,Colorado Rockies,R,R
+592866,Trevor Williams,P,PIT,Pittsburgh Pirates,R,R
+543270,Trey Haley,P,PIT,Pittsburgh Pirates,R,R
+641820,Trey Mancini,RF,BAL,Baltimore Orioles,R,R
+657022,Trey Supak,P,MIL,Milwaukee Brewers,R,R
+622259,Trey Wingenter,P,SD,San Diego Padres,R,R
+659407,Tristan Pompey,OF,MIA,Miami Marlins,S,R
+461856,Troy Patton,P,MIA,Miami Marlins,S,L
+644428,Troy Scribner,P,ARI,Arizona Diamondbacks,L,R
+657011,Troy Stokes Jr.,LF,DET,Detroit Tigers,R,R
+453064,Troy Tulowitzki,SS,NYY,New York Yankees,R,R
+493159,Tsuyoshi Wada,P,CHC,Chicago Cubs,L,L
+571466,Tucker Barnhart,C,CIN,Cincinnati Reds,L,R
+488912,Tuffy Gosewisch,C,SEA,Seattle Mariners,R,R
+621389,Ty Blach,P,BAL,Baltimore Orioles,R,L
+621142,Ty Buttrey,P,LAA,Los Angeles Angels,L,R
+664034,Ty France,3B,SD,San Diego Padres,R,R
+571841,Ty Kelly,2B,NYM,New York Mets,S,R
+421064,Ty Wigginton,1B,MIA,Miami Marlins,R,R
+641302,Tyler Alexander,P,DET,Detroit Tigers,R,L
+542881,Tyler Anderson,P,COL,Colorado Rockies,L,L
+592122,Tyler Austin,1B,MIL,Milwaukee Brewers,R,R
+641341,Tyler Bashlor,P,NYM,New York Mets,R,R
+595881,Tyler Beede,P,SF,San Francisco Giants,R,R
+543022,Tyler Chatwood,P,CHC,Chicago Cubs,R,R
+461325,Tyler Clippard,P,CLE,Cleveland Indians,R,R
+543031,Tyler Cloyd,P,MIA,Miami Marlins,R,R
+607385,Tyler Collins,RF,DET,Detroit Tigers,L,L
+502125,Tyler Colvin,LF,MIA,Miami Marlins,L,L
+572788,Tyler Cravy,P,MIL,Milwaukee Brewers,R,R
+641501,Tyler Danish,P,CWS,Chicago White Sox,R,R
+608648,Tyler Duffey,P,MIN,Minnesota Twins,R,R
+452095,Tyler Flowers,C,ATL,Atlanta Braves,R,R
+607192,Tyler Glasnow,P,TB,Tampa Bay Rays,L,R
+595963,Tyler Goeddel,LF,CIN,Cincinnati Reds,R,R
+488917,Tyler Graham,LF,ARI,Arizona Diamondbacks,R,R
+460022,Tyler Greene,2B,ATL,Atlanta Braves,R,R
+623168,Tyler Heineman,C,MIA,Miami Marlins,S,R
+600355,Tyler Herb,P,SF,San Francisco Giants,R,R
+534627,Tyler Holt,CF,CIN,Cincinnati Reds,R,R
+641755,Tyler Kinley,P,MIA,Miami Marlins,R,R
+502285,Tyler Ladendorf,2B,OAK,Oakland Athletics,R,R
+544928,Tyler Lyons,P,NYY,New York Yankees,L,L
+641816,Tyler Mahle,P,CIN,Cincinnati Reds,R,R
+554431,Tyler Matzek,P,COL,Colorado Rockies,L,L
+489138,Tyler Moore,1B,MIA,Miami Marlins,R,R
+571980,Tyler Naquin,RF,CLE,Cleveland Indians,L,R
+641933,Tyler O'Neill,LF,STL,St. Louis Cardinals,R,R
+621397,Tyler Olson,P,CLE,Cleveland Indians,R,L
+543629,Tyler Pastornicky,2B,TEX,Texas Rangers,R,R
+543652,Tyler Pill,P,ARI,Arizona Diamondbacks,L,R
+502356,Tyler Robertson,P,WSH,Washington Nationals,L,L
+643511,Tyler Rogers,P,SF,San Francisco Giants,R,R
+573135,Tyler Saladino,SS,MIL,Milwaukee Brewers,R,R
+572140,Tyler Skaggs,P,LAA,Los Angeles Angels,L,L
+642094,Tyler Smith,SS,TEX,Texas Rangers,R,R
+573188,Tyler Sturdevant,P,TB,Tampa Bay Rays,R,R
+592804,Tyler Thornburg,P,BOS,Boston Red Sox,R,R
+642180,Tyler Wade,SS,NYY,New York Yankees,L,R
+621281,Tyler Wagner,P,TEX,Texas Rangers,R,R
+643778,Tyler Webb,P,STL,St. Louis Cardinals,L,L
+643603,Tyler White,1B,LAD,Los Angeles Dodgers,R,R
+592869,Tyler Wilson,P,BAL,Baltimore Orioles,R,R
+592433,Tyrell Jenkins,P,SD,San Diego Padres,R,R
+621438,Tyrone Taylor,CF,MIL,Milwaukee Brewers,R,R
+445204,Tyson Brummett,P,TOR,Toronto Blue Jays,R,R
+475115,Tyson Ross,P,DET,Detroit Tigers,R,R
+624407,Tzu-Wei Lin,2B,BOS,Boston Red Sox,L,R
+434622,Ubaldo Jimenez,P,BAL,Baltimore Orioles,R,R
+474699,Vance Worley,P,MIA,Miami Marlins,R,R
+502195,Vic Black,P,NYM,New York Mets,R,R
+553883,Vicente Campos,P,LAA,Los Angeles Angels,R,R
+622505,Victor Alcantara,P,DET,Detroit Tigers,R,R
+644364,Victor Arano,P,PHI,Philadelphia Phillies,R,R
+605170,Victor Caratini,C,CHC,Chicago Cubs,S,R
+469690,Victor Marte,P,STL,St. Louis Cardinals,R,R
+400121,Victor Martinez,DH,DET,Detroit Tigers,S,R
+622682,Victor Reyes,LF,DET,Detroit Tigers,S,R
+645302,Victor Robles,CF,WSH,Washington Nationals,R,R
+573064,Vidal Nuno III,P,TB,Tampa Bay Rays,L,L
+476570,Vin Mazzaro,P,SF,San Francisco Giants,R,R
+572714,Vince Belnome,1B,TB,Tampa Bay Rays,L,R
+592826,Vince Velasquez,P,PHI,Philadelphia Phillies,R,R
+502260,Vinnie Pestano,P,LAA,Los Angeles Angels,R,R
+665489,Vladimir Guerrero Jr.,3B,TOR,Toronto Blue Jays,R,R
+451584,Wade Davis,P,COL,Colorado Rockies,R,R
+453281,Wade LeBlanc,P,SEA,Seattle Mariners,L,L
+489119,Wade Miley,P,HOU,Houston Astros,L,L
+621111,Walker Buehler,P,LAD,Los Angeles Dodgers,R,R
+621141,Walker Lockett,P,NYM,New York Mets,R,R
+593833,Wander Suero,P,WSH,Washington Nationals,R,R
+593974,Wandy Peralta,P,SF,San Francisco Giants,L,L
+434643,Wandy Rodriguez,P,HOU,Houston Astros,S,L
+599683,Warwick Saupold,P,DET,Detroit Tigers,R,R
+658791,Wei-Chieh Huang,P,TEX,Texas Rangers,R,R
+623913,Wei-Chung Wang,P,PIT,Pittsburgh Pirates,L,L
+612672,Wei-Yin Chen,P,MIA,Miami Marlins,R,L
+456078,Welington Castillo,C,CWS,Chicago White Sox,R,R
+641149,Wes Parsons,P,COL,Colorado Rockies,R,R
+449079,Wesley Wright,P,ARI,Arizona Diamondbacks,R,L
+593160,Whit Merrifield,2B,KC,Kansas City Royals,R,R
+571976,Wil Myers,LF,SD,San Diego Padres,R,R
+408242,Wil Nieves,C,SD,San Diego Padres,R,R
+517448,Wilfredo Boscan,P,ATL,Atlanta Braves,R,R
+541600,Wilfredo Tovar,SS,LAA,Los Angeles Angels,R,R
+501647,Wilin Rosario,1B,COL,Colorado Rockies,R,R
+446868,Wilkin Castillo,C,MIA,Miami Marlins,S,R
+457133,Wilkin Ramirez,RF,MIN,Minnesota Twins,R,R
+516853,Wilking Rodriguez,P,KC,Kansas City Royals,R,R
+501789,Will Harris,P,HOU,Houston Astros,R,R
+605342,Will Locante,P,ARI,Arizona Diamondbacks,L,L
+519025,Will Middlebrooks,3B,TEX,Texas Rangers,R,R
+349193,Will Ohman,P,WSH,Washington Nationals,L,L
+489242,Will Rhymes,2B,TB,Tampa Bay Rays,L,R
+519293,Will Smith,P,SF,San Francisco Giants,R,L
+669257,Will Smith,C,LAD,Los Angeles Dodgers,R,R
+461416,Will Venable,OF,LAD,Los Angeles Dodgers,L,L
+650489,Willi Castro,SS,DET,Detroit Tigers,S,R
+571035,William Cuevas,P,BOS,Boston Red Sox,S,R
+605301,Williams Jerez,P,PIT,Pittsburgh Pirates,L,L
+554234,Williams Perez,P,CHC,Chicago Cubs,R,R
+553902,Willians Astudillo,C,MIN,Minnesota Twins,R,R
+217100,Willie Bloomquist,SS,SEA,Seattle Mariners,R,R
+641432,Willie Calhoun,LF,TEX,Texas Rangers,L,R
+407483,Willie Harris,2B,CIN,Cincinnati Reds,L,R
+575929,Willson Contreras,C,CHC,Chicago Cubs,R,R
+642715,Willy Adames,SS,TB,Tampa Bay Rays,R,R
+591994,Willy Garcia,RF,CWS,Chicago White Sox,R,R
+594694,Wilmer Difo,2B,WSH,Washington Nationals,S,R
+527038,Wilmer Flores,2B,ARI,Arizona Diamondbacks,R,R
+521655,Wilmer Font,P,TOR,Toronto Blue Jays,R,R
+400140,Wilson Betemit,3B,BAL,Baltimore Orioles,S,R
+467092,Wilson Ramos,C,NYM,New York Mets,R,R
+446641,Wilton Lopez,P,COL,Colorado Rockies,R,R
+503449,Wily Peralta,P,KC,Kansas City Royals,R,R
+610141,Wuilmer Becerra,OF,NYM,New York Mets,R,R
+592144,Wynton Bernard,OF,DET,Detroit Tigers,R,R
+593428,Xander Bogaerts,SS,BOS,Boston Red Sox,R,R
+542897,Xavier Avery,LF,SEA,Seattle Mariners,L,L
+458584,Xavier Cedeno,P,CHC,Chicago Cubs,L,L
+294558,Xavier Nady,OF,SD,San Diego Padres,R,R
+449082,Xavier Paul,LF,PHI,Philadelphia Phillies,L,R
+489305,Xavier Scruggs,1B,MIA,Miami Marlins,R,R
+605441,Yacksel Rios,P,PIT,Pittsburgh Pirates,R,R
+592680,Yadiel Rivera,3B,MIA,Miami Marlins,R,R
+665751,Yadier Alvarez,P,LAD,Los Angeles Dodgers,R,R
+425877,Yadier Molina,C,STL,St. Louis Cardinals,R,R
+622168,Yairo Munoz,2B,STL,St. Louis Cardinals,R,R
+666888,Yaisel Sierra,P,LAD,Los Angeles Dodgers,R,R
+543228,Yan Gomes,C,WSH,Washington Nationals,R,R
+650490,Yandy Diaz,3B,TB,Tampa Bay Rays,R,R
+500208,Yangervis Solarte,3B,SF,San Francisco Giants,S,R
+622524,Yankory Pimentel,P,BOS,Boston Red Sox,R,R
+624577,Yasiel Puig,RF,CLE,Cleveland Indians,R,R
+518735,Yasmani Grandal,C,MIL,Milwaukee Brewers,S,R
+630111,Yasmany Tomas,LF,ARI,Arizona Diamondbacks,R,R
+570639,Yefri Perez,SS,MIA,Miami Marlins,S,R
+606162,Yefry Ramirez,P,PIT,Pittsburgh Pirates,R,R
+622075,Yency Almonte,P,COL,Colorado Rockies,S,R
+660546,Yennsy Diaz,P,TOR,Toronto Blue Jays,R,R
+553872,Yhonathan Barrios,P,MIL,Milwaukee Brewers,S,R
+554340,Yimi Garcia,P,LAD,Los Angeles Dodgers,R,R
+661255,Yoan Lopez,P,ARI,Arizona Diamondbacks,R,R
+660162,Yoan Moncada,3B,CWS,Chicago White Sox,S,R
+493316,Yoenis Cespedes,LF,NYM,New York Mets,R,R
+500721,Yoervis Medina,P,PIT,Pittsburgh Pirates,R,R
+456071,Yohan Flande,P,COL,Colorado Rockies,L,L
+464416,Yohan Pino,P,KC,Kansas City Royals,R,R
+622795,Yohander Mendez,P,TEX,Texas Rangers,L,L
+570560,Yolmer Sanchez,2B,CWS,Chicago White Sox,S,R
+602074,Yonathan Daza,LF,COL,Colorado Rockies,R,R
+475174,Yonder Alonso,1B,COL,Colorado Rockies,L,R
+630023,Yonny Chirinos,P,TB,Tampa Bay Rays,R,R
+670541,Yordan Alvarez,1B,HOU,Houston Astros,L,R
+570649,Yordano Ventura,P,KC,Kansas City Royals,R,R
+600915,Yorman Landa,P,MIN,Minnesota Twins,R,R
+550298,Yorman Rodriguez,CF,CIN,Cincinnati Reds,R,R
+150275,Yorvit Torrealba,C,LAA,Los Angeles Angels,R,R
+673633,Yoshihisa Hirano,P,ARI,Arizona Diamondbacks,R,R
+506648,Yoslan Herrera,P,LAA,Los Angeles Angels,R,R
+451596,Yovani Gallardo,P,TEX,Texas Rangers,R,R
+644374,Yu Chang,SS,CLE,Cleveland Indians,R,R
+506433,Yu Darvish,P,CHC,Chicago Cubs,R,R
+493329,Yuli Gurriel,1B,HOU,Houston Astros,R,R
+488862,Yunel Escobar,3B,LAA,Los Angeles Angels,R,R
+493337,Yunesky Maya,P,WSH,Washington Nationals,R,R
+579328,Yusei Kikuchi,P,SEA,Seattle Mariners,L,L
+433589,Yusmeiro Petit,P,OAK,Oakland Athletics,R,R
+657205,Zac Curtis,P,TEX,Texas Rangers,L,L
+668678,Zac Gallen,P,ARI,Arizona Diamondbacks,R,R
+665093,Zac Grotz,P,SEA,Seattle Mariners,R,R
+643617,Zac Reininger,P,DET,Detroit Tigers,S,R
+573127,Zac Rosscup,P,LAD,Los Angeles Dodgers,R,L
+503483,Zach Clark,P,BAL,Baltimore Orioles,R,R
+605200,Zach Davies,P,MIL,Milwaukee Brewers,R,R
+435043,Zach Duke,P,CIN,Cincinnati Reds,L,L
+621107,Zach Eflin,P,PHI,Philadelphia Phillies,R,R
+608339,Zach Green,1B,SF,San Francisco Giants,R,R
+621106,Zach Jemiola,P,COL,Colorado Rockies,L,R
+545346,Zach Lee,P,SD,San Diego Padres,R,R
+623183,Zach Lovvorn,P,KC,Kansas City Royals,R,R
+518963,Zach Lutz,3B,NYM,New York Mets,R,R
+502083,Zach McAllister,P,TEX,Texas Rangers,R,R
+435261,Zach Miner,P,PHI,Philadelphia Phillies,R,R
+594943,Zach Neal,P,CIN,Cincinnati Reds,R,R
+452061,Zach Phillips,P,PIT,Pittsburgh Pirates,L,L
+668676,Zach Plesac,P,CLE,Cleveland Indians,R,R
+474029,Zach Putnam,P,CWS,Chicago White Sox,R,R
+543819,Zach Stewart,P,CWS,Chicago White Sox,R,R
+572227,Zach Vincej,SS,SEA,Seattle Mariners,R,R
+595025,Zach Walters,LF,LAD,Los Angeles Dodgers,S,R
+502154,Zack Britton,P,NYY,New York Yankees,L,L
+641470,Zack Collins,C,CWS,Chicago White Sox,L,R
+446359,Zack Cozart,3B,LAA,Los Angeles Angels,R,R
+643327,Zack Godley,P,TOR,Toronto Blue Jays,R,R
+643335,Zack Granite,CF,TEX,Texas Rangers,L,L
+425844,Zack Greinke,P,HOU,Houston Astros,R,R
+572958,Zack Jones,P,MIL,Milwaukee Brewers,R,R
+641793,Zack Littell,P,MIN,Minnesota Twins,R,R
+592848,Zack Weiss,P,CIN,Cincinnati Reds,R,R
+554430,Zack Wheeler,P,NYM,New York Mets,L,R
+543809,Zeke Spruill,P,BOS,Boston Red Sox,R,R
+519412,Zelous Wheeler,3B,NYY,New York Yankees,R,R
+501660,Zoilo Almonte,LF,ATL,Atlanta Braves,S,R
